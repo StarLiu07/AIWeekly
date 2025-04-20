@@ -2,6 +2,7 @@
 import requests  # 用于发送HTTP请求
 from bs4 import BeautifulSoup  # 用于解析HTML
 import json  # 用于处理数据（可选）
+from datetime import datetime  # 用于获取当前日期
 
 # 需要用户自行添加的请求头（将在代码中用注释指导获取）
 # 1. 打开Chrome浏览器
@@ -28,8 +29,6 @@ soup = BeautifulSoup(response.text, 'html.parser')
 # 经过分析，发现每个新闻条目的class是 media
 news_items = soup.select('.news-item')
 
-print(f"Number of news items found: {len(news_items)}")
-print(soup.prettify())
 
 # 将内容写入txt文件
 with open('ai_news.txt', 'w', encoding='utf-8') as f:
@@ -39,6 +38,7 @@ with open('ai_news.txt', 'w', encoding='utf-8') as f:
         if title_element:
             title = title_element.text.strip()
             link = title_element['href']
-            f.write(f"{title}\n{link}\n\n")
+            current_date = datetime.now().strftime("%Y-%m-%d")
+            f.write(f"{current_date} {title}\n{link}\n\n")
         else:
-            print("title_element is None")
+            pass
