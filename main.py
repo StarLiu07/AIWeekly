@@ -26,7 +26,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 # 查找新闻条目（需要根据实际网页结构调整选择器）
 # 经过分析，发现每个新闻条目的class是 media
-news_items = soup.select('.media')
+news_items = soup.select('.news-item')
 
 print(f"Number of news items found: {len(news_items)}")
 print(soup.prettify())
@@ -35,10 +35,10 @@ print(soup.prettify())
 with open('ai_news.txt', 'w', encoding='utf-8') as f:
     for item in news_items:
         # 提取标题和链接
-        title_element = item.select_one('.media-heading a')
+        title_element = item.select_one('.news-content h2 a')
         if title_element:
             title = title_element.text.strip()
-            link = item.select_one('.media-heading a')['href']
+            link = title_element['href']
             f.write(f"{title}\n{link}\n\n")
         else:
             print("title_element is None")
