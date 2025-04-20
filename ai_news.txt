@@ -1,1566 +1,2088 @@
-2025-04-20 智谱完成北京市人工智能产业投资基金追加投资，Z 基金出资3亿支持全球开源社区
-https://mp.weixin.qq.com/s/NAFGkVHoNhHRDFaTXdZR4Q
-
-2025-04-20 腾讯混元开源定制化图像生成插件InstantCharacter，“一张图一句话”搞定角色生成
-https://mp.weixin.qq.com/s/t5kR44NShOJ1xfIopmG3_Q
-
-2025-04-20 通义万相2.1首尾帧模型开源！细节真实生动，丝滑流畅
-https://mp.weixin.qq.com/s/vLaWADGarHRBpSqa5UkM0A
-
-2025-04-20 智平方发布全新一代智能机器人AlphaBot 2，开启AGI终端新时代
-https://mp.weixin.qq.com/s/vLaWADGarHRBpSqa5UkM0A
-
-2025-04-20 OpenAI 推出最强推理模型 o3 和 o4-mini，支持“图像思考”与多模态推理
-https://ai-bot.cn/openai-o3/
-
-2025-04-20 字节跳动正式发布豆包1.5深度思考模型，文生图模型升级至3.0
-https://ai-bot.cn/seed-thinking-v1-5/
-
-2025-04-20 再创开源多模态大模型性能标杆，书生·万象3.0升级发布，创新预训练方法
-https://mp.weixin.qq.com/s/rb_gVjQTuwdx0hse6KuAkA
-
-2025-04-20 消息称 OpenAI 考虑以 30 亿美元收购人工智能编程工具 Windsurf
-https://www.ithome.com/0/845/837.htm
-
-2025-04-20 Anthropic官方推出了两个重磅新功能：Research 与 Google Workspace 集成
-https://mp.weixin.qq.com/s/SwFOS0P9CPGy2zg5VM2T5A
-
-2025-04-20 微信上线首个AI助手“元宝”，聊天答题与文件解析功能齐备
-https://mp.weixin.qq.com/s/wmsCfDkFy9hc5AkR0W3cbg
-
-2025-04-20 国际版 Trae IDE 正式支持 Gemini 2.5 Pro 和 GPT-4.1
-https://ai-bot.cn/trae/
-
-2025-04-20 谷歌 Veo 2 视频生成模型入驻 Gemini，可创建 8 秒 720p 视频
-https://www.ithome.com/0/845/534.htm
-
-2025-04-20 xAI 旗下Grok 推出 Grok Studio 功能：可 AI 编辑创建文档、代码、报告等
-https://ai-bot.cn/grok-studio/
-
-2025-04-20 OpenAI ChatGPT 上线图库功能，更轻松管理 AI 生成图片
-https://www.ithome.com/0/845/521.htm
-
-2025-04-20 AI 音乐商用创作平台Mureka火爆海外，正式开放国内登陆入口和API
-https://mp.weixin.qq.com/s/5haAL6iMejEyM8wjjirpZg
-
-2025-04-20 中国第一家启动IPO的“大模型六虎”来袭！智谱融资超160亿，美国OpenAI也将IPO
-https://mp.weixin.qq.com/s/5haAL6iMejEyM8wjjirpZg
-
-2025-04-20 快手发布可灵 2.0 视频生成模型及可图 2.0 图像生成模型，国产AI视频新突破
-https://ai-bot.cn/klingi2-0/
-
-2025-04-20 OpenAI发布GPT-4.1系列模型：编码、指令遵循和长文本处理能力大幅提升
-https://ai-bot.cn/openai-gpt-4-1/
-
-2025-04-20 魔搭上线最大MCP中文社区，独家首发支付宝、MiniMax等MCP
-https://mp.weixin.qq.com/s/MTzth48-WEFvO3yA5XkMew
-
-2025-04-20 智谱启用全新全球域名“z.ai”，开源高性能GLM模型系列
-https://mp.weixin.qq.com/s/pyeqH8jGvH_dVPmekOQ1VQ
-
-2025-04-20 MiniMax MCP Server 上线：多模态能力，一键触达
-https://mp.weixin.qq.com/s/ZlCviVVkd-SNC_0Bb9n87g
-
-2025-04-20 Hugging Face 收购 Pollen Robotics，进军人形机器人市场
-https://www.ithome.com/0/845/273.htm
-
-2025-04-20 字节跳动最新思考模型，Seed-Thinking-v1.5技术细节公开
-https://mp.weixin.qq.com/s/WJc9b2cB-Io0YNrBQvfYBA
-
-2025-04-20 重新认识阿里：大踏步迈向 AI
-https://mp.weixin.qq.com/s/uNlSpOh4HsZqTUDZ8GUw6w
-
-2025-04-20 云鲸再获1亿美金融资，腾讯、北京机器人基金领投，重押具身智能，迈向Pre-IPO
-https://36kr.com/p/3245800572960390
-
-2025-04-20 昆仑万维推出Skywork-OR1系列模型，同规模下性能超越阿里QwQ-32B，对齐DeepSeek-R1
-https://mp.weixin.qq.com/s/tEIaqE07Z5j_tAl31ElK8w
-
-2025-04-20 OPPO 推出的小布助手网页版上线，登录 OPPO 账号可同步手机端历史对话记录
-https://ai-bot.cn/xiaobu-ai/
-
-2025-04-20 OpenAI 宣布 ChatGPT 自 4 月 30 日起停用 GPT-4 模型，全面升级至 4o 版本
-https://mp.weixin.qq.com/s/IdyZc1Nz4kOVpErE-0TlqA
-
-2025-04-20 OpenAI宣布ChatGPT新功能，新增长期记忆功能，可以记住过去所有的聊天记录
-https://mp.weixin.qq.com/s/NLixAJp8bfUsPgNPUMAaJw
-
-2025-04-20 傅利叶发布首款开源人形机器人 Fourier N1，加速行业生态共建
-https://mp.weixin.qq.com/s/XvaB8uexQxLY__NLS2xufA
-
-2025-04-20 商汤发布「日日新SenseNova V6」大模型，助力机器人具身智能升级
-https://mp.weixin.qq.com/s/qcj2xBAvin6eAnU-YQvQdg
-
-2025-04-20 谷歌发布 Gemini 2.5 Flash AI 模型：专为省钱高效而生
-https://ai-bot.cn/gemini-2-5-flash/
-
-2025-04-20 Anthropic 推出 Claude Max 订阅计划，月费最高 200 美元
-https://www.ithome.com/0/844/141.htm
-
-2025-04-20 谷歌Deep Research迎来重大升级，搭载Gemini 2.5 Pro模型，性能超OpenAI
-https://mp.weixin.qq.com/s/Tmuzdhi212vunT7JtwFtzg
-
-2025-04-20 继 OpenAI 后，谷歌 Gemini 模型将支持 Anthropic 的 MCP 协议
-https://www.ithome.com/0/844/163.htm
-
-2025-04-20 悠船宣布MidJourney V7模型正式上线：图像生成质量大幅提升
-https://mp.weixin.qq.com/s/42EUWyP3o4VAoR1OUDlM6w
-
-2025-04-20 谷歌推出 Agent2Agent（A2A）协议，实现 AI 智能体之间的互操作性
-https://ai-bot.cn/a2a/
-
-2025-04-20 谷歌推出AI编程工具 Firebase Studio，一站式完成全栈应用的构建、修改和部署
-https://ai-bot.cn/firebase-studio/
-
-2025-04-20 连续完成A及A+轮融资，星尘智能获锦秋基金、蚂蚁集团等领投
-https://mp.weixin.qq.com/s/qazmZ26ddcXXthsT1AT3WA
-
-2025-04-20 alphaXiv推出「Deep Research for arXiv」功能，让文献检索秒速完成
-https://mp.weixin.qq.com/s/IAdpqmlvFHGOF_iHsG7IFg
-
-2025-04-20 阿里云百炼上线业界首个全生命周期MCP服务，5分钟搭建专属AI智能体
-https://mp.weixin.qq.com/s/xEBkxqxy4JpCsR5cC6wXhQ
-
-2025-04-20 火山引擎推出AI数据专家“Data Agent”，企业数据全场景智能体
-https://mp.weixin.qq.com/s/BXmmTDNxYBphAqUhhHxcYA
-
-2025-04-20 「AI硬件」闯出一匹黑马“小智AI”，2个月接入设备增长10万台
-https://mp.weixin.qq.com/s/VbV0IBJIQvcKCuvw95PNtg
-
-2025-04-20 亚马逊推出全新 AI 语音模型 Nova Sonic，低价高质冲击 AI 语音市场
-https://ai-bot.cn/nova-sonic/
-
-2025-04-20 英伟达开源Llama Nemotron-253B推理模型，吞吐量较DeepSeek R1提升4倍
-https://mp.weixin.qq.com/s/QbUTBKG9vrIVTA-6qII2gg
-
-2025-04-20 美图WHEE推出全新图像生成模型Miracle F1，告别AI作品“塑料感”
-https://mp.weixin.qq.com/s/_4zS02BcchLFLvT7OdiQXA
-
-2025-04-20 斯坦福李飞飞团队发布《2025年人工智能指数报告》：揭示12大趋势，AI变革加速
-https://ai-bot.cn/ai-tutorials-artificial-intelligence-index-report-2025/
-
-2025-04-20 阶跃星辰发布多模态推理模型Step-R1-V-Mini，高精度感知图像完成复杂推理任务
-https://mp.weixin.qq.com/s/84-m-C_AW4e5B21vLml_pw
-
-2025-04-20 亚马逊升级 AI 视频模型 Nova Reel，最长可生成两分钟多镜头视频
-https://www.ithome.com/0/843/656.htm
-
-2025-04-20 超越特斯拉，全球自由度最高的北京灵巧手创企，灵心巧手拿下超亿融资
-https://zhidx.com/p/474263.html
-
-2025-04-20 英伟达斥资数亿美元收购 Lepton AI ，联创贾扬清和白俊杰均已入职英伟达
-https://mp.weixin.qq.com/s/jtUGGymAh-RxG_QbTi7MEw
-
-2025-04-20 DeepSeek 联合清华大学发布 DeepSeek-GRM 模型，推理时可扩展性显著提升
-https://ai-bot.cn/deepseek-grm/
-
-2025-04-20 Meta 开源的多模态系列 AI 模型— —Llama 4，重夺开源王座
-https://ai-bot.cn/llama-4/
-
-2025-04-20 Midjourney 发布 AI 图片生成模型 V7，新增“草图模式”支持语音生图
-https://ai-bot.cn/midjourney-v7/
-
-2025-04-20 全球风投交易量暴降32%！一季度AI赛道融资额占58%，亚洲不足10%
-https://www.tmtpost.com/7519944.html
-
-2025-04-20 OpenRouter 推出 Quasar Alpha：百万 Token 上下文的 AI 模型免费开放
-https://ai-bot.cn/quasar-alpha/
-
-2025-04-20 微软 Copilot 增加记忆、操控网页、创建播客等海量功能，打造独一无二 AI 伴侣
-https://www.ithome.com/0/843/145.htm
-
-2025-04-20 微软 Bing 重大革新：Copilot Search 上线，AI 与传统搜索结合
-https://www.ithome.com/0/843/150.htm
-
-2025-04-20 即梦 3.0 绘图模型上线，中文 AI 绘图能力迎来最强表现
-https://ai-bot.cn/sites/17772.html
-
-2025-04-20 商汤科技2025技术交流日：AI 2.0新生态与“强推理”全新日日新 6.0 AI 模型
-https://mp.weixin.qq.com/s/N5W-TQe_67sEO8twqq-0Jg
-
-2025-04-20 前百度高管创立的 Genspark 推出通用智能体，免费开放使用，无需邀请码
-https://ai-bot.cn/genspark/
-
-2025-04-20 谷歌 AI 笔记应用 NotebookLM 新增“发现资料”功能，可自动检索相关网络资源
-https://ai-bot.cn/sites/21562.html
-
-2025-04-20 元鼎智能完成近10亿元融资，携手Fluidra加速全球市场布局
-https://mp.weixin.qq.com/s/2h2evuK4MXUhEKVJnrU9yA
-
-2025-04-20 Augment Code 发布 AI 编程助手 Augment Agent，可处理数百万行代码项目
-https://ai-bot.cn/augment-agent/
-
-2025-04-20 OpenAI 推出免费 AI 学习平台 OpenAI Academy，覆盖普通小白到技术的各层次人群
-https://ai-bot.cn/openai-academy/
-
-2025-04-20 Sam Altman宣布，ChatGPT 的文生图功能现已面向所有免费用户开放
-https://ai-bot.cn/sites/30.html
-
-2025-04-20 智元机器人与国际顶尖 Physical Intelligence（Pi）携手，引领具身智能全球创新
-https://mp.weixin.qq.com/s/Fy1aYK7X3ZlM_19viLPyiw
-
-2025-04-20 阿里通义千问登顶全球开源模型榜首
-https://www.jiemian.com/article/12558170.html
-
-2025-04-20 MiniMax Audio推出Speech-02系列语音模型，一次性可以输入20万字符
-https://ai-bot.cn/minimax-audio/
-
-2025-04-20 Krea AI 宣布推出 Gemini 图像编辑功能，可通过自然语言编辑图片
-https://ai-bot.cn/sites/7050.html
-
-2025-04-20 国家天文台基于通义千问打造国际首个太阳大模型——“金乌”
-https://mp.weixin.qq.com/s/h4eaYrUsKDRHGgYr-kwatA
-
-2025-04-20 Runway发布AI视频生成模型Gen-4，一张照片生成连贯全片，首次实现“世界一致性”
-https://ai-bot.cn/runway-gen-4/
-
-2025-04-20 亚马逊推出 Nova Act：可操控网页浏览器的 AI 智能体
-https://ai-bot.cn/amazon-nova-act/
-
-2025-04-20 OpenAI宣布将开源推理模型，首次计划发布开放权重语言模型
-https://mp.weixin.qq.com/s/-QgYzgV0l5o_esB4vD9Zaw
-
-2025-04-20 OpenAI完成400亿美元融资，估值3000亿美元，资金用于AI研究及扩大计算基础设施
-https://mp.weixin.qq.com/s/8QaiZp-9JJAA83zgE9Sllg
-
-2025-04-20 智谱推出首个免费、具备深度研究和操作能力的AI Agent：AutoGLM沉思
-https://ai-bot.cn/autoglm-research/
-
-2025-04-20 千寻智能完成5.28亿元Pre-A轮融资，领先VLA模型加速具身智能落地
-https://mp.weixin.qq.com/s/5PBdfxQuVwJreSDn0WirpA
-
-2025-04-20 面壁发布首个纯端侧智能助手cpmGO，构建汽车超性能端侧大脑
-https://mp.weixin.qq.com/s/roeIL7mkEgDIAObqoy36ww
-
-2025-04-20 AI Agent 产品 Manus 公布收费方案：提供 39 美元和 199 美元两种套餐
-https://www.ithome.com/0/841/523.htm
-
-2025-04-20 擎朗智能发布首款人形具身服务机器人“XMAN-R1”，可完成“点单-配餐-送餐-收餐”等长任务闭环
-https://mp.weixin.qq.com/s/GmH6ru3OGrMpgc6rUo_T2g
-
-2025-04-20 智源发布首个跨本体具身大小脑协作框架与开源具身大脑RoboBrain
-https://mp.weixin.qq.com/s/TUO72q7j3fwQUcb0HVoROw
-
-2025-04-20 国产视频大模型的全球引领，生数科技在中关村论坛重磅发布Vidu Q1模型
-https://mp.weixin.qq.com/s/D70hBWDvy6BG3hlujOGKBA
-
-2025-04-20 百度文小言官宣支持多模型调度，升级端到端语音大模型、图片问答能力
-https://www.ithome.com/0/842/033.htm
-
-2025-04-20 马斯克xAI收购X，总估值8000亿，开启AI与社交融合新纪元
-https://mp.weixin.qq.com/s/RscQsje6nA4mHPVvOQZQUQ
-
-2025-04-20 阿里通义千问推出视觉推理模型 QVQ-Max：可分析、推理图片和视频内容
-https://www.ithome.com/0/841/374.htm
-
-2025-04-20 GPT-4o「吉卜力风」一夜爆火，奥特曼连夜换头像！宫崎骏痛批AI侮辱生命
-https://mp.weixin.qq.com/s/9qzPALAmXmIaMPu7TuaRuQ
-
-2025-04-20 华为ModelEngine全流程AI开发工具链正式开源！
-https://mp.weixin.qq.com/s/CRzeCEalSvSurgC0WnHibw
-
-2025-04-20 豆包新版深度思考开启测试，支持边想边搜
-https://mp.weixin.qq.com/s/GmLjK5Zl0-xWUCzqKTrLGg
-
-2025-04-20 Ideogram 3.0 发布：AI 绘图领域的新突破
-https://mp.weixin.qq.com/s/CRzeCEalSvSurgC0WnHibw
-
-2025-04-20 可灵AI平台全面升级，新增AI音效与资产管理功能
-https://mp.weixin.qq.com/s/z0x6HJdwN4EbYXv6Z8xG4A
-
-2025-04-20 阿里开源全模态模型Qwen2.5-Omni，7B尺寸实现全球最强性能
-https://mp.weixin.qq.com/s/ih5sDrlKZwt2F-0O4PE5KQ
-
-2025-04-20 腾讯ima知识号正式上线，助力知识创作与管理
-https://mp.weixin.qq.com/s/osv2pfaGLwtHoqOOP6-Y4Q
-
-2025-04-20 DeepSeek全新版本API上线讯飞星辰MaaS平台
-https://mp.weixin.qq.com/s/GauprvV3jxrj4KzP7xQylg
-
-2025-04-20 OpenAI宣布Agent SDK 正式支持 MCP 服务，解锁无限工具扩展
-https://www.ithome.com/0/841/042.htm
-
-2025-04-20 微信 AI 搜索新增“快速思考”，采用混元 T1 模型
-https://www.ithome.com/0/840/869.htm
-
-2025-04-20 谷歌发布Gemini 2.5 Pro，多项测试夺冠，推理能力全面超越OpenAI
-https://mp.weixin.qq.com/s/U5AO2-oj84F726DZYIMUyQ
-
-2025-04-20 昆仑万维发布全球首款音乐推理大模型Mureka O1，中国AI音乐革命领跑全球
-https://mp.weixin.qq.com/s/1JPYXUwX-1JAVpz3IgygtQ
-
-2025-04-20 瑞典AI初创公司Lovable，3个月收入达1.2亿，AI编程市场新奇迹
-https://ai-bot.cn/lovable/
-
-2025-04-20 OpenAI发布GPT-4o图像生成功能，免费向用户开放
-https://www.ithome.com/0/840/746.htm
-
-2025-04-20 它石智航官宣天使轮融资1.2亿美元，开启具身智能创业新征程
-https://mp.weixin.qq.com/s/GDxOTgxtp2zURc9W8IYTGg
-
-2025-04-20 谷歌Gemini Live推出实时AI视频新功能，实时交互能力再升级
-https://mp.weixin.qq.com/s/Z0pHFSAci8SGC_LS1ZUO-Q
-
-2025-04-20 DeepSeek V3模型已完成小版本升级，可在官方网页、APP、小程序试用体验
-https://ai-bot.cn/deepseek-v3/
-
-2025-04-20 阿里开源Qwen2.5-VL-32B多模态模型，视觉语言与数学推理能力显著增强
-https://ai-bot.cn/qwen2-5-vl-32b/
-
-2025-04-20 Trae 支持配置 DeepSeek V3 最新版
-https://mp.weixin.qq.com/s/BGfewWIWVklfs9Jal86a_A
-
-2025-04-20 美团已开发内部大模型 LongCat，AI 策略是主动进攻
-https://www.ithome.com/0/840/222.htm
-
-2025-04-20 百度“秒哒”正式全量上线，国内首个对话式应用开发平台
-https://ai-bot.cn/miaoda/
-
-2025-04-20 OpenAI推出三大音频模型，语音交互技术迈向新高度
-https://mp.weixin.qq.com/s/fab8tYA_Xse5kL6v6uCF0A
-
-2025-04-20 腾讯混元自研深度思考模型「T1」正式发布
-https://mp.weixin.qq.com/s/38ilIogkFK8tbgRFDSXdSw
-
-2025-04-20 生数科技用AI赋能国内动漫短剧市场，7部千万级网文IP改编概念短片
-https://mp.weixin.qq.com/s/K1T2xD1fUM5Is9hDmBh1jA
-
-2025-04-20 全球客服AI先锋Shulex完成亿元级融资，加速AI数字员工开发与全球化布局
-https://ai-bot.cn/shulex/
-
-2025-04-20 Anthropic AI 聊天机器人 Claude 新增联网搜索功能
-https://www.ithome.com/0/839/630.htm
-
-2025-04-20 百川智能携手北京儿童医院发布全球首个儿科大模型“福棠·百川”，双医模式助力基层医疗
-https://mp.weixin.qq.com/s/jaVorxPrXS1m8ehf9kd5WQ
-
-2025-04-20 OpenAI 推出最贵 o1-pro API，定价远超 DeepSeek
-https://mp.weixin.qq.com/s/gIeKKMO9oBl55HiBBKc3hQ 
-
-2025-04-20 飞书字段捷径 —— Kimi 招聘助手上线，助力企业高效招聘
-https://mp.weixin.qq.com/s/Pq41R8j1N78K6lhoePm8-w
-
-2025-04-20 阶跃星辰开源图生视频模型 Step-Video-TI2V，运动可控，动漫效果尤佳！
-https://mp.weixin.qq.com/s/p2O1rMp9suVHKfxOUG9RiA
-
-2025-04-20 黄仁勋甩出三代核弹AI芯片！个人超算每秒运算1000万亿次，DeepSeek成最大赢家
-https://mp.weixin.qq.com/s/ITMdYNE99Ankv7qnC7rWvA
-
-2025-04-20 豆包编程能力再升级，3分钟做出专属小游戏
-https://mp.weixin.qq.com/s/jAXSlFzUXUTIHQF1aazTYQ
-
-2025-04-20 谷歌 Gemini 更新：新增音频播客、Canvas 画布与 Deep Research 扩容
-https://blog.google/products/gemini/gemini-collaboration-features/
-
-2025-04-20 马斯克xAI公司收购视频生成初创公司Hotshot，加速布局AI视频领域
-https://mp.weixin.qq.com/s/DgYseRVqfOy8_HvZC5aFbg
-
-2025-04-20 谷歌达成迄今最大一笔收购交易，320 亿美元现金买下云安全公司 Wiz
-https://www.ithome.com/0/838/834.htm
-
-2025-04-20 腾讯 Hunyuan3D 2.0 开源：几何与纹理分离，一键生成高精度3D模型
-https://ai-bot.cn/hunyuan3d-2-0/
-
-2025-04-20 Cursor 推出 Claude 3.7 Max：更强大的代码编辑与项目管理
-https://ai-bot.cn/claude-3-7-max/
-
-2025-04-20 昆仑万维开源R1V视觉思维链推理模型，开启多模态思考新时代
-https://mp.weixin.qq.com/s/1UklNyBKy9h-t47KoXyjPA
-
-2025-04-20 秘塔AI搜索升级：文字秒变可视化网页
-https://mp.weixin.qq.com/s/sk0KF9c1MPhpS2oGH-UIKA
-
-2025-04-20 苏姿丰北京激情演讲！点赞DeepSeek，AMD全面拥抱中国
-https://mp.weixin.qq.com/s/8Xbf9kp5A_sa_a2IgmbsFg
-
-2025-04-20 Mistral Small 3.1 上线，多模态理解与文本性能双重升级
-https://ai-bot.cn/mistral-small-3-1/
-
-2025-04-20 QwQ-32B登陆！超算互联网MaaS服务再上新
-https://mp.weixin.qq.com/s/Eywr-CLETZDj5izuJzt4cA
-
-2025-04-20 蝴蝶效应备案manus.cn顶级域名，此前曾称尽快将创新体验带给中文用户
-https://www.cls.cn/detail/1974035
-
-2025-04-20 ima智能工作台升级：五大新功能助力高效办公与创作
-https://mp.weixin.qq.com/s/4zDFjLOzUdrKm2QOG3u4XA
-
-2025-04-20 新浪财经APP喜娜AI助手赋能财经资讯：AI摘要与公告解读新突破
-https://ai-bot.cn/sina-xina-ai/
-
-2025-04-20 谷歌 Gemini 2.0 Flash 模型拥有强大图片去水印功能，或触犯版权红线
-https://www.ithome.com/0/838/290.htm
-
-2025-04-20 百度发布文心大模型4.5及X1，两款模型免费上线
-https://mp.weixin.qq.com/s/mwuO5c6vAcfQE3g_DkB4uw
-
-2025-04-20 零一万物推出万智，打通企业大模型“最后一公里”，确认不再做超大基模迭代
-https://mp.weixin.qq.com/s/OjTCkhYNOfhc62tsvTDvcg
-
-2025-04-20 清华团队开源“赤兔”推理引擎，FP8模型部署成本减半、速度翻番
-https://ai-bot.cn/chitu/
-
-2025-04-20 对话姜哲源：3.99万元背后，我们想成为人形机器人赛道的小米和苹果
-https://www.tmtpost.com/7494943.html
-
-2025-04-20 谷歌免费开放Deep Research功能：人人皆可深度探索信息
-https://ai-bot.cn/sites/736.html
-
-2025-04-20 谷歌Gemini 2.0 Flash全模态图像生成上线，动嘴就能P图
-https://ai-bot.cn/gemini-2-0-flash/
-
-2025-04-20 潞晨科技重磅开源 Open-Sora 2.0，视频大模型降本提速
-https://mp.weixin.qq.com/s/4HXT63hSWdmN7rzaUCN1sA
-
-2025-04-20 谷歌推出新一代开源模型 Gemma 3，单卡最强多模态模型
-https://ai-bot.cn/gemma-3/
-
-2025-04-20 阿里巴巴推出AI旗舰应用——新夸克，发布“AI超级框”
-https://mp.weixin.qq.com/s/YH_vd6DaA4nEc_iypiPs0A
-
-2025-04-20 理想汽车推出“理想同学网页版”，集成DeepSeek R1与MindGPT双模型
-https://mp.weixin.qq.com/s/9u6h6GReTO9c3ra2Rbac7Q
-
-2025-04-20 智元机器人与阶跃星辰达成战略合作，共同探索AI+具身智能场景
-https://mp.weixin.qq.com/s/M6Quyfp3QdKZ0pbuc2nW-g
-
-2025-04-20 Trae功能上新：支持 Remote-SSH 和自定义模型配置
-https://mp.weixin.qq.com/s/MRqQE1aHepAwviGO95E1ig
-
-2025-04-20 OpenAI 发布 Agent 工具包，助力开发者构建智能体
-https://mp.weixin.qq.com/s/40eeCBkNSgVhDD8sAQSReA
-
-2025-04-20 豆包文生图技术报告发布！数据处理、预训练、RLHF全流程公开
-https://mp.weixin.qq.com/s/3E4s2c7TcWQ_g_6DdJPJkQ
-
-2025-04-20 李飞飞团队新成果 BEHAVIOR Robot Suite：500美元打造全能家务机器人
-https://mp.weixin.qq.com/s/UOaSgQ0d9aK94nk7l-Kbkg
-
-2025-04-20 Manus将与阿里通义千问团队正式达成战略合作
-https://mp.weixin.qq.com/s/_F5bRtzheW1AAWO9bvFbEw
-
-2025-04-20 DeepSeek-R1 & V3 API 再升级，支持批量推理，R1 价格直降 75%
-https://mp.weixin.qq.com/s/6QJzLeElCFnBVf0jtI41GA
-
-2025-04-20 智元机器人发布灵犀X2：双足人形机器人解锁情感交互与灵活运动新技能
-https://ai-bot.cn/products-x2/
-
-2025-04-20 字节推出音效生成模型 SeedFoley，一键生成大片感音效！
-https://ai-bot.cn/seedfoley/
-
-2025-04-20 阿里开源 R1-Omni：DeepSeek 同款 RLVR 技术赋能全模态情感识别
-https://ai-bot.cn/r1-omni/
-
-2025-04-20 豆包大模型团队 COMET 系统开源，万卡集群部署节省数百万 GPU 小时
-https://mp.weixin.qq.com/s/Mpfz3QaK761_-BxzQM54Kw
-
-2025-04-20 百度文心快码推出Zulu：从需求到代码的端到端生成
-https://ai-bot.cn/zulu/
-
-2025-04-20 科大讯飞联合华为率先实现国产算力大规模跨节点专家并行集群推理
-https://mp.weixin.qq.com/s/5HDxl2KaI87iqEJm-HesMQ
-
-2025-04-20 百度上线“月匣”App，第4次冲击AI社交
-https://ai-bot.cn/yuexia/
-
-2025-04-20 OpenAI 发布 CoT 思维链研究成果，监控阻止大模型恶意行为
-https://www.ithome.com/0/836/852.htm
-
-2025-04-20 鸿海首个大语言模型 FoxBrain 发布：具备推理能力
-https://ai-bot.cn/foxbrain/
-
-2025-04-20 Manus 沙盒代码被获取，基座模型为：Claude Sonnet 及阿里 Qwen 微调模型
-https://www.yicai.com/news/102504492.html
-
-2025-04-20 MetaGPT 团队推出 OpenManus ：开源版 Manus
-https://ai-bot.cn/openmanus/
-
-2025-04-20 智元发布首个通用具身基座大模型GO-1
-https://mp.weixin.qq.com/s/vG_VQcDYPojg-1DZ9DXoGQ
-
-2025-04-20 超算互联网QwQ-32B API接口服务上线，免费100万Tokens
-https://mp.weixin.qq.com/s/La5FT1EXrWjJf_YdT8UazA
-
-2025-04-20 北京大学联合华为发布全栈开源DeepSeek推理方案
-https://mp.weixin.qq.com/s/YtulR7kb9pNYFybNf-dfbA
-
-2025-04-20 CAMEL-AI推出OWL项目：0天复刻Manus，开源且性能卓越
-https://mp.weixin.qq.com/s/0AWaSNynyjjY5TpdtKN-3w
-
-2025-04-20 Mistral AI 推出 Mistral OCR API：最快最准光学字符识别，千页 1 美元
-https://ai-bot.cn/mistral-ocr/
-
-2025-04-20 OpenAI 更新 macOS 版 ChatGPT，可在 Xcode 等 IDE 中直接编辑代码
-https://www.ithome.com/0/836/016.htm
-
-2025-04-20 全球首款通用 AI Agent 产品 Manus 发布，刷新 AI 基准测试纪录
-https://ai-bot.cn/manus/
-
-2025-04-20 腾讯混元开源图生视频模型，上线音频与动作驱动能力，助力创意视频创作
-https://ai-bot.cn/hunyuanvideo-i2v/
-
-2025-04-20 通义千问QwQ-32B，更小尺寸，性能比肩全球最强开源推理模型
-https://mp.weixin.qq.com/s/LnM4lHm1_dGqe-nrmpJhyg
-
-2025-04-20 逐际动力半年完成5亿元融资，阿里、蔚来、联想等巨头加持
-https://36kr.com/p/3193229175579270
-
-2025-04-20 智源开源多模态向量模型BGE-VL：多模态检索新突破
-https://mp.weixin.qq.com/s/i7-WGF1wWkYwYeTo8rl7pA
-
-2025-04-20 Cohere 推出 Aya Vision，突破多语言多模态 AI 新纪元
-https://ai-bot.cn/aya-vision/
-
-2025-04-20 Vidu API 开放平台全面开放，开启智能化内容生产范式
-https://mp.weixin.qq.com/s/VfrQusBQZ26sBh5qTeXUNg
-
-2025-04-20 OpenAI宣布提供3.6亿，联合15个大学和机构建立NextGenAI教育联盟
-https://mp.weixin.qq.com/s/9VGr0KXg5TxdUo9eMlFxyw
-
-2025-04-20 智谱发布开源图像生成模型CogView4，首个支持中英双语，图像生成迎来新突破
-https://mp.weixin.qq.com/s/X8U8JfmO013mUn6HEbiPXA
-
-2025-04-20 通义灵码上新Qwen2.5-Max模型，体验数学和编程双冠王能力
-https://mp.weixin.qq.com/s/51fTnZyZS_6shyYwl27zKg
-
-2025-04-20 Anthropic完成35亿美元E轮融资，估值飙升至615亿美元
-https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
-
-2025-04-20 秘塔AI搜索推出视频搜索功能，高效学习娱乐新体验
-https://mp.weixin.qq.com/s/34kuMLWLoTk3EqpvkwdTcQ
-
-2025-04-20 百川智能调整业务布局，聚焦医疗领域
-https://mp.weixin.qq.com/s/twRQmfMJns4B9q3wsiTYLA
-
-2025-04-20 智谱AI完成超10亿元新轮战略融资，杭州城投产业基金参与投资
-https://mp.weixin.qq.com/s/O66XmezmJmBOGoeRQzQvNA
-
-2025-04-20 中国首款AI IDE：Trae国内版发布，配置豆包1.5pro，支持切换满血版DeepSeek模型
-https://mp.weixin.qq.com/s/MQ9G78930MV19muQ0po-5w
-
-2025-04-20 MiniMax Video-01系列收官，海螺视频App全球上线
-https://mp.weixin.qq.com/s/YFiBuDqw8zfl2ADNVepojg
-
-2025-04-20 科大讯飞星火X1升级，推出星火一体机及多款新品
-https://mp.weixin.qq.com/s/E5GYwIbnhcewoGB2uSjJAQ
-
-2025-04-20 亚马逊推出Alexa+：五大技术突破 AI 助手新体验
-https://mp.weixin.qq.com/s/r2CDoVHsIiGr4ElAwp7Wnw
-
-2025-04-20 “腾讯元宝电脑版”正式发布：混元大模型 / DeepSeek 双模切换
-https://ai-bot.cn/sites/12946.html
-
-2025-04-20 飞书推出个人 AI 知识库“飞书知识问答”，支持调用 DeepSeek R1
-https://ai-bot.cn/ask-feishu/
-
-2025-04-20 夸克AI搜索上线深度思考，新亮点，新体验！
-https://mp.weixin.qq.com/s/KccxpnJ4Sb_EcFQl-no4Yw
-
-2025-04-20 Trae已全量支持Claude 3.7！免费！
-https://ai-bot.cn/trae/
-
-2025-04-20 OpenAI发布GPT-4.5：更智能、更具情商的聊天模型
-https://ai-bot.cn/gpt-4-5/
-
-2025-04-20 DeepSeek开源高性能并行文件系统 3FS 实现聚合吞吐 6.6 TiB/s
-https://ai-bot.cn/3fs/
-
-2025-04-20 百度文心大模型4.5，3月16日正式上线
-https://mp.weixin.qq.com/s/fErfpPI5opivfBQpj-151Q
-
-2025-04-20 荣耀、阿里在 AI 领域达成合作：千问、万相等多个模型已接入 YOYO 智能体
-https://www.ithome.com/0/834/324.htm
-
-2025-04-20 腾讯混元新一代快思考模型 Turbo S 发布，实现秒级响应
-https://mp.weixin.qq.com/s/BwQkXpEitOm1Piz60SE-4A
-
-2025-04-20 DeepSeek开源新动作：三大并行计算优化技术，助力大模型训练效率飞跃
-https://ai-bot.cn/dualpipe/
-
-2025-04-20 Anthropic 全面开放 Claude AI 的 GitHub 集成，赋能所有开发者
-https://www.ithome.com/0/834/005.htm
-
-2025-04-20 微软开源Phi4多模态与Phi4-Mini：端侧AI迎来最强小模型
-https://ai-bot.cn/phi-4-multimodal/
-
-2025-04-20 DeepSeek API 错峰优惠，R1 价格降至1/4
-https://mp.weixin.qq.com/s/w20Mf30lHTk_lAKE5kH-cg
-
-2025-04-20 阿里云开源视频生成大模型“Wan2.1”，全模态、全尺寸助力全球开发者
-https://ai-bot.cn/wan2-1/
-
-2025-04-20 DeepSeek开源FP8 GEMM库：极致优化Hopper GPU性能，助力AI训练与推理
-https://ai-bot.cn/deepgemm/
-
-2025-04-20 谷歌推出 Gemini Code Assist 个人版编程工具，免费可用
-https://ai-bot.cn/gemini-code-assist/
-
-2025-04-20 Claude 3.7 Sonnet发布：AI推理与编码能力的双重突破
-https://ai-bot.cn/claude-3-7-sonnet/
-
-2025-04-20 DeepSeek 开源通信库 DeepEP，大幅提升 MoE 模型训练与推理效率
-https://ai-bot.cn/deepep/
-
-2025-04-20 ChatGPT 变身苹果 Safari 浏览器默认搜索引擎
-https://www.ithome.com/0/833/385.htm
-
-2025-04-20 阿里Qwen团队发布推理模型QwQ，会展示完整的思维链
-https://ai-bot.cn/qwq-max/
-
-2025-04-20 Perplexity 官宣“Comet”浏览器，主打“AI 智能体搜索”
-https://www.ithome.com/0/833/458.htm
-
-2025-04-20 字节AI加速调整，豆包正测试深度思考模型，暂未接入DeepSeek
-https://mp.weixin.qq.com/s/wzGsDffzd4EgmDCVPPRqfQ
-
-2025-04-20 DeepSeek 开源周首日推出 FlashMLA，为 Hopper GPU 优化的高效 MLA 解码内核
-https://ai-bot.cn/flashmla/
-
-2025-04-20 LiblibAI一年内完成四轮融资，再次斩获数亿元资金
-https://mp.weixin.qq.com/s/_0ZKDZHzF83PovlpMatqIg
-
-2025-04-20 爱诗科技推出PixVerse V4：5秒生成AI视频，音画同步
-https://mp.weixin.qq.com/s/cp9NxT5Ha8uQyks3xvVvTA
-
-2025-04-20 LiblibAI 作为独家 AIGC 创作合作平台接入阶跃开源视频生成大模型
-https://mp.weixin.qq.com/s/cnpT-MnBBEq-6ez4tW0FBw
-
-2025-04-20 马斯克宣布 Grok 3 语音模式早期测试版已上线
-https://www.ithome.com/0/832/978.htm
-
-2025-04-20 月之暗面 Kimi 开源“Moonlight”混合专家模型
-https://ai-bot.cn/moonlight-16b-a3b/
-
-2025-04-20 小红书将接入DeepSeek，AI搜索“点点”iOS版下载量总计约20万
-https://mp.weixin.qq.com/s/L7OS03Vs_VePmtIp_YD_8Q
-
-2025-04-20 DeepSeek 官宣下周陆续开源 5 个代码库，每日解锁新内容
-https://www.ithome.com/0/832/584.htm
-
-2025-04-20 Figure推出Helix：凭单神经网络实现上身控制与自然语言交互
-https://ai-bot.cn/helix/
-
-2025-04-20 Spotify 启动 AI 配音有声书服务，29 种语言可供选择
-https://www.ithome.com/0/832/529.htm
-
-2025-04-20 腾讯元宝升级：DeepSeek图生文功能上线
-https://mp.weixin.qq.com/s/mZTSG8PpFsXbAdr9eMu0yA
-
-2025-04-20 英伟达推出 Signs AI 平台，助力美式手语学习与无障碍沟通
-https://ai-bot.cn/signs/
-
-2025-04-20 「捏 Ta」X「清影」达成战略合作，多模态模型商业化持续发力
-https://mp.weixin.qq.com/s/iu-Ymm2961P3aPpPnAx8dg
-
-2025-04-20 ima App安卓端正式上线 云存储空间扩容至2GB
-https://mp.weixin.qq.com/s/Cnpp88wTHTKRt1Q_FIchIQ
-
-2025-04-20 xAI 公司宣布 Grok 3 限时免费开放，直到服务器不堪重负为止
-https://www.ithome.com/0/832/280.htm
-
-2025-04-20 Codeium 获新一轮融资，估值推至 28.5 亿美元
-https://www.ithome.com/0/832/254.htm
-
-2025-04-20 「灵境AI」完成数百万元种子轮融资，打造AI时代文创IP“造梦新基建”
-https://mp.weixin.qq.com/s/eJ8VNhMWCYzOFNxGlNQOSQ
-
-2025-04-20 「灵宝CASBOT」完成超亿元天使轮融资，加速推进人形机器人量产进程
-https://36kr.com/p/3170949892205056
-
-2025-04-20 OpenAI 推出大模型测试基准 SWE-Lancer
-https://ai-bot.cn/swe-lancer/
-
-2025-04-20 硅基流动完成新一轮亿元人民币融资
-https://mp.weixin.qq.com/s/NyStkbw_JgTulQ-RiA2V4A
-
-2025-04-20 xAI 发布 Grok 3 聊天机器人，性能较前代提升十倍
-https://ai-bot.cn/grok-3/
-
-2025-04-20 月之暗面推出最新模型：Kimi Latest，开放平台同步上线
-https://mp.weixin.qq.com/s/cS0DGGqUP1JOFSnzFWiqJQ
-
-2025-04-20 阶跃星辰联合吉利首次开源，为开源世界贡献多模态力量
-https://mp.weixin.qq.com/s/_mmwfiA7L3UQMflPFevVGg
-
-2025-04-20 秘塔AI搜索推出“浅度研究”功能，2-3分钟完成数百网页分析
-https://mp.weixin.qq.com/s/L9lUlYJglyp9iMsr9DcJAw
-
-2025-04-20 昆仑万维开源中国首个面向AI短剧创作的视频生成模型，重塑AI短剧行业格局
-https://mp.weixin.qq.com/s/ZIYC_tr7dZ3kmUrrajpXjg
-
-2025-04-20 Mistral 推出首个专业区域语言模型：专精阿拉伯语和印度起源语言
-https://ai-bot.cn/mistral-saba/
-
-2025-04-20 字节Trae Win+Mac版全量上线，免费无限量使用Claude
-https://ai-bot.cn/trae/
-
-2025-04-20 浙江大学推出DeepSeek系列专题线上公开课
-https://ai-bot.cn/ai-tutorials-deepseek-open-courses-of-zhejiang-university/
-
-2025-04-20 xAI即将发布Grok 3，马斯克称之为“地球上最聪明的人工智能”
-https://www.yicai.com/news/102474261.html
-
-2025-04-20 腾讯元宝再更新：DeepSeek R1+腾讯混元T1「双核」驱动
-https://ai-bot.cn/hunyuan-t1/
-
-2025-04-20 AI搜索新突破：Perplexity推出Deep Research免费深度研究功能
-https://ai-bot.cn/perplexity-deep-research/
-
-2025-04-20 腾讯多款产品接入DeepSeek-R1模型，全面升级AI体验
-https://mp.weixin.qq.com/s/say_ux45kyj7n0m1vDZCvA
-
-2025-04-20 中国AI变局：腾讯、百度接入DeepSeek模型，字节反思，“大模型六虎”加速分化
-https://www.tmtpost.com/7457507.html
-
-2025-04-20 问小白上线DeepSeek-R1满血版，实测为官网最佳平替！
-https://ai-bot.cn/wenxiaobai-deepseek-r1/
-
-2025-04-20 通义灵码全新上线模型选择功能，新增支持 DeepSeek-V3 和 DeepSeek-R1 模型
-https://mp.weixin.qq.com/s/EfxDOFKJ_atVQJZzoyIayg
-
-2025-04-20 昆仑万维发布Matrix-Zero世界模型，开启空间智能新时代
-https://mp.weixin.qq.com/s/ch33UFxGt0fijOTePgVIVA
-
-2025-04-20 谷歌 Gemini 宣布上线“全局记忆”功能，订阅用户可令 AI 回忆曾经所有对话
-https://www.ithome.com/0/830/769.htm
-
-2025-04-20 OpenAI 将在未来几个月内推出 GPT-5：整合 o3 等多项技术，可免费无限使用
-https://mp.weixin.qq.com/s/ZZamc2jcPdTLzDSCG7-O-Q
-
-2025-04-20 文心一言 4 月起全面免费，上线深度搜索功能
-https://mp.weixin.qq.com/s/lk7g2bhjBX45NHYDxU2D3w
-
-2025-04-20 Adobe Firefly 开放 AI 视频生成，一键搞定 5 秒 1080P 视频
-https://ai-bot.cn/sites/726.html
-
-2025-04-20 腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索
-https://ai-bot.cn/sites/12946.html
-
-2025-04-20 华为小艺助手网页端上线人人可用：支持 R1 深度思考
-https://ai-bot.cn/huawei-xiaoyi/
-
-2025-04-20 Agentic GLM全面登陆三星最新款手机Galaxy S25
-https://mp.weixin.qq.com/s/AhKJQvPrwK6FTiOEjxpdpQ
-
-2025-04-20 苹果抛弃DeepSeek，选择与阿里合作开发中国iPhone AI 功能
-https://mp.weixin.qq.com/s/b-fJpzSha7ihBvMI2asHdA
-
-2025-04-20 七家国产芯片鼎力支持！无问芯穹异构云打通DeepSeek-R1多芯片适配优化
-https://mp.weixin.qq.com/s/8fsWyMy29z7JjUX4wC6DLQ
-
-2025-04-20 字节跳动推出UltraMem架构，推理成本较MoE最高降83%
-https://mp.weixin.qq.com/s/BPGbzAQ5AKPj7yqrOCCuGQ
-
-2025-04-20 港大与字节跳动发布Goku+，AI视频生成技术颠覆广告创作
-https://ai-bot.cn/goku/
-
-2025-04-20 OpenAI、谷歌、Roblox 等联手，成立新组织以保障 AI 时代儿童安全
-https://www.ithome.com/0/829/968.htm
-
-2025-04-20 庖丁科技宣布完成新一轮融资，金山办公及顺为联合领投
-https://36kr.com/p/3160609616370181
-
-2025-04-20 沙特将向 AI 芯片创企 Groq 投资 15 亿美元，支持后者在沙 AI 基础设施扩建
-https://www.ithome.com/0/829/973.htm
-
-2025-04-20 OpenAI CEO 深夜发文：AI 成本每年暴跌 10倍，2035 年人人都有超级大脑
-https://mp.weixin.qq.com/s/YGYwpcMGV7wjE1iXn3k-qA
-
-2025-04-20 晚点对话王小川丨不是文本创作、不是物理模型，AGI 的尽头是生命科学
-https://mp.weixin.qq.com/s/2mNpUufYJeQcUkcVwghi5g
-
-2025-04-20 VideoWorld开源：多方合作打造仅靠视觉认知世界的视频生成模型
-https://mp.weixin.qq.com/s/mXaktIsD3w5BgCJQb6R7xQ
-
-2025-04-20 美国网约车巨头 Lyft 同 Anthropic 达成合作：Claude 将为百万司机提供服务
-https://www.ithome.com/0/829/755.htm
-
-2025-04-20 吴恩达团队发布AI新成果：零样本标记助力图片目标检测
-https://ai-bot.cn/agentic-object-detection/
-
-2025-04-20 昆仑万维旗下天工AI正式上线DeepSeek R1+联网搜索
-https://mp.weixin.qq.com/s/mFdTTwDwkpUNHtU08nJ0Dw
-
-2025-04-20 Pika新功能Pikadditions上线，用AI为视频“加料”
-https://ai-bot.cn/pikadditions/
-
-2025-04-20 Github重磅发布Agent模式和Copilot Edits，主动修复错误代码
-https://ai-bot.cn/sites/45.html
-
-2025-04-20 软银即将完成对 OpenAI 的 400 亿美元投资，超越微软成为最大金主
-https://www.ithome.com/0/829/290.htm
-
-2025-04-20 OpenAI 更新 o3-mini 模型思维链展示方式，提高 AI 推理透明度
-https://mp.weixin.qq.com/s/_Y8Y_KWHbLxXclXzQ_7f4A
-
-2025-04-20 欧洲的 OpenAI，Mistral AI 推出 iOS 和 安卓APP
-https://ai-bot.cn/le-chat-app/
-
-2025-04-20 《麻省理工科技评论》点评中国AI“四剑客”，每家都媲美DeepSeek
-https://www.jiqizhixin.com/articles/2025-02-07-9
-
-2025-04-20 谷歌 Magic Editor 集成 SynthID，“火眼金睛”识别 AI 造假
-https://www.ithome.com/0/829/175.htm
-
-2025-04-20 OpenAI 与加州州立大学达成迄今最大的AI教育合作
-https://36kr.com/p/3156001746868736
-
-2025-04-20 DeepSeek声明：社交平台仅三个账号，一切声称与官方群组有关收费行为均系假冒
-https://mp.weixin.qq.com/s/u5coDiS5lXKjENlu1ghcoQ
-
-2025-04-20 OpenAI 放大招：ChatGPT 搜索功能无需注册人人可用，分钟级别解析全网信息
-https://www.ithome.com/0/828/808.htm
-
-2025-04-20 谷歌发布Gemini 2.0 Pro，全型号刷榜，原生多模态，编程、物理模拟能力炸裂
-https://mp.weixin.qq.com/s/gKCEwLV9JjF0Rr0NETP8ng
-
-2025-04-20 前追觅中国区执行总裁郭人杰创业，「乐享科技」宣布完成近2亿元天使轮融资
-https://36kr.com/p/3142202686265865
-
-2025-04-20 字节跳动推出 OmniHuman 多模态框架：图片+音频 = 逼真动画
-https://ai-bot.cn/omnihuman/
-
-2025-04-20 训练成本不到 50 美元，研究人员打造出媲美 OpenAI o1 的推理模型
-https://ai-bot.cn/s1/
-
-2025-04-20 一场关于DeepSeek的高质量闭门会：比技术更重要的是愿景
-https://mp.weixin.qq.com/s/a7C5NjHbMGh2CLYk1bhfYw
-
-2025-04-20 5人创业国产AI搜索火了，小红书Reddit都在推！比Perplexity留存更高
-https://ai-bot.cn/hika/
-
-2025-04-20 Adobe Acrobat AI 助手新增合同理解与比对功能，月费 5 美元
-https://ai-bot.cn/sites/8594.html
-
-2025-04-20 SB OpenAI Japan成立！2025年首个最火AI赛道开打
-https://mp.weixin.qq.com/s/9wcPHQTHUefGVKurX_TIqA
-
-2025-04-20 华为小艺助手接入 DeepSeek，升级纯血鸿蒙 HarmonyOS NEXT 即可体验
-https://www.ithome.com/0/828/657.htm
-
-2025-04-20 Figure AI与OpenAI“分手”，人形机器人公司与大模型公司重新划定边界
-https://www.yicai.com/news/102460559.html
-
-2025-04-20 Ai2推出开源模型Tülu 3 405B，性能超越DeepSeek V3与GPT-4o
-https://ai-bot.cn/tulu-3/
-
-2025-04-20 OpenAI 推出 Deep Research 深度研究功能，助力复杂任务高效解决
-https://ai-bot.cn/deep-research/
-
-2025-04-20 秘塔AI接入满血版DeepSeek R1推理模型
-https://mp.weixin.qq.com/s/-3cN_AxqtydWSQzDc5DOUQ
-
-2025-04-20 OpenAI 更新 ChatGPT Canvas 工具：上线 o1 模型、支持渲染 HTML / React 代码
-https://www.ithome.com/0/828/328.htm
-
-2025-04-20 OpenAI发布新的推理模型o3-mini，性能提升 24%
-https://ai-bot.cn/openai-o3-mini/
-
-2025-04-20 阿里云通义千问旗舰版模型Qwen2.5-Max全新升级发布
-https://ai-bot.cn/qwen2-5-max/
-
-2025-04-20 DeepSeek推出人人可用的开源视觉多模态AI模型Janus-Pro
-https://ai-bot.cn/janus-pro/
-
-2025-04-20 通义开源两大AI模型：支持理解长视频和捕捉事件等能力
-https://mp.weixin.qq.com/s/Am_c8NFfKZhHj59GcG6ZBg
-
-2025-04-20 开源全模态模型Baichuan-Omni-1.5上线，多项能力跑赢GPT-4o mini
-https://mp.weixin.qq.com/s/QiL5CfTgkLMOLiTW6TgbkQ
-
-2025-04-20 可灵AI创意特效上线啦！好玩儿到停不下来！
-https://ai-bot.cn/sites/13002.html
-
-2025-04-20 中国电信发布“复杂推理大模型”TeleAI-t1-preview：能解《九章算术》题目
-https://ai-bot.cn/teleai-t1-preview/
-
-2025-04-20 GLM-4V-Plus 大模型能理解长达2小时视频
-https://ai-bot.cn/glm-4v-plus/
-
-2025-04-20 扎克伯格持续建设“AI 帝国”：Meta 今年将投入最多 650 亿美元
-https://www.ithome.com/0/827/437.htm
-
-2025-04-20 OpenAI正式发布智能体Operator！能推理、联网自主执行任务
-https://ai-bot.cn/operator/
-
-2025-04-20 百川智能发布深度思考模型，同时具备语言、视觉和搜索三大领域推理能力
-https://mp.weixin.qq.com/s/hv8dYkKCimEadH9xFnGMtA
-
-2025-04-20 跃问App上新「创意板」功能，零代码实现应用与游戏创作
-https://ai-bot.cn/yuewen-chuangyiban/
-
-2025-04-20 JetBrains发布AI编程Agent，助力开发者提升代码效率与质量
-https://ai-bot.cn/junie/
-
-2025-04-20 智谱GLM-PC开放体验：自主操作电脑的多模态Agent再升级
-https://ai-bot.cn/glm-pc/
-
-2025-04-20 字节跳动推出的开源原生 GUI 代理模型
-https://ai-bot.cn/ui-tars/
-
-2025-04-20 Step-Video 开年震撼升级：更强大的真实世界模拟器来了
-https://mp.weixin.qq.com/s/GXi7RjvdiQqjkUWGJrOVsA
-
-2025-04-20 Perplexity发布Sonar API，提供实时信息搜索功能
-https://ai-bot.cn/sonar/
-
-2025-04-20 谷歌 Gemini 2.0 Flash Thinking 强化版发布，登上 Chatbot Arena 榜首
-https://ai-bot.cn/gemini-2-0-flash-thinking/
-
-2025-04-20 字节启动 Seed Edge，加码 AGI 研究
-https://mp.weixin.qq.com/s/6Epg3iRvzEczGuSSQdBzEA
-
-2025-04-20 豆包大模型1.5正式发布，全面上线火山方舟
-https://mp.weixin.qq.com/s/ARilxStUARgF_bBrlAa7cw
-
-2025-04-20 可灵AI重磅升级，「多图参考」功能上新
-https://ai-bot.cn/sites/13002.html
-
-2025-04-20 特朗普联合OpenAI启动5000亿美元“星际之门”AI项目，用于建设AI基础设施
-https://mp.weixin.qq.com/s/KDXkdkLfBq_3caiIA92rKA
-
-2025-04-20 有道子曰-o1推理模型正式发布！消费级显卡即可部署
-https://mp.weixin.qq.com/s/F-X6rm4McWrqDWr7nGNL_Q
-
-2025-04-20 清影2.0重磅更新，模型能力大幅提升
-https://mp.weixin.qq.com/s/Jbb7f8b89UqpDfTG27d9TQ
-
-2025-04-20 k1.5 新模型登场：Kimi 如何做到满血版多模态o1水平
-https://mp.weixin.qq.com/s/BmOKGKjXP2tjmPyNdU0Hqg
-
-2025-04-20 DeepSeek-R1 发布，性能对标 OpenAI o1 正式版
-https://mp.weixin.qq.com/s/atKyfC5l-BaStje8-F3FGQ
-
-2025-04-20 小红书AI翻译功能上线，网友玩转Prompt，背后大模型引关注
-https://mp.weixin.qq.com/s/RWaKZ0mhbQXGlOoxkbGs6Q
-
-2025-04-20 阶跃星辰Step-1o重大升级，多模态视觉双榜夺冠，国内第一
-https://mp.weixin.qq.com/s/kDh_vyyoUwa63MFA1ImdRw
-
-2025-04-20 书生·浦像超高动态成像算法：AIGC叠加HDR，捕捉细节，平衡曝光
-https://mp.weixin.qq.com/s/JGddwpCN7jKk_X1sJuvIgg
-
-2025-04-20 秘塔AI搜索上线“阅读模式”，PDF阅读体验全面升级
-https://mp.weixin.qq.com/s/U-Rv2UhsXdNWON-9bRhbXw
-
-2025-04-20 字节跳动推出全新AI IDE：Trae，基于Claude模型免费使用
-https://ai-bot.cn/trae/
-
-2025-04-20 豆包实时语音大模型上线即开放！情商智商双高
-https://mp.weixin.qq.com/s/CIiS5WJO7u97sJ9Ui2dtTw
-
-2025-04-20 阶跃星辰语言模型上新：既有文学大师，又有性价比之王
-https://mp.weixin.qq.com/s/56HqHmwdn9EMrctw-qIFag
-
-2025-04-20 商汤「日日新融合大模型交互版」开放商用，限时免费
-https://mp.weixin.qq.com/s/GUEuHGfJAAbH2G3FAu7dKA
-
-2025-04-20 全球首个亿级参数量地震波大模型今年对外开放
-https://www.ithome.com/0/825/695.htm
-
-2025-04-20 香港大学携手快手科技推出 GameFactory 框架，突破游戏场景泛化难题
-https://ai-bot.cn/gamefactory/
-
-2025-04-20 如何识别AI生成图片？腾讯上线「鉴别工具」
-https://mp.weixin.qq.com/s/4CHrVfKZxegCD7qgQDBmyw
-
-2025-04-20 晚点对话 MiniMax 闫俊杰：创业没有天选之子
-https://mp.weixin.qq.com/s/VBnm3KCsYd4fuXcBpDgiaA
-
-2025-04-20 智谱清言APP推出“2025克穷暴富”春节活动，赢现金红包庆新年
-https://mp.weixin.qq.com/s/KsVT58QJrNdwCTaxY-1mGg
-
-2025-04-20 Luma AI推出Ray2视频生成模型，算力扩大10倍
-https://ai-bot.cn/luma-ray2/
-
-2025-04-20 马斯克 xAI 再放大招：网页版 Grok 上线，无需 X 账户
-https://www.ithome.com/0/824/972.htm
-
-2025-04-20 阿里再投具身智能，清华大学孵化的星动纪元完成最新一轮融资
-https://www.cls.cn/detail/1920990
-
-2025-04-20 豆包电脑版和网页版全新上线AI编程新功能，帮你高效解决编程难题
-https://ai-bot.cn/doubao-aibiancheng/
-
-2025-04-20 智谱Realtime、4V、Air新模型发布，上线bigmodel.cn
-https://mp.weixin.qq.com/s/jpwClxbl2514AzSfgYVEeA
-
-2025-04-20 阶跃星辰推理模型 Step R-mini 全量上线跃问网页版
-https://ai-bot.cn/step-r-mini/
-
-2025-04-20 腾讯会议全新升级，上线AI小助手Pro
-https://mp.weixin.qq.com/s/0Jnjrn7xwHFwSR8b-81EVg
-
-2025-04-20 MiniMax-01开源：新架构开启Agent时代
-https://mp.weixin.qq.com/s/YYtyqVhnyqRBDPinZxByyA
-
-2025-04-20 OpenAI 推出新功能「Tasks」ChatGPT 变身 AI 私人助理
-https://ai-bot.cn/chatgpt-tasks/
-
-2025-04-20 科大讯飞发布星火深度推理模型X1，率先落地真实应用场景
-https://ai-bot.cn/xunfeixinghuo-x1/
-
-2025-04-20 Kimi 多模态图片理解模型 API 发布，1M tokens 定价 12 元起
-https://ai-bot.cn/moonshot-v1-vision-preview/
-
-2025-04-20 书生·浦语大模型升级，突破思维密度，4T数据训出高性能模型
-https://mp.weixin.qq.com/s/HErSiJYan2_aTMbRMj1H1A
-
-2025-04-20 Vidu 2.0全新升级，更快、更强、更稳定
-https://mp.weixin.qq.com/s/LmyU9GOygSmgVLLWwvL24g
-
-2025-04-20 腾讯推出一站式3D内容生产AI创作平台：腾讯混元3D，用AI给游戏装上创作引擎
-https://ai-bot.cn/sites/38482.html
-
-2025-04-20 抖音创始成员任利锋的GenAI创意社区：Hitems，完成数千万美元Pre-A轮融资
-https://mp.weixin.qq.com/s/gPSO6ZUA--90fmluEW94Gg
-
-2025-04-20 加速AI和机器人融入生活空间，「一目科技」完成数亿元D轮融资
-https://mp.weixin.qq.com/s/jo1qy4Y4tvxdJZczzkfXSg
-
-2025-04-20 英伟达发布 6.3 万亿 Token 大型 AI 训练数据库 Nemotron-CC
-https://www.ithome.com/0/824/419.htm
-
-2025-04-20 打造AI时代的超级应用平台，「环界云计算」获阿里云战略投资
-https://36kr.com/p/3121978699698434
-
-2025-04-20 DeepSeek正式推出手机APP，苹果安卓都支持！
-https://ai-bot.cn/app/38498.html
-
-2025-04-20 百川智能落地宁波！注册资本 1.5 亿美元，与高新区共建产业基金
-https://mp.weixin.qq.com/s/0GRQ-Olid572p4YF0hk3zw
-
-2025-04-20 阿里妈妈推出淘宝星辰视频生成大模型及图生视频应用
-https://ai-bot.cn/agi-taobao/
-
-2025-04-20 方大特钢与华为开展全面合作，打造钢铁行业大模型
-https://www.ithome.com/0/824/229.htm
-
-2025-04-20 3D 生成大模型公司影眸科技完成数千万美元 A 轮融资，美团龙珠、字节跳动领投
-https://www.ithome.com/0/824/268.htm
-
-2025-04-20 月之暗面海外产品负责人的AI Coding项目被投资人抢爆了，新一轮估值8000万美元
-https://mp.weixin.qq.com/s/6m-rsoRIp6Um9rckxQ9Tjw
-
-2025-04-20 京东健康发布业内首个医疗健康全场景应用大模型产品体系
-https://mp.weixin.qq.com/s/IIIb6_Cxc86XJVMLDv03_Q
-
-2025-04-20 YY直播首个 AI 伴唱服务数字人“灵儿”发布，平均每天服务超100万用户
-https://www.tmtpost.com/7418395.html
-
-2025-04-20 中文互联网语料 AI 资源平台发布：27 个数据集、总量 2.7T
-https://www.ithome.com/0/823/918.htm
-
-2025-04-20 通义万相2.1模型能力重磅升级，轻松实现文生组图
-https://mp.weixin.qq.com/s/UPE1AEdmyUxY65XDph4hig
-
-2025-04-20 海螺AI推出全新 S2V-01 主体参考模型，AI视频创作再上新台阶
-https://ai-bot.cn/hailuoai-video/
-
-2025-04-20 商汤推出“日日新”融合大模型，勇夺“双冠王”
-https://mp.weixin.qq.com/s/kyx4_t6CpoHMM_6pW5-XEg
-
-2025-04-20 雷蛇推出“AI 游戏伴侣”Project AVA：支持实时指导 + 赛后复盘
-https://ai-bot.cn/project-ava/
-
-2025-04-20 国家网信办：截至 2024 年末共 302 款生成式人工智能服务完成备案
-https://www.ithome.com/0/823/347.htm
-
-2025-04-20 开源媒体播放器 VLC 下载破 60 亿次，预览本地 AI 字幕 / 翻译功能
-https://www.ithome.com/0/823/686.htm
-
-2025-04-20 巨量引擎旗下创意生产平台 AIGC工具“即创”正式版上线
-https://ai-bot.cn/sites/5560.html
-
-2025-04-20 官宣！通义灵码 AI 程序员全面上线，仅需10分钟完成整个开发过程
-https://mp.weixin.qq.com/s/swxdg_6c1O-h4vg1pqLGIA
-
-2025-04-20 微软开源 140 亿参数小语言 AI 模型 Phi-4，性能比肩 GPT-4o Mini
-https://www.ithome.com/0/823/482.htm
-
-2025-04-20 CES 2025首日观察：AI硬件不再画饼，中国厂商大杀四方
-https://36kr.com/p/3114212090674944
-
-2025-04-20 晚点对话李开复丨零一万物部分团队并入阿里，“灵魂拷问来得太快了”
-https://mp.weixin.qq.com/s/IUA482JlwI4CcRpiMRGHbA
-
-2025-04-20 联通开源首个完全在国产昇腾 AI 平台训练和推理的中文原生文生图模型“元景”
-https://ai-bot.cn/unit2ixl/
-
-2025-04-20 智元机器人推出首个机器人4D世界模型
-https://mp.weixin.qq.com/s/MpScYqr_YluoScrJTNHSLQ
-
-2025-04-20 英伟达推出生成式世界基础模型平台 Cosmos 构建高保真物理模拟世界
-https://ai-bot.cn/cosmos/
-
-2025-04-20 可灵AI V1.6模型现已开放API，生成质量更稳定
-https://mp.weixin.qq.com/s/s4D8JQCSSYO0DdNJ9ziR3g
-
-2025-04-20 HeyGen推全新数字人技术，与 Sora 实现集成
-https://www.pingwest.com/w/301583
-
-2025-04-20 Anthropic正以600亿美元估值筹集20亿美元，将成为第五大最有价值的美国初创公司
-https://mp.weixin.qq.com/s/NcKiWrBkijt_6JMo4GRO2w
-
-2025-04-20 科大讯飞2025年「首场发布会」，打造每个人的办公新范式
-https://mp.weixin.qq.com/s/Sckl0QfqbEW_kQ5YviyLhg
-
-2025-04-20 阅文旗下AI男友应用筑梦岛获千万美元融资，开启独立运营
-https://36kr.com/p/3064179072459906
-
-2025-04-20 年终复盘 2024 AI搜索江湖，三大门派围攻光明顶
-https://www.tmtpost.com/7412698.html
-
-2025-04-20 用AI大模型重塑服装设计制版，「深服科技」获数千万元Pre-A轮融资
-https://36kr.com/p/3112092036304645
-
-2025-04-20 英伟达发布新一代消费级显卡RTX50系列，售价为549美元起
-https://mp.weixin.qq.com/s/fObYbWqH65buVh167hDsCw
-
-2025-04-20 中国信通院发布 MaaS 六大标准，解决 AI 模型落地“最后一公里”难题
-https://www.ithome.com/0/822/794.htm
-
-2025-04-20 腾讯研究院发布《AI图景解码50关键词》浓缩AI领域的基本图景和趋势
-https://ai-bot.cn/50-keywords-for-decoding-the-ai-landscape/
-
-2025-04-20 传音控股与阿里云达成合作，通义千问大模型搭载于前者旗下 AI 手机
-https://www.ithome.com/0/822/887.htm
-
-2025-04-20 罗永浩 Jarvis 初创项目“J1 Assistant 助理”上线，支持语音与大模型互动
-https://ai-bot.cn/j1-assistant/
-
-2025-04-20 「天工大模型4.0」o1版和4o版正式上线天工APP和网页，免费使用
-https://mp.weixin.qq.com/s/bSLAcicOIbj2BMPavlv4wg
-
-2025-04-20 微软计划本财年砸下 800 亿美元，建设符合 AI 工作需求的数据中心
-https://www.ithome.com/0/822/216.htm
-
-2025-04-20 马斯克称 Grok 3 即将推出：已完成预训练，计算量比 Grok 2 高十倍
-https://www.ithome.com/0/822/260.htm
-
-2025-04-20 阿里通义千问 Qwen 推 CodeElo 基准，OpenAI o1-mini 夺冠超 90% 人类程序员
-https://ai-bot.cn/codeelo/
-
-2025-04-20 上海发布“天工人工智能工业平台”和“工业语料库 1.0 版”
-https://www.ithome.com/0/822/189.htm
-
-2025-04-20 谷歌 DeepMind 推 CAT4D：普通视频变 3D 大片，单视角视频也能转换多视角了
-https://ai-bot.cn/cat4d/
-
-2025-04-20 阿里入局 AI 眼镜：与雷鸟达成战略合作，产品将接入通义大模型
-https://www.ithome.com/0/822/072.htm
-
-2025-04-20 微软发布新模型 LAM ，可以自己操作Windows程序
-https://ai-bot.cn/lam/
-
-2025-04-20 百度增设搜索产品：上线“AI 搜”，通过 @与不同智能体交互
-https://ai-bot.cn/ai-search/
-
-2025-04-20 阿里前端第一人AI创业首秀，要做全球内容创作者的GitHub！5k人排队内测
-https://mp.weixin.qq.com/s/2mY-qbjIcyw5M9ABjtDBJQ
-
-2025-04-20 智象未来多模态大模型3.0全球首发
-https://mp.weixin.qq.com/s/vw_rl8QdhG78VG8QC-UukA
-
-2025-04-20 阿里云与零一万物达成战略合作，成立“产业大模型联合实验室”
-https://www.ithome.com/0/821/865.htm
-
-2025-04-20 英伟达新一代显卡领衔，一波AIPC芯片产品有望亮相CES展
-https://www.cls.cn/detail/1906812
-
-2025-04-20 谷歌前CEO施密特预测：AI 将在今年获得“永久记忆”，2028 美国会耗尽能源储备
-https://36kr.com/p/3105294028492291
-
-2025-04-20 智谱正式发布深度推理模型：GLM-Zero 的初代版本 GLM-Zero-Preview
-https://ai-bot.cn/glm-zero/
-
-2025-04-20 趣丸科技「天谱乐」开创AI音乐新纪元：全球首个多模态配乐大模型
-https://ai-bot.cn/tianpuyue/
-
-2025-04-20 可灵AI API新增【虚拟试穿V1.5】和【对口型】
-https://mp.weixin.qq.com/s/TT_c1-GB3FGQW_6f3QqWlw
-
-2025-04-20 OpenAI公布2025年将发布的技术产品：AGI、Agents、GPT-4o升级版
-https://www.yicai.com/news/102423144.html
-
-2025-04-20 大模型的2024年：我们对AI的发展脱敏了
-https://mp.weixin.qq.com/s/mtKt7KtYMJVITVhUouiblg
-
-2025-04-20 黑芝麻智能发布华山A2000家族芯片平台，打造全场景通识智驾标杆
-https://mp.weixin.qq.com/s/_KjgwxyJu8vu39pulHQnAA
-
-2025-04-20 讯飞医疗成功上市，成为医疗大模型第一股！
-https://mp.weixin.qq.com/s/niMHTNMEWeo-TWRhqa9LCA
-
-2025-04-20 支付宝「探一下」新一代AI视觉搜索产品，满足你的好奇心
-https://mp.weixin.qq.com/s/HyHGRW_WSgIsBC0YlbdKLg
-
-2025-04-20 智元机器人开源 AgiBot World 百万真机数据集，大幅超越谷歌 Open X-Embodiment
-https://ai-bot.cn/agibot-world/
-
-2025-04-20 PixVerse V3.5 正式上线，模型全面升级，10秒极速生成
-https://mp.weixin.qq.com/s/J66AEIutu62d747HI_GU5g
-
-2025-04-20 拓元智慧完成近亿元Pre-A轮融资，将聚焦多模态大模型与具身智能技术
-https://www.tmtpost.com/7401220.html
-
-2025-04-20 OpenAI裂变成了两块：一块营利，一块非营利
-https://mp.weixin.qq.com/s/_adrJeFHdnlu0hcMIsxI-w
-
-2025-04-20 “理想同学”上架苹果 App Store：支持知识问答、看世界等功能
-https://ai-bot.cn/lixiangtongxue/
-
-2025-04-20 可图 1.5 图像模型来啦！全新「AI模特」功能上线
-https://mp.weixin.qq.com/s/R1M9tlvm5Z9KVcoH8CC1_w
-
-2025-04-20 首个重症医疗大模型来了，腾讯 X 迈瑞发布“启元重症大模型”，已在ICU病房上班
-https://mp.weixin.qq.com/s/QH_uIskG2gwreRUs5J5QYA
-
-2025-04-20 火山引擎×联想，为 AI 桌面助手“如意”植入豆包大模型，“智” 敬PC新时代
-https://mp.weixin.qq.com/s/t7_mXLVUZpI9YViJypOHJw
-
-2025-04-20 联想新一代智能体系统“天禧 AS”发布，明年 Q2 落地 AI PC、AI 手机、AI 平板等
-https://www.ithome.com/0/820/525.htm
-
-2025-04-20 国货之光 DeepSeek V3 横空出世，多语言编程能力全面超越 Claude
-https://ai-bot.cn/deepseek-v3/
-
-2025-04-20 智谱AI 开源 GLM-PC 基座模型 CogAgent-9B，推动GUI交互自动化技术
-https://mp.weixin.qq.com/s/Z9UoOVDVGJA5yudmVYbqPw
-
-2025-04-20 阶跃星辰图像生成模型全新升级：支持「图生图」，一键风格迁移！
-https://mp.weixin.qq.com/s/pCHWF4Cqo7nYZuVZtwaWWQ
-
-2025-04-20 腾讯推出 DRT-o1 系列 AI 模型：长链思考推理实现文学翻译“信达雅”
-https://ai-bot.cn/drt-o1/
-
-2025-04-20 通义从阿里云分拆，并入阿里智能信息事业群，与“夸克”平级
-https://mp.weixin.qq.com/s/4XizNptTOF9ehdQjoFvRlg
-
-2025-04-20 小米正搭建GPU万卡集群，将对AI大模型大力投入
-https://www.cls.cn/detail/1900664
-
-2025-04-20 科大讯飞连续中标7大AI项目，两个月内狂揽11亿大单
-https://mp.weixin.qq.com/s/iC9hg8jWgPDK4gZPL8A8ew
-
-2025-04-20 Qwen开源视觉推理模型QVQ，像物理学家一样更睿智地看世界！
-https://mp.weixin.qq.com/s/hHAV2Hdl4iYBqkZxYtsxtQ
-
-2025-04-20 IBM 发布新语言模型 Granite 3.1，性能、上下文能力增强
-https://ai-bot.cn/granite-3-1/
-
-2025-04-20 “深思熟虑”的 AI：OpenAI 提出全新安全对齐方法
-https://www.ithome.com/0/820/084.htm
-
-2025-04-20 2025 AI Agent剑指何方？两份前沿报告描绘全景地图
-https://www.tmtpost.com/7395695.html
-
-2025-04-20 做出AI科学家的Sakana AI又放大招，大模型自动搜索人工生命系统
-https://mp.weixin.qq.com/s/CVADIa03U2EqpirGbzklrQ
-
-2025-04-20 杭州CPU黑马宣布数亿元融资，在研服务器AI CPU芯片
-https://mp.weixin.qq.com/s/vPJ0GbBJHDR_Fz30LtXItg
-
-2025-04-20 AI视频创企智象未来又拿新融资，数亿元！
-https://mp.weixin.qq.com/s/CkyMpTWLRy1K33k0aIk3PA
-
-2025-04-20 星火浏览器插件新升级！能读会答、能翻译会总结
-https://mp.weixin.qq.com/s/bFgZfSDhJ27twAyaN6piWg
-
-2025-04-20 Freed AI，AI病历助手，创立1年多，1万付费医生，1000万美金ARR
-https://mp.weixin.qq.com/s/vV1R_scAfHJZLLmk58TUmQ
-
-2025-04-20 马斯克xAI获60亿美元新融资，和特斯拉和SpaceX大搞AI生态
-https://x.ai/blog/series-c
-
-2025-04-20 「像素绽放PixelBloom」完成国家队B2轮融资，打造全球AI办公软件超级工场
-https://mp.weixin.qq.com/s/Nvj_1Hj7p-5EMh6FOUTa8w
-
-2025-04-20 Hume AI 宣布推出新一代语音语言模型 OCTAVE，能检测微妙的情绪线索
-https://ai-bot.cn/octave/
-
-2025-04-20 上海国资和腾讯联手投资，“大模型六虎”阶跃星辰获数亿美元B轮融资
-https://mp.weixin.qq.com/s/KIOLhpOOq3AfW62rsA7hSw
-
-2025-04-20 OpenAI最强推理模型o3发布！AGI测试能力暴涨，最难数学测试分数碾压同行
-https://ai-bot.cn/openai-o3/
-
-2025-04-20 小红书推出AI搜索产品：点点，主打生活服务场景
-https://ai-bot.cn/diandian/
-
-2025-04-20 谷歌通用推理模型登场：思考速度比所有模型快5倍，能解摩斯代码，数学物理秒解决
-https://ai-bot.cn/gemini-2-0-flash-thinking/
-
-2025-04-20 AI编程助手 Cursor 再获融资1亿美元，估值飙升至26亿美元
-https://ai-bot.cn/sites/906.html
-
-2025-04-20 ElevenLabs推出Flash语音对话模型：仅75毫秒延迟，支持32种语言
-https://ai-bot.cn/elevenlabs-flash/
-
-2025-04-20 快手可灵 1.6 模型发布：文本响应度、画面美感及运动合理性均有“明显提升”
-https://www.ithome.com/0/818/827.htm
-
-2025-04-20 苹果Mac用户狂喜！ChatGPT深度集成应用，支持 Xcode、Notion 等30+应用
-https://mp.weixin.qq.com/s/zWKE0Dg1flYrv0c1yyn2Pw
-
-2025-04-20 国家电网发布国内首个千亿级多模态电力行业大模型
-https://www.ithome.com/0/818/829.htm
-
-2025-04-20 华人团队力作，震撼开源生成式物理引擎Genesis，可模拟世界万物
-https://ai-bot.cn/genesis/
-
-2025-04-20 人人可享 AI 编程：免费版 GitHub Copilot 上线，VS Code 每月补全 2000 次代码
-https://www.ithome.com/0/818/616.htm
-
-2025-04-20 蚂蚁团队自研的「智能开发神器」，让你秒变 “代码大师”！
-https://ai-bot.cn/weavefox/
-
-2025-04-20 OpenAI 加速普及 ChatGPT，开通免费热线电话，老人机也能用ChatGPT了
-https://mp.weixin.qq.com/s/jRPDrN4XiScjvMhJsfE6Ow
-
-2025-04-20 影石发布AI双摄视频会议一体机Connect，让开会更简单
-https://ai-bot.cn/insta360-connect/
-
-2025-04-20 微信公众号新增“作者朗读音色”功能：可生成作者音色全文音频
-https://mp.weixin.qq.com/s/eMCSU1qQDjuev1UXelx4Qg
-
-2025-04-20 小猿学练机发布：墨水屏+AI教育大模型，突破20毫秒手写延迟
-https://mp.weixin.qq.com/s/NxfQU1GQKnF0oW7kHjKMuQ
-
-2025-04-20 豆包大模型家族全面升级，重磅发布视觉理解模型
-https://ai-bot.cn/doubao-shijuelijie-model/
-
-2025-04-20 AI数据分析公司Databricks一口气融728亿！AI融资新纪录
-https://mp.weixin.qq.com/s/hKLJmDRCtH9gBv3M2P_Ljw
-
-2025-04-20 Meta 推出 Apollo 开源模型，让 AI “看懂”视频
-https://ai-bot.cn/apollo/
-
-2025-04-20 AI 视频生成工具 PixVerse 上线视频生视频功能，体验视频延长乐趣
-https://ai-bot.cn/pixverse-ai-video-generator/
-
-2025-04-20 OpenAI o1 推理模型 API 满血开放，成本暴降60%，定制升级
-https://www.ithome.com/0/818/325.htm
-
-2025-04-20 智谱完成30亿元新一轮融资，2024年商业化收入翻倍
-https://mp.weixin.qq.com/s/43dJc6f-bPgM96DP7to3Eg
-
-2025-04-20 图森未来发布图生视频开源大模型“Ruyi”，RTX 4090就能运行
-https://ai-bot.cn/ruyi/
-
-2025-04-20 Meta Ray-Ban 智能眼镜大更新：“实时 AI”可持续分析用户所见内容
-https://www.ithome.com/0/818/089.htm
-
-2025-04-20 谷歌发布AI图像生成新工具 Whisk，支持上传多张图片以图生图
-https://ai-bot.cn/whisk/
-
-2025-04-20 全球最大的仓储机器人公司赴港上市，蚂蚁英特尔是股东
-https://mp.weixin.qq.com/s/Y5BwqOnNfH_EpyHmKC3eNw
-
-2025-04-20 谷歌版Sora迎来 Veo 2，升级4K高清！一句话控制镜头运动，Imagen 3 再进化
-https://ai-bot.cn/veo-2/
-
-2025-04-20 OpenAI直播发布第8天：ChatGPT Search全面升级，免费开放，与Her打通了！
-https://ai-bot.cn/sites/14609.html
-
-2025-04-20 Kimi 发布 k1 视觉思考模型，多项理科测试行业领先
-https://ai-bot.cn/k1-kimi-visual-thinking-model/
-
-2025-04-20 腾讯微信正式发布多模态大模型 POINTS 1.5，10B参数下开源模型排名第一
-https://ai-bot.cn/points-1-5/
-
-2025-04-20 PixVerse最新AI特效上线，心情不好，“爆炸”一下！
-https://ai-bot.cn/pixverse-ai-video-generator/
-
-2025-04-20 OpenAI 推出 Projects，功能全家桶打造 ChatGPT 新交互方式，迈向“万能应用”
-https://ai-bot.cn/chatgpt-projects/
-
-2025-04-20 久等了，DeepSeek开源 DeepSeek-VL2 MoE视觉模型：支持动态分辨率、解析梗图等
-https://ai-bot.cn/deepseek-vl2/
-
-2025-04-20 上新！阶跃星辰 Step-1o 千亿参数端到端语音大模型来啦！
-https://ai-bot.cn/step-1o/
-
-2025-04-20 360 自研 AI 大模型 360gpt2-o1 正式上线，数学与逻辑推理新标杆
-https://ai-bot.cn/360gpt2-o1/
-
-2025-04-20 Meta 发布 Motivo AI 模型，打造更逼真元宇宙体验
-https://ai-bot.cn/meta-motivo/
-
-2025-04-20 快手开源全球首个”多视角视频生成”工具，解锁无限视角！
-https://ai-bot.cn/syncammaster/
-
-2025-04-20 巨人网络发布”千影”有声游戏大模型，加码”游戏+AI”赛道
-https://ai-bot.cn/qianying/
-
-2025-04-20 微软推出14B参数小语言模型 Phi-4：专攻数学等领域复杂推理
-https://ai-bot.cn/phi-4/
-
-2025-04-20 OpenAI 数据中心提供商Crusoe融资6亿美元，估值28亿美元
-https://mp.weixin.qq.com/s/I9G0nCFmsSCQabEQF4ct-g
-
-2025-04-20 Google 发布了「虚拟现实」版 Android XR，想让你把熟悉的应用「戴在头上」
-https://mp.weixin.qq.com/s/hnSlMyM4fXjyxODKDmzXVA
-
-2025-04-20 千寻智能一年三轮融资数亿元，构建下一代智慧劳动力
-https://mp.weixin.qq.com/s/qJ_XvFlqP_gPTlhj1SHHyQ
-
-2025-04-20 OpenAI版《Her》全量来袭：实时视频对话，你每个动作AI都看得见
-https://mp.weixin.qq.com/s/ZHQX5yJrPWAxOpArOSMCTg
-
-2025-04-20 谷歌深夜炸场：Gemini 2.0 正式发布，主打Agent+多模态
-https://ai-bot.cn/gemini-2-0/
-
-2025-04-20 造梦次元完成近亿元人民币融资，多家顶级风投和大厂共同投资
-https://mp.weixin.qq.com/s/hBHcGgF4s3VYePBVC10OEw
-
-2025-04-20 百度文库AI再升级，「专业PPT生成」功能上线！打工人终于有救了
-https://mp.weixin.qq.com/s/JHuh307SID5mXXyvz-jG7A
-
-2025-04-20 OpenAI直播第五天，OpenAI正式成为苹果AI的”贤内助”
-https://mp.weixin.qq.com/s/OGtromUdML841w0UkGmAmA
-
-2025-04-20 谷歌发布智能体原型 Mariner，能帮用户操作表格、在线购物
-https://ai-bot.cn/project-mariner/
-
-2025-04-20 全球首个”AI 程序员”Devin 全面开放：可独立开发/修复bug，月费500美元
-https://www.ithome.com/0/817/016.htm
-
-2025-04-20 MidJourney 上线 Patchwork：用户化身“造物主”，AI 构造故事宇宙
-https://ai-bot.cn/patchwork/
-
-2025-04-20 字节内部判断AI对话类产品天花板可能不高，提升剪映即梦优先级
-https://mp.weixin.qq.com/s/B4XBLd2BdPkAOBdn-VIw5g
-
-2025-04-20 面壁智能完成新一轮数亿元融资，CEO称大模型正进入“真刀真枪”阶段
-https://www.tmtpost.com/7375743.html
-
-2025-04-20 OpenAI直播第四弹：Canvas全量开放，人+AI协作模式启动
-https://mp.weixin.qq.com/s/ib-Az3Sr2Bp19JFsAXM2CA
-
-2025-04-20 文小言电脑版正式发布，支持Windows和Mac免费下载，双端协同
-https://ai-bot.cn/wenxiaoyan-pc/
-
-2025-04-20 DeepSeek V2 系列 AI 模型收官，推出 DeepSeek-V2.5-1210，联网搜索上线
-https://ai-bot.cn/deepseek-v2-5-1210/
-
-2025-04-20 ChatGPT语音负责人创业AI语音，a16z首轮重注4000万美金
-https://mp.weixin.qq.com/s/47aGCSrVe3IIGDiuF-dGJg
-
-2025-04-20 字节视频生成模型PixelDance上线豆包，每日免费生成10个视频
-https://www.ithome.com/0/816/637.htm
-
-2025-04-20 智源研究院开源3D生成模型See3D，看3.2亿帧视频学会3D生成
-https://ai-bot.cn/see3d/
-
-2025-04-20 OpenAI 正式推出视频生成王者 Sora ，网页挤爆了！
-https://mp.weixin.qq.com/s/_cm8Sw50XF0P2JtHGDAKKA
-
-2025-04-20 北京国资独家投资，小米投资首家工业大模型公司小雨智再造获亿元A轮融资
-https://www.tmtpost.com/7373476.html
-
-2025-04-20 谷歌发布最强量子芯片 Willow，5分钟颠覆138亿年计算极限
-https://ai-bot.cn/willow/
-
-2025-04-20 商汤办公小浣熊2.0，上新！AI原生一站式创作空间来了
-https://ai-bot.cn/xiaohuanxiongofficev2/
-
-2025-04-20 马斯克新文生图模型Aurora闪现！网友抢时间疯狂实测：人物生成超逼真
-https://ai-bot.cn/aurora/
-
-2025-04-20 英伟达发布大模型NVILA，专注于优化准确性和效率
-https://ai-bot.cn/nvila/
-
-2025-04-20 智谱AI再放大招！全新多模态模型 GLM-4V-Flash 免费开放！
-https://ai-bot.cn/glm-4v-flash/
-
-2025-04-20 Meta今年压轴开源 AI 大模型Llama 3.3，700亿参数，性能比肩4050亿
-https://ai-bot.cn/llama-3-3/
-
-2025-04-20 OpenAI强化微调登场：几十条数据o1-mini反超o1暴涨80%，奥特曼：今年最大惊喜
-https://mp.weixin.qq.com/s/ulQ1ep1kEOGLqpDarNxo0A
-
-2025-04-20 马斯克 xAI 公司 Grok AI 聊天机器人向免费用户开放，不再是会员专属
-https://mp.weixin.qq.com/s/AABXMgnOeEDdOMg_0G6_Ig
-
-2025-04-20 LiblibAI x 星流：正式推出新一代自研图像大模型Star-3 Alpha
-https://ai-bot.cn/star-3-alpha/
-
-2025-04-20 通义实验室开源 ClearerVoice-Studio，高效去除背景噪声
-https://ai-bot.cn/clearervoice-studio/
-
-2025-04-20 谷歌DeepMind推出AI气象预测模型GenCast，8分钟预测15日天气
-https://ai-bot.cn/gencast/
-
-2025-04-20 豆包大模型团队开源FullStack Bench代码全新基准，覆盖超11类真实编程场景
-https://ai-bot.cn/fullstack-bench/
-
-2025-04-20 OpenAI第一场直播就炸场！o1满血版上线，ChatGPT Pro订阅费：200美元/月
-https://mp.weixin.qq.com/s/-SRxXjrElr0sucFwz6o40g
-
-2025-04-20 海螺AI推出图生视频模型I2V-01-Live，让静态二维图像动起来
-https://ai-bot.cn/i2v-01-live/
-
-2025-04-20 DeepMind最强「基础世界模型」诞生！单图生1分钟游戏世界，解锁下一代智能体
-https://mp.weixin.qq.com/s/lUf5_0vnka7OM4jfeAZkeg
-
-2025-04-20 谷歌领跑AI视频生成赛道：抢先 OpenAI Sora推出Veo模型，可生成1080P高清视频
-https://www.ithome.com/0/815/432.htm
-
-2025-04-20 OpenAI官宣12天12场新品发布会
-https://mp.weixin.qq.com/s/i7h_nEqaCIfvUksySmhh0Q
-
-2025-04-20 红杉美国最新洞察：2025 年将是 Agent 元年！AI 智能体进入“群体协作”时代
-https://mp.weixin.qq.com/s/AdXstldGMxP2hLmoslL_dw?poc_token=HBZNUWejVbyYp-ZQYKzeesS1SS8F0fI0NtASo_k1
-
-2025-04-20 文心一言上线“深度写作”专业版功能：会自己搜素材的AI写作
-https://mp.weixin.qq.com/s/YxR_Wf8JtkN3OcRzi82P3g
-
-2025-04-20 刚刚！字节跳动豆包上线图片理解，大模型走向多模态
-https://mp.weixin.qq.com/s/KRafWvFIO78-iP5Hlj7NIQ
-
-2025-04-20 亚马逊年末甩王炸！6款大模型、3nm AI芯片、全球最大AI计算集群，苹果罕见站台
-https://mp.weixin.qq.com/s/MvpVBh5fxHftsMUeRDDwag
-
-2025-04-20 即梦2.1模型上线，一键生成图文融合设计图
-https://ai-bot.cn/sites/17772.html
-
-2025-04-20 The Browser Company计划推出新型AI网络浏览器Dia
-https://ai-bot.cn/dia/
-
-2025-04-20 WPS Office推出 WPS AI 语音速记功能
-https://ai-bot.cn/sites/1737.html
-
-2025-04-20 腾讯正式发布AI视频产品：腾讯混元文生视频，预计下月推出图生视频模型
-https://ai-bot.cn/video-hunyuan-tencent/
-
-2025-04-20 全面对决Suno，国产AI音乐三巨头的突围之战
-https://www.tmtpost.com/7362772.html
-
-2025-04-20 快手预告“可灵 AI”导演共创计划作品 12 月 6 日上线：联合李少红、贾樟柯、叶锦添、薛晓路等
-https://www.ithome.com/0/814/980.htm
-
-2025-04-20 全网热评的李飞飞世界生成模型，真的能构建物理世界吗？
-https://mp.weixin.qq.com/s/ehDb4WlH_Ef-bFf4kiLLSQ
-
-2025-04-20 OpenAI考虑在AI产品中引入广告
-https://www.yicai.com/news/102383408.html
-
-2025-04-20 360推出的自研360智脑7B参数大模型升级版
-https://ai-bot.cn/360zhinao2-7b/
-
-2025-04-20 微信公众号后台新增“AI 配图”功能，支持文章配图和封面配图
-https://www.ithome.com/0/814/635.htm
-
-2025-04-20 ChatGPT两岁，OpenAI 10亿用户计划曝光！
-https://mp.weixin.qq.com/s/ix2Gh44n4NjEdTfrc_2_6g
-
-2025-04-20 实测腾讯元宝2.0：图文视频啥都能搜，论文绘画全搞定
-https://www.qbitai.com/2024/12/226744.html
-
-2025-04-20 可灵AI新增「AI换衣」功能！1.5 模型支持「首尾帧」
-https://mp.weixin.qq.com/s/jpSut5I5xtodpYDlMP78hg
-
-2025-04-20 对话智谱CEO张鹏：大家对大模型期待过高，Scaling Law还有很大增长空间
-https://www.tmtpost.com/7359163.html
-
+【4月18日·周五】
+智谱完成北京市人工智能产业投资基金追加投资，Z 基金出资3亿支持全球开源社区
+北京市人工智能产业投资基金宣布追加投资智谱（Z.ai）2亿元人民币，支持其开源模型研发与开源社区生态建设。智谱是该基金投资的第一家AI大模型企业，在文本、推理、语音、图像、视频、代码等多领域有深厚积累。智谱Z基金出资3亿元支持全球AI开源社区发展，推动AI普惠，助力北京打造“全球开源之都”。来源：智谱
+------------------
+【4月18日·周五】
+腾讯混元开源定制化图像生成插件InstantCharacter，“一张图一句话”搞定角色生成
+腾讯混元宣布开源定制化图像生成插件InstantCharacter，与开源文生图模型Flux实现兼容。插件通过一张图加一句话即可让角色以特定姿势出现在不同场景，解决了角色一致性难题，具有高画质、高精度和灵活文本编辑性，适用于连环画、影片创作等场景。来源：腾讯混元
+------------------
+【4月18日·周五】
+通义万相2.1首尾帧模型开源！细节真实生动，丝滑流畅
+阿里通义万相宣布开源业界首个百亿参数规模的“首尾帧生视频模型”，参数量达14B。模型可根据用户指定的开始和结束图片生成衔接首尾画面的720p高清视频，满足更可控、定制化的视频生成需求。来源：通义大模型
+------------------
+【4月18日·周五】
+智平方发布全新一代智能机器人AlphaBot 2，开启AGI终端新时代
+智平方科技在深圳发布新一代通用智能机器人AlphaBot 2，标志着AGI终端新时代的到来。AlphaBot 2搭载全栈自研的全域全身VLA大模型Alpha Brain，具备卓越的空间智能和学习能力，无需训练即可完成多种任务。硬件架构支持360°全空间探测感知和全身自由度操作，续航能力强。来源：智平方科技
+------------------
+【4月17日·周四】
+OpenAI 推出最强推理模型 o3 和 o4-mini，支持“图像思考”与多模态推理
+OpenAI 推出了最新的满血版o3和o4-mini模型，是目前最智能的版本，具备全面的工具访问能力。o3 是功能最强大的推理模型，擅长多领域任务，如编程、数学、科学和视觉感知等，在视觉任务上表现出色，能分析图像、图表等，在复杂查询中提供精准答案。o4-mini 以快速、高效的推理能力著称，适合高吞吐量任务。来源：AI工具集
+------------------
+【4月17日·周四】
+字节跳动正式发布豆包1.5深度思考模型，文生图模型升级至3.0
+字节跳动在火山引擎AI创新巡展杭州站发布豆包1.5深度思考模型。模型采用MoE架构，总参数200B，激活参数20B，推理成本优势显著。在数学、编程、科学推理及创意写作等领域表现出色，结合视觉理解技术可实现地貌分析、辅助点餐等功能。来源：AI工具集
+------------------
+【4月17日·周四】
+再创开源多模态大模型性能标杆，书生·万象3.0升级发布，创新预训练方法
+上海人工智能实验室开源升级了通用多模态大模型书生·万象3.0（InternVL3）。模型采用创新的多模态预训练方法，将语言和多模态学习整合于同一预训练阶段，显著提升了多模态基础能力。在10亿至780亿参数的全量级版本中，InternVL3在开源模型性能上位列第一，接近闭源模型Gemini-2.5-Pro。来源：上海人工智能实验室
+------------------
+【4月17日·周四】
+消息称 OpenAI 考虑以 30 亿美元收购人工智能编程工具 Windsurf
+OpenAI 正在考虑以约 30 亿美元收购人工智能编程工具Windsurf（原名 Codeium）。如果收购成功，将是 OpenAI 有史以来最大的一笔交易，增强其在 AI 编程助手市场的竞争力。Windsurf 专注于根据自然语言提示编写代码，此前曾计划按 30 亿美元估值融资。来源：IT之家
+------------------
+【4月17日·周四】
+Anthropic官方推出了两个重磅新功能：Research 与 Google Workspace 集成
+Anthropic公司旗下的Claude推出两大新功能：Research和与Google Workspace集成。Research功能可快速检索网络与内部文件，精准回答复杂问题；Google Workspace集成则让用户能无缝调用Gmail、日历和文档信息，轻松完成任务。来源：新智元
+------------------
+【4月16日·周三】
+微信上线首个AI助手“元宝”，聊天答题与文件解析功能齐备
+微信首个AI助手“元宝”正式上线。用户可通过微信搜索或扫描二维码添加为联系人。“元宝”搭载腾讯混元大模型和DeepSeek双模引擎，支持聊天、答题、文件解析（100M以内）、公众号文章解读及图片识别等功能，暂不支持语音/视频通话、群聊、修改昵称、红包转账等。来源：APPSO
+------------------
+【4月16日·周三】
+国际版 Trae IDE 正式支持 Gemini 2.5 Pro 和 GPT-4.1
+Trae IDE宣布正式支持Gemini 2.5 Pro和GPT-4.1模型，增强了内置模型功能。用户现在可以在国际版TraeIDE中直接使用，提升开发效率和创新能力。来源：AI工具集
+------------------
+【4月16日·周三】
+谷歌 Veo 2 视频生成模型入驻 Gemini，可创建 8 秒 720p 视频
+谷歌宣布将旗下Veo 2视频生成 AI 模型引入 Gemini Advanced，用户可创建 8 秒、720p 分辨率、16:9 宽高比的视频片段，通过 Gemini 将视频上传至 TikTok、YouTube 等平台。Veo 2 生成的视频可下载为带有谷歌 SynthID 水印的 MP4 文件。Veo 2 整合至 Google Labs 的 Whisk 功能中，可将图片转化为 8 秒视频。来源：IT之家
+------------------
+【4月16日·周三】
+xAI 旗下Grok 推出 Grok Studio 功能：可 AI 编辑创建文档、代码、报告等
+xAI旗下Grok宣布推出Grok Studio功能，支持用户编辑和创建文档、代码、报告，简单浏览器游戏。Grok Studio可在独立窗口中打开内容，用户可与Grok实时协作完善项目。免费和付费用户均可使用，支持预览HTML片段并运行Python、C++和JavaScript等代码。来源：AI工具集
+------------------
+【4月16日·周三】
+OpenAI ChatGPT 上线图库功能，更轻松管理 AI 生成图片
+OpenAI 宣布ChatGPT上线 Image Library 图库功能，帮助用户更便捷地管理和查看 AI 生成的图像。功能已向所有 Free、Plus 和 Pro 用户开放，覆盖移动端和网页端。来源：IT之家
+------------------
+【4月16日·周三】
+AI 音乐商用创作平台Mureka火爆海外，正式开放国内登陆入口和API
+昆仑万维集团旗下的 AI 音乐商用创作平台Mureka正式开放国内登录入口和 API。Mureka 自 2024 年上线以来，在全球范围内收获极高人气，支持纯音乐及 10 种语言的音乐创作。其Mureka V6是基座模型，Mureka O1是推理优化版本，可提升音乐品质和创作效率。来源：昆仑万维集团
+------------------
+【4月16日·周三】
+中国第一家启动IPO的“大模型六虎”来袭！智谱融资超160亿，美国OpenAI也将IPO
+智谱 AI启动 IPO 上市流程，成为中国第一家进入 IPO 阶段的“大模型六虎”公司。智谱 AI 成立于 2019 年，由清华大学计算机系技术转化而来，目前累计融资超 160 亿元，投后估值超 200 亿元。来源：钛媒体AGI
+------------------
+【4月15日·周二】
+快手发布可灵 2.0 视频生成模型及可图 2.0 图像生成模型，国产AI视频新突破
+快手可灵AI正式发布可灵2.0视频生成模型，可灵AI 2.0在模型层面迎来重大更新，画面美学、语义响应和动态质量大幅提升。新增“多模态编辑”功能，支持在视频基础上输入图片/文字进行精准修改和再创作；可图2.0新增“图片编辑”及“风格转绘”功能。具备AI音效生成功能，可根据影像内容和文字prompt生成适配音效。来源：AI工具集
+------------------
+【4月15日·周二】
+OpenAI发布GPT-4.1系列模型：编码、指令遵循和长文本处理能力大幅提升
+OpenAI推出新一代GPT模型GPT-4.1系列，包括GPT-4.1、GPT-4.1 mini和GPT-4.1 nano。模型在编码、指令遵循和长文本处理方面大幅领先于GPT-4o，支持高达100万tokens的上下文窗口，知识截止日期更新至2024年6月。GPT-4.1 mini在性能和成本上均优于GPT-4o，GPT-4.1 nano是最快最便宜的模型，适合分类和自动补全任务。来源：AI工具集
+------------------
+【4月15日·周二】
+魔搭上线最大MCP中文社区，独家首发支付宝、MiniMax等MCP
+阿里云旗下的AI开源社区魔搭（ModelScope）推出全新MCP广场，上架千余款热门MCP服务，独家首发支付宝、MiniMax等全新MCP服务。支付宝MCP服务是国内首款聚焦AI智能体支付场景的服务，可实现交易创建、查询、退款等功能；MiniMax MCP服务器封装了语音生成、语音克隆、图片生成及视频生成等多模态能力。来源：阿里云
+------------------
+【4月15日·周二】
+智谱启用全新全球域名“z.ai”，开源高性能GLM模型系列
+智谱启用全新域名“z.ai”，整合32B基座、推理、沉思三类模型，作为最新模型的交互体验入口。基座模型和推理模型已上线智谱MaaS平台，提供API服务，部分版本免费。宣布开源32B/9B系列GLM模型，涵盖基座、推理、沉思模型，均采用MIT许可协议，可免费用于商业用途。来源：智谱
+------------------
+【4月15日·周二】
+MiniMax MCP Server 上线：多模态能力，一键触达
+MiniMax 稀宇科技宣布其MiniMax MCP Server正式上线。服务器通过简单文本输入即可调用视频、图像、语音生成及声音克隆等多项多模态能力，兼容 Claude Desktop、Cursor、Windsurf 和 OpenAI Agents 等主流 MCP 客户端。来源：MiniMax 稀宇科技
+------------------
+【4月15日·周二】
+Hugging Face 收购 Pollen Robotics，进军人形机器人市场
+人工智能开发平台Hugging Face收购法国人形机器人初创公司Pollen Robotics，此次收购标志着Hugging Face在机器人领域的拓展，双方此前已合作打造开源家务机器人“Le Robot”。Hugging Face成立了由曾在特斯拉Optimus项目任职的雷米・卡德内领导的机器人团队，计划销售Pollen的人形机器人Reachy 2并开放代码供开发者改进。来源：IT之家
+------------------
+【4月14日·周一】
+字节跳动最新思考模型，Seed-Thinking-v1.5技术细节公开
+字节跳动Seed团队发布Seed-Thinking-v1.5智能推理模型技术报告。模型采用200B参数、20B激活参数的MoE架构，推理成本低。在数学、编程、科学推理等专业领域及创意写作等通用任务中表现突出，接近业界第一梯队水平。4月17日，模型将通过火山引擎开放接口供用户体验。来源：豆包大模型团队
+------------------
+【4月14日·周一】
+重新认识阿里：大踏步迈向 AI
+《晚点LatePost》发文称阿里巴巴在AI领域投入坚决、布局全面且率先盈利。过去几年，阿里历经低谷，2025年凭借AI技术股价涨幅超75%。阿里云与宝马、中移动等达成合作，云谷园区接待爆满。阿里明确AI战略，未来三年投入3800亿元建设云和AI基础设施，通义大模型位列全球第一梯队，夸克升级为“AI超级框”，钉钉回归助力AI应用。来源：晚点LatePost
+------------------
+【4月14日·周一】
+云鲸再获1亿美金融资，腾讯、北京机器人基金领投，重押具身智能，迈向Pre-IPO
+家庭清洁服务机器人公司云鲸智能近日完成1亿美金融资，由腾讯投资、北京机器人产业发展投资基金联合领投，科幻基金与明势创投跟投。资金将用于具身智能产品研发、全球市场扩张及多品类战略布局。云鲸已启动Pre-IPO轮融资，进入上市冲刺阶段。来源：36氪
+------------------
+【4月14日·周一】
+昆仑万维推出Skywork-OR1系列模型，同规模下性能超越阿里QwQ-32B，对齐DeepSeek-R1
+昆仑万维天工团队推出全新升级的Skywork-OR1系列模型，包括7B和32B版本，聚焦数学和代码推理能力。系列模型在同等参数规模下性能超越阿里QwQ-32B，接近DeepSeek-R1。Skywork-OR1系列全面开源，涵盖模型权重、训练数据集和完整代码，团队采用多阶段GRPO训练，优化数据过滤和训练流程，显著提升模型推理性能。来源：昆仑万维集团
+------------------
+【4月14日·周一】
+OPPO 推出的小布助手网页版上线，登录 OPPO 账号可同步手机端历史对话记录
+OPPO小布助手网页版正式上线，网页版接入满血版DeepSeek，支持联网搜索和结果导出功能。登录OPPO账号后，可同步手机端历史对话记录。来源：AI工具集
+------------------
+【4月14日·周一】
+OpenAI 宣布 ChatGPT 自 4 月 30 日起停用 GPT-4 模型，全面升级至 4o 版本
+OpenAI 宣布于2025年4月30日起，将让GPT-4在ChatGPT中退役，全面启用GPT-4o。GPT-4o在能力、一致性和创造力上更胜一筹。GPT-4退出ChatGPT，开发者仍可通过API调用。来源：APPSO
+------------------
+【4月11日·周五】
+OpenAI宣布ChatGPT新功能，新增长期记忆功能，可以记住过去所有的聊天记录
+OpenAI宣布ChatGPT推出新功能，能引用过去所有聊天记录，为用户提供更加私人订制的体验。标志着LLM交互范式从偶发性互动向持续性互动转变，使ChatGPT更像私人助理。新功能已向Plus和Pro用户开放，用户可以与ChatGPT进行更深入的互动。来源：量子位
+------------------
+【4月11日·周五】
+傅利叶发布首款开源人形机器人 Fourier N1，加速行业生态共建
+通用机器人公司傅利叶在上海发布首款开源人形机器人Fourier N1。机器人身高1.3米，体重38公斤，拥有23个自由度，采用铝合金与工程塑料复合结构，续航可达2小时以上，最高奔跑速度3.5米/秒。作为傅利叶“Nexus开源生态矩阵”的首个项目，N1同步开放了涵盖物料清单、设计图纸、装配指南、基础操作软件等完整本体资源包。来源：傅利叶
+------------------
+【4月11日·周五】
+商汤发布「日日新SenseNova V6」大模型，助力机器人具身智能升级
+商汤发布新一代多模态大模型「日日新SenseNova V6」，参数达6000亿，采用混合专家架构，实现多模态长思维链、强化学习与全局记忆融合，推理能力显著提升，多项测试超国际领先模型。模型助力人形机器人具身智能发展，使其具备视觉、语言等多模态交互能力，可应用于导览、社交互动等场景。来源：智东西
+------------------
+【4月11日·周五】
+谷歌发布 Gemini 2.5 Flash AI 模型：专为省钱高效而生
+谷歌推出Gemini 2.5 FlashAI模型，专为高效能和成本优化设计。模型即将登陆谷歌Vertex AI平台，具备动态且可控的计算能力，开发者可根据查询复杂度灵活调整处理时间，平衡速度、准确性和成本。来源：AI工具集
+------------------
+【4月11日·周五】
+Anthropic 推出 Claude Max 订阅计划，月费最高 200 美元
+Anthropic推出ClaudeMax订阅计划，月费最高200美元，与OpenAI的ChatGPT Pro竞争。Max计划分为两个层级：每月100美元的Max速率限制是Claude Pro的5倍，每月200美元的Max速率限制是Claude Pro的20倍。计划提供更宽松的使用限制和优先获取最新AI模型的功能。来源：IT之家
+------------------
+【4月11日·周五】
+谷歌Deep Research迎来重大升级，搭载Gemini 2.5 Pro模型，性能超OpenAI
+谷歌Deep Research迎来重大升级，搭载全球顶尖的Gemini 2.5 Pro模型。新版本在分析推理、信息整合和报告洞察力方面显著提升，5分钟可生成46页学术论文，能将复杂报告转为10分钟播客。性能较OpenAI DR提升超40%，价格仅为1/10。来源：新智元
+------------------
+【4月11日·周五】
+继 OpenAI 后，谷歌 Gemini 模型将支持 Anthropic 的 MCP 协议
+谷歌DeepMind宣布为Gemini模型和SDK添加对Anthropic的模型上下文协议（MCP）的支持。谷歌DeepMind首席执行官德米斯·哈萨比斯表示，MCP正在迅速成为AI代理时代的开放标准，谷歌期待与其他行业伙伴共同开发这一协议。来源：IT之家
+------------------
+【4月11日·周五】
+悠船宣布MidJourney V7模型正式上线：图像生成质量大幅提升
+悠船团队宣布悠船V7模型正式上线。V7版本在图像生成质量上显著提升，包括人物肤色、面部细节、材质纹理和光影效果等方面。能更好地解析复杂场景，实现背景与主体的自然融合。V7在视角表现和风格还原度上也更加专业，显著提升了身体、手部及物体细节的一致性。来源：悠船助手
+------------------
+【4月10日·周四】
+谷歌推出 Agent2Agent（A2A）协议，实现 AI 智能体之间的互操作性
+谷歌推出 Agent2Agent（A2A）协议，实现 AI 智能体之间的互操作性。A2A 是开放协议，支持超过 50 个技术合作伙伴，支持不同供应商的智能体在跨平台环境中安全协作，完成复杂任务。协议基于 HTTP、SSE、JSON-RPC 等标准，支持长时任务和多种数据格式（如音频、视频）。来源：AI工具集
+------------------
+【4月10日·周四】
+谷歌推出AI编程工具 Firebase Studio，一站式完成全栈应用的构建、修改和部署
+谷歌推出Firebase Studio，用户可以一站式完成全栈应用的构建、修改和部署。只需输入提示词，AI 可快速生成完整应用程序，支持 React、Next.js、Angular、Vue.js、Flutter、Android、Node.js、Java 和 Python Flask 等多种编程语言和框架。来源：AI工具集
+------------------
+【4月10日·周四】
+连续完成A及A+轮融资，星尘智能获锦秋基金、蚂蚁集团等领投
+星尘智能宣布连续完成A轮及A+轮融资数亿元，由锦秋基金、蚂蚁集团领投，云启资本、道彤资本等老股东跟投，华兴资本担任独家财务顾问。星尘智能于2022年底在深圳成立，首创面向AI的软硬件一体化系统架构，全栈自研的Astribot S1高度仿人，关键操作参数媲美甚至超越成年男性。来源：Z Potentials
+------------------
+【4月10日·周四】
+alphaXiv推出「Deep Research for arXiv」功能，让文献检索秒速完成
+alphaXiv推出「Deep Research for arXiv」功能，可协助研究人员在arXiv平台上快速检索与阅读学术论文，提升文献检索及研究效率。用户输入相关问题，系统能迅速生成文献综述或热门论文回答，将数小时的搜索过程缩短至几秒。来源：机器之心
+------------------
+【4月10日·周四】
+阿里云百炼上线业界首个全生命周期MCP服务，5分钟搭建专属AI智能体
+阿里云在AI势能大会上宣布上线业界首个全生命周期MCP服务，加速AI落地。服务集成阿里云函数计算、200多款大模型和50多款主流MCP服务，用户无需代码，仅需简单配置，5分钟即可搭建专属Agent。来源：量子位
+------------------
+【4月10日·周四】
+火山引擎推出AI数据专家“Data Agent”，企业数据全场景智能体
+火山引擎迎来首位AI数据专家「Data Agent」。作为企业数据全场景智能体，Data Agent在数据分析和智能营销领域表现出色。可融合企业内部结构化与非结构化数据，理解业务需求，生成深度研究报告，无缝制定并执行营销策略，为每位用户精准配置触达时机和营销文案，活动结束后自动复盘并持续学习进化。来源：火山引擎
+------------------
+【4月9日·周三】
+「AI硬件」闯出一匹黑马“小智AI”，2个月接入设备增长10万台
+「小智AI」作为一款开源AI硬件项目，在过去两个月内接入设备数增长10万台，增速达300%。语音助手以台湾腔、反应迅速、声音拟人化等特点在短视频平台引发病毒式传播，点赞量达数十万甚至百万。小智AI团队不生产硬件，设备多由爱好者、开发者DIY完成，通过电商平台售卖。来源：极客公园
+------------------
+【4月9日·周三】
+亚马逊推出全新 AI 语音模型 Nova Sonic，低价高质冲击 AI 语音市场
+亚马逊推出新一代生成式 AI 模型Nova Sonic，模型可原生处理语音并生成自然流畅语音。Nova Sonic 通过 Bedrock 平台提供，价格比 OpenAI 的 GPT-4o 便宜约 80%。在语音识别错误率、多语言支持、对话质量和响应速度等方面表现出色，平均单词错误率仅为 4.2%，响应时间 1.09 秒，比 GPT-4o 模型更快。来源：AI工具集
+------------------
+【4月9日·周三】
+英伟达开源Llama Nemotron-253B推理模型，吞吐量较DeepSeek R1提升4倍
+英伟达宣布开源Llama Nemotron-253B推理模型，模型基于Llama-3.1-405B微调而来。在多项基准测试中，Llama Nemotron击败了Llama 4，以一半参数量达到与DeepSeek R1相近的性能。在复杂数学推理、科学问答和编码任务中表现出色，吞吐量较DeepSeek R1提升4倍。来源：新智元
+------------------
+【4月9日·周三】
+美图WHEE推出全新图像生成模型Miracle F1，告别AI作品“塑料感”
+美图WHEE平台上线全新AI图像生成模型Miracle F1。模型能像摄影师、建筑师和画家一样，精准处理光影、空间和材质效果，生成的图像真实感强，细节逼真，告别了传统AI作品的“塑料感”。能精准理解复杂语义概念，如“纯色背景”“夜景灯光”等，支持多种风格，包括3D特效、二次元插画等。来源：美图小WHEE
+------------------
+【4月8日·周二】
+斯坦福李飞飞团队发布《2025年人工智能指数报告》：揭示12大趋势，AI变革加速
+斯坦福大学以人为本人工智能研究所（Stanford HAI）发布了《2025年人工智能指数报告》。长达456页的报告追踪了2024年全球人工智能行业的发展趋势，揭示了12大趋势，包括AI在苛刻基准上的表现持续提升、AI正越来越多地融入到日常生活中、企业全力投入AI推动投资和使用创历史新高、在创造顶级AI模型方面中国正在缩小与美国的差距、负责任的AI生态系统不断发展但不均衡等。来源：AI工具集
+------------------
+【4月8日·周二】
+阶跃星辰发布多模态推理模型Step-R1-V-Mini，高精度感知图像完成复杂推理任务
+阶跃星辰发布了全新的多模态推理模型Step-R1-V-Mini。模型支持图文输入和文字输出，具备良好的指令遵循和通用能力，能高精度感知图像并完成复杂推理任务。Step-R1-V-Mini在训练方法上采用多模态联合强化学习和多模态合成数据，有效提升了多模态协同场景下的推理表现。来源：阶跃星辰
+------------------
+【4月8日·周二】
+亚马逊升级 AI 视频模型 Nova Reel，最长可生成两分钟多镜头视频
+亚马逊升级 AI 视频模型NovaReel 至 1.1 版本，现可生成最长两分钟的多镜头视频。用户输入最多 4000 个字符的提示词，模型能生成由六秒镜头组成的视频。新增“多镜头手动”模式，结合图片和提示词，最多生成 20 个镜头的视频。来源：IT之家
+------------------
+【4月8日·周二】
+超越特斯拉，全球自由度最高的北京灵巧手创企，灵心巧手拿下超亿融资
+北京灵心巧手科技公司近日完成超亿元种子轮融资，由红杉种子基金等多家机构领投。公司成立于2019年，自主研发的Linker Hand系列灵巧手，工业版自由度达25-30个，科研版最高自由度达42个，是全球自由度最高的商用灵巧手，性能和价格优势明显。公司构建了全球最大的灵巧操作数据集DexSkill-Net，助力灵巧手快速学习复杂任务。来源：智东西
+------------------
+【4月8日·周二】
+英伟达斥资数亿美元收购 Lepton AI ，联创贾扬清和白俊杰均已入职英伟达
+英伟达已完成对AI大牛、阿里前副总裁贾扬清创立的Lepton AI的收购，交易价值数亿美元。Lepton成立于2023年，主要业务是出租英伟达GPU服务器，帮助创企在云中构建和管理AI应用。目前Lepton约有20名员工，联合创始人贾扬清和白俊杰已加入英伟达。来源：智东西
+------------------
+【4月7日·周一】
+DeepSeek 联合清华大学发布 DeepSeek-GRM 模型，推理时可扩展性显著提升
+DeepSeek 联合清华大学发布DeepSeek-GRM模型，模型采用点式生成奖励建模（GRM）方法，通过“自我原则批评调整”（SPCT）学习方法，使模型在推理时具有可扩展性。实验表明，DeepSeek-GRM-27B 在推理时扩展到 32 个样本时，性能可与 671B 参数模型相当，展现出推理时可扩展性的巨大优势。来源：AI工具集
+------------------
+【4月7日·周一】
+Meta 开源的多模态系列 AI 模型— —Llama 4，重夺开源王座
+Meta 发布Llama 4系列 AI 模型，包括 Llama 4 Scout、Llama 4 Maverick 和 Llama 4 Behemoth。模型采用“混合专家架构”，将数据处理任务分解给专门的“专家”模型，提升训练和回答效率。Maverick 有 4000 亿参数，128 个“专家”模型中 170 亿参数活跃；Scout 有 170 亿活跃参数、16 个“专家”模型，总参数 1090 亿。来源：AI工具集
+------------------
+【4月7日·周一】
+Midjourney 发布 AI 图片生成模型 V7，新增“草图模式”支持语音生图
+Midjourney 发布 AI 图片生成模型Midjourney V7版本并开启 alpha 测试。V7 版本在常规更新方面增强了文本理解能力，升级了细节纹理质感，提升了人物肢体、手部、物体结构等连贯性，默认启用“个性化模型”功能，可学习用户偏好。全新的“草图模式”，支持对话式交互界面、实时编辑、语音识别生成功能。来源：AI工具集
+------------------
+【4月7日·周一】
+全球风投交易量暴降32%！一季度AI赛道融资额占58%，亚洲不足10%
+2025年第一季度，全球风险投资交易数量达7551件，同比下降32%，但交易总价值达1263亿美元，同比上涨53.46%。AI和机器学习领域投融资最为活跃，交易数量2101件，交易额731亿美元，占全球风投总额的57.87%。美国OpenAI完成400亿美元融资，占美国风投资金50%以上。来源：钛媒体AGI
+------------------
+【4月7日·周一】
+OpenRouter 推出 Quasar Alpha：百万 Token 上下文的 AI 模型免费开放
+OpenRouter 推出了预发布版 AI 模型Quasar Alpha，模型具有 100 万 token 的超大上下文窗口，能处理超长文本和复杂文档。在代码生成方面表现出色，支持多种编程语言，生成速度快，延迟低，平均每秒生成 136 个 token，延迟仅为 0.5 秒。Quasar Alpha 支持联网功能和多模态功能，安全性增强。来源：AI工具集
+------------------
+【4月7日·周一】
+微软 Copilot 增加记忆、操控网页、创建播客等海量功能，打造独一无二 AI 伴侣
+微软为庆祝成立 50 周年，更新了Copilot的多项新功能，更接近 ChatGPT 或 Claude 等替代品。Copilot 现在支持记忆、个性化、基于 Web 的操作、播客创建、摄像头和屏幕分析、深度研究等功能。能跟踪用户偏好和详细信息以定制回复，用户可选择让 Copilot 记住的信息。能使用网络浏览器执行任务，如预订演出门票和餐厅。来源：IT之家
+------------------
+【4月7日·周一】
+微软 Bing 重大革新：Copilot Search 上线，AI 与传统搜索结合
+微软宣布 Bing 搜索引擎上线 Copilot Search 功能。工具将传统网络搜索与生成式搜索结果相结合，通过 Bing 检查多个网站信息，显示更详细准确的响应内容，提供引用和建议。来源：IT之家
+------------------
+【4月7日·周一】
+即梦 3.0 绘图模型上线，中文 AI 绘图能力迎来最强表现
+即梦3.0 绘图模型灰度内测上线。模型在中文直出方面取得重大突破，提升了大字的准确性、设计感和丰富度，大幅解决了小字稳定性问题。即梦 3.0 能直出 2K 图像，支持多种风格，如写实、卡通等，可生成复杂场景和艺术字体。来源：AI工具集
+------------------
+【4月7日·周一】
+商汤科技2025技术交流日：AI 2.0新生态与“强推理”全新日日新 6.0 AI 模型
+商汤科技将于4月10日下午14:00举办2025年技术交流日活动。本次交流日聚焦生成式AI为代表的AI 2.0发展，探讨其带来的生产力变革与多模态融合催生的“万物有灵”新生态。届时将推出主打“强推理”的全新日日新 6.0 AI 模型。为公众解答关于未来的诸多想象。来源：商汤科技 SenseTime
+------------------
+【4月3日·周四】
+前百度高管创立的 Genspark 推出通用智能体，免费开放使用，无需邀请码
+由前百度高管景鲲和朱凯华创立的Genspark推出通用智能体，在GAIA基准测试中超越Manus和OpenAI的Deep Research。智能体可完成旅游规划、视频生成、PPT制作等任务，支持实时交互和低错误率。目前免费开放，用户无需邀请码即可使用。来源：AI工具集
+------------------
+【4月3日·周四】
+谷歌 AI 笔记应用 NotebookLM 新增“发现资料”功能，可自动检索相关网络资源
+谷歌旗下人工智能笔记应用NotebookLM推出“发现资料”功能，基于Gemini技术，用户可在应用中输入主题，快速检索网络资源，获取最多10个相关资料及摘要，并导入笔记本。功能支持生成音频概览、思维导图等，提升资料收集效率。新增“好奇心驱动”按钮，可随机生成主题资料。来源：AI工具集
+------------------
+【4月3日·周四】
+元鼎智能完成近10亿元融资，携手Fluidra加速全球市场布局
+元鼎智能近日完成近10亿元人民币的战略融资，由全球泳池巨头Fluidra战略投资，云启资本加入，XVC、复星锐正、蜂巧资本等老股东增持。此次融资助力元鼎智能打通全球泳池专业渠道，实现从“线上领先”到“全渠道突破”的转型。来源：元鼎智能Aiper
+------------------
+【4月3日·周四】
+Augment Code 发布 AI 编程助手 Augment Agent，可处理数百万行代码项目
+Augment Code推出AI编程助手Augment Agent。专为大型代码库设计，拥有20万token的上下文窗口，可处理数百万行代码项目。“记忆”功能可适应个人编码风格，实时同步代码变更，支持多模态输入、终端命令等实用功能。Augment Agent已上线VS Code，JetBrains开发工具。来源：AI工具集
+------------------
+【4月2日·周三】
+OpenAI 推出免费 AI 学习平台 OpenAI Academy，覆盖普通小白到技术的各层次人群
+OpenAI 推出了免费的 AI 学习平台OpenAI Academy，帮助从普通小白到技术人员的各层次人群掌握 AI 技能。平台提供丰富的视频课程，如《ChatGPT Edu 学术助手指南》《提示词大师课》等，内容短小精悍，适合碎片化学习。每周举办多场线上活动，邀请专家讲解和互动，如《老年人 AI 入门》等课程。来源：AI工具集
+------------------
+【4月2日·周三】
+Sam Altman宣布，ChatGPT 的文生图功能现已面向所有免费用户开放
+OpenAI宣布ChatGPT的文生图功能向所有免费用户开放。最初仅限付费用户使用，因访问量过大导致服务器拥挤。文生图功能基于GPT-4o模型，可实现精准文本渲染、遵循指令提示、深度调用知识库及对话上下文，支持对上传图像进行二次创作或转化为视觉灵感。来源：AI工具集
+------------------
+【4月2日·周三】
+智元机器人与国际顶尖 Physical Intelligence（Pi）携手，引领具身智能全球创新
+智元机器人宣布与国际顶尖具身智能公司Physical Intelligence（Pi）达成深度技术合作，聚焦动态环境下长周期复杂任务。智元机器人在具身智能领域拥有本体-数据-模型三位一体全栈布局，量产超1000台通用具身机器人。近期加入智元的罗剑岚博士将领导具身智能研究中心，推进合作。来源：智元机器人
+------------------
+【4月2日·周三】
+阿里通义千问登顶全球开源模型榜首
+阿里通义千问的端到端全模态大模型Qwen2.5-Omni登上Hugging Face全球开源模型总榜榜首。该模型可同时处理文本、图像、音频和视频等多模态输入，实时生成文本与自然语音合成输出。阿里至今已开源200多款模型，千问衍生模型数量突破10万，成为全球最大开源模型族群。来源：界面新闻
+------------------
+【4月2日·周三】
+MiniMax Audio推出Speech-02系列语音模型，一次性可以输入20万字符
+MiniMax Audio正式发布Speech-02系列语音模型。模型支持30多种语言，一次性可输入20万字符，人声相似度高达99%，合成语音自然流畅，解决了音频播放中的卡顿和节奏不稳问题。MiniMax Audio推出“Read Anything”功能，用户可上传本地文件或粘贴网络URL，将文档、电子书、网页文章等转化为喜欢的音色聆听。来源：AI工具集
+------------------
+【4月2日·周三】
+Krea AI 宣布推出 Gemini 图像编辑功能，可通过自然语言编辑图片
+Krea AI宣布推出接入谷歌Gemini的图像编辑功能，功能已在Krea Chat上线。用户可上传图片，通过自然语言直接编辑，如改变背景、调整元素光线和颜色等，操作便捷高效，为图像编辑带来全新体验。来源：AI工具集
+------------------
+【4月2日·周三】
+国家天文台基于通义千问打造国际首个太阳大模型——“金乌”
+国家天文台联合阿里云发布国际首个太阳大模型“金乌”，基于阿里通义千问系列开源模型打造。“金乌”在M5级太阳耀斑预报上准确率超91%，为该级别最高水平。模型以超90万张太阳卫星图像为样本训练，可预测未来24小时耀斑爆发情况及生成太阳模拟图像。解决了传统太阳预报难以处理海量观测数据的难题。来源：阿里云
+------------------
+【4月1日·周二】
+Runway发布AI视频生成模型Gen-4，一张照片生成连贯全片，首次实现“世界一致性”
+Runway发布新一代AI视频生成模型Gen-4，全球首款实现“世界一致性”的模型。Gen-4可在多个场景中保持人物、场景和物体的一致性，无需额外精调，能凭借一张参考图在不同光线和场景中生成一致的角色或物体，从任意角度重建和捕捉场景。来源：AI工具集
+------------------
+【4月1日·周二】
+亚马逊推出 Nova Act：可操控网页浏览器的 AI 智能体
+亚马逊推出通用人工智能智能体Nova Act及其配套SDK。Nova Act由亚马逊旧金山AGI实验室研发，能操控网页浏览器并自主执行简单网络任务，如自动订购沙拉、预订餐厅等。未来将为生成式AI增强版语音助手Alexa +提供关键功能支持。目前开放的是“研究预览版”，功能尚待完善。来源：AI工具集
+------------------
+【4月1日·周二】
+OpenAI宣布将开源推理模型，首次计划发布开放权重语言模型
+OpenAI宣布将在未来几个月内推出一款具备推理能力的开放权重语言模型。是自GPT-2以来，OpenAI首次计划发布此类模型。OpenAI CEO Sam Altman表示，模型将遵循严格的准备框架进行评估，确保安全性与可靠性。OpenAI计划举办一系列开发者活动，收集反馈并展示早期原型，首场活动将在旧金山启动。来源：APPSO
+------------------
+【4月1日·周二】
+OpenAI完成400亿美元融资，估值3000亿美元，资金用于AI研究及扩大计算基础设施
+OpenAI宣布完成400亿美元融资，投后估值达3000亿美元。本轮融资由日本软银领投300亿美元，微软及其他投资者参与。资金将用于推动AI研究及扩大计算基础设施。来源：腾讯科技
+------------------
+【3月31日·周一】
+智谱推出首个免费、具备深度研究和操作能力的AI Agent：AutoGLM沉思
+智谱推出AI Agent产品AutoGLM沉思，免费的本地Agent，能探究开放式问题，根据结果执行操作的自主智能体（AI Agent）。能模拟人类的思维过程，完成从数据检索、分析到生成报告。实测中，AutoGLM沉思版成功完成了包括购物对比、知识调研、学习指导和旅行规划等任务，展现了强大的执行能力和思考能力。来源：AI工具集
+------------------
+【3月31日·周一】
+千寻智能完成5.28亿元Pre-A轮融资，领先VLA模型加速具身智能落地
+千寻智能完成5.28亿元人民币Pre-A轮融资，由阿美风险投资旗下Prosperity7 Ventures领投，多家资本参与。本轮融资将加速其具身大模型迭代、机器人进化及人才团队建设。千寻智能成立于2024年，团队来自顶尖高校和知名企业，致力于打造通用人形机器人和下一代具身大模型。来源：千寻智能 Spirit AI
+------------------
+【3月31日·周一】
+面壁发布首个纯端侧智能助手cpmGO，构建汽车超性能端侧大脑
+面壁智能发布首个纯端侧智能助手——小钢炮超级助手cpmGO，赋能汽车智能座舱，提供纯端侧、超性能、全场景服务。助手具备视觉、语音、多模态等丰富能力，可实现端到端智能化应用，突破弱网断网限制，保护车内信息安全，支持9大类26款应用，提升使用便捷性。来源：面壁智能
+------------------
+【3月31日·周一】
+AI Agent 产品 Manus 公布收费方案：提供 39 美元和 199 美元两种套餐
+AI Agent产品Manus公布收费方案，从免费测试阶段转向商业化运营。收费方案包括两种套餐：Manus Starter每月39美元（约合283元人民币），获3900积分，可同时运行2个任务；Manus Pro每月199美元（约合1446元人民币），获19900积分，可同时运行5个任务并支持高投入模式和其他测试功能。来源：IT之家
+------------------
+【3月31日·周一】
+擎朗智能发布首款人形具身服务机器人“XMAN-R1”，可完成“点单-配餐-送餐-收餐”等长任务闭环
+上海擎朗智能科技有限公司正式发布首款人形具身服务机器人“XMAN-R1”。机器人以“岗位化、亲和力、安全性”为设计理念，模拟服务人员动作逻辑，适配服务场景需求，可完成“点单-配餐-送餐-收餐”等长任务闭环。搭载11项多模态传感器，结合自研三维重建技术，实现360度高精度感知与智能避障。来源：擎朗智能
+------------------
+【3月31日·周一】
+智源发布首个跨本体具身大小脑协作框架与开源具身大脑RoboBrain
+智源研究院在中关村论坛上发布首个跨本体具身大小脑协作框架RoboOS与开源具身大脑RoboBrain。RoboBrain融合任务规划、可操作区域感知、轨迹预测能力，通过多阶段训练，增强长程操作任务能力，可在多评测任务中超越多个领先模型。RoboOS基于“大脑-小脑”分层架构，实现多机器人协作，支持多类型具身本体，具备动态任务管理与优化能力。来源：智源研究院
+------------------
+【3月31日·周一】
+国产视频大模型的全球引领，生数科技在中关村论坛重磅发布Vidu Q1模型
+生数科技发布高可控视频大模型Vidu Q1。模型由清华大学人工智能研究院副院长朱军教授团队研发，实现了多主体细节、音效同步和画质增强的高可控性。Vidu Q1支持精准调整主体动作、布局，能根据画面转场生成相应音效，画质更清晰逼真。来源：生数ShengShu
+------------------
+【3月31日·周一】
+百度文小言官宣支持多模型调度，升级端到端语音大模型、图片问答能力
+百度文小言在百度AI DAY上宣布完成品牌焕新与功能升级，支持多模型融合调度，整合百度自研及第三方优质模型，用户可一键调用最优组合或灵活选择单一模型。全新语音大模型支持方言对话、复杂问答等，调用成本低、响应速度快，实现多情感语音合成。图片问答功能可深度解析图片，新增“图个冷知识”功能，从多角度解读图片，提升交互趣味性。来源：IT之家
+------------------
+【3月31日·周一】
+马斯克xAI收购X，总估值8000亿，开启AI与社交融合新纪元
+马斯克宣布其AI创企xAI与社交平台X（前身为推特）正式合并。xAI以全股票交易收购X，xAI估值800亿美元，X实际估值330亿美元，合并后总估值1130亿美元（约8208亿元人民币）。马斯克称，xAI和X的未来交织在一起，此次整合将数据、模型、计算、分发和人才相结合，释放巨大潜力。来源：智东西
+------------------
+【3月28日·周五】
+阿里通义千问推出视觉推理模型 QVQ-Max：可分析、推理图片和视频内容
+阿里通义千问团队发布新一代视觉推理模型QVQ-Max。模型具备细致观察、深入推理和灵活应用三大核心能力，能快速解析图片和视频内容，识别关键元素并结合背景知识进行推理。能协助完成数据分析、编程等职场任务，帮助学生解答难题、推荐穿搭方案等。来源：IT之家
+------------------
+【3月28日·周五】
+GPT-4o「吉卜力风」一夜爆火，奥特曼连夜换头像！宫崎骏痛批AI侮辱生命
+OpenAI 更新的GPT-4o原生图像生成功能因「吉卜力风格」图片生成一夜爆火。用户可将任何图像上传并请求 AI 转换为吉卜力风格，效果出色且操作便捷。功能引发了社交媒体热潮，奥特曼也换上了吉卜力风格的头像。宫崎骏曾批评 AI 作画是对生命的侮辱。来源：新智元
+------------------
+【3月28日·周五】
+华为ModelEngine全流程AI开发工具链正式开源！
+华为在2025中国合作伙伴大会上宣布ModelEngineAI全流程工具链正式开源。工具链围绕数据使能、模型使能和应用使能打造，解决AI行业化落地中的关键问题，如数据工程耗时长、模型训练和应用落地难等。来源：华为开源
+------------------
+【3月28日·周五】
+豆包新版深度思考开启测试，支持边想边搜
+字节跳动旗下的 AI 智能助手豆包推出新版深度思考功能。将推理过程与搜索深度结合，支持“边想边搜”，可在思考过程中多次调用工具、搜索信息，提供更全面、准确的结果。来源：豆包
+------------------
+【3月28日·周五】
+Ideogram 3.0 发布：AI 绘图领域的新突破
+Ideogram.ai 推出最新的 AI 绘图模型Ideogram 3.0。模型在图像生成领域取得了重大进展，在图像与文本提示的对齐、逼真度和文本渲染质量方面表现出色。能生成具有高度一致性和创意的设计作品，支持复杂排版和艺术化文本创作。来源：AI工具集
+------------------
+【3月28日·周五】
+可灵AI平台全面升级，新增AI音效与资产管理功能
+快手科技旗下的可灵AI平台宣布全面升级。对视觉体系和交互体验进行了优化。新版本采用极简主义设计，自然排版和黑白配色，减少视觉干扰，突出创意。平台新增“AI音效”和“资产管理”功能，分别用于提升作品表达力和优化文件管理效率。来源：可灵AI
+------------------
+【3月27日·周四】
+阿里开源全模态模型Qwen2.5-Omni，7B尺寸实现全球最强性能
+阿里通义千问Qwen2.5-Omni-7B正式开源。作为首个端到端全模态大模型，Qwen2.5-Omni可同时处理文本、图像、音频和视频输入，实时生成文本与自然语音输出。在OmniBench等多模态任务中刷新纪录，性能远超Google的Gemini-1.5-Pro等同类模型。来源：阿里云
+------------------
+【3月27日·周四】
+腾讯ima知识号正式上线，助力知识创作与管理
+腾讯旗下的AI智能工作台ima宣布正式推出知识号。知识号为知识库创作者提供了一个全新的平台，创作者可以通过ima知识号入口申请创建账号，在ima知识广场发布知识库。平台提供数据分析工具，创作者可以直观地查看知识库的相关数据，包括知识库的数量、参与人数等。来源：ima.copilot
+------------------
+【3月27日·周四】
+DeepSeek全新版本API上线讯飞星辰MaaS平台
+DeepSeek全新版本DeepSeek-V3-0324上线讯飞星辰MaaS平台。新版本在推理任务表现、前端开发能力、中文写作水平以及中文搜索能力等方面实现显著提升，在数学、代码类评测集上得分超GPT-4.5。平台提供与DeepSeek官方API一致的效果，支持联网搜索，拓展应用场景。来源：讯飞开放平台
+------------------
+【3月27日·周四】
+OpenAI宣布Agent SDK 正式支持 MCP 服务，解锁无限工具扩展
+OpenAI宣布Agent SDK重大更新，正式支持Model Context Protocol（MCP）服务。MCP如同AI模型的“USB接口”，提供统一标准，使AI智能体能“即插即用”地接入各种第三方工具，如网络搜索、数据库查询等，极大简化多任务开发流程，提升复杂自动化应用开发效率。来源：IT之家
+------------------
+【3月27日·周四】
+微信 AI 搜索新增“快速思考”，采用混元 T1 模型
+微信AI搜索在“快速回答”和“深度思考”之外，新增“快速思考”选项，由腾讯混元T1模型提供支持。可快速生成回答，引用消息源包括公众号推文和网页信息，结果页面支持继续提问和社交分享，历史问答会保存在“最近”列表中。来源：IT之家
+------------------
+【3月26日·周三】
+谷歌发布Gemini 2.5 Pro，多项测试夺冠，推理能力全面超越OpenAI
+谷歌发布Gemini 2.5 Pro，是Gemini 2.5思考模型家族的首个成员。模型在多项基准测试中表现卓越，以1443分在大模型竞技场获断层第一，领先优势达39分，全面超越OpenAI o3-mini等多款知名模型。在“人类最后考试”中，得分较OpenAI o3-mini提升近5%，提升比例达34%。Gemini 2.5 Pro支持100万tokens上下文窗口。来源：智东西
+------------------
+【3月26日·周三】
+昆仑万维发布全球首款音乐推理大模型Mureka O1，中国AI音乐革命领跑全球
+昆仑万维正式发布全球首款音乐推理大模型Mureka O1。模型基于Mureka V6升级，首次引入思维链（CoT）技术，显著提升音乐创作效率与品质。涵盖多种风格与情感表达，具备歌曲参考和音色克隆等特色功能。性能超越Suno V4，登顶SOTA。来源：昆仑万维集团
+------------------
+【3月26日·周三】
+瑞典AI初创公司Lovable，3个月收入达1.2亿，AI编程市场新奇迹
+由Anton Osika和Fabian Hedin创立的瑞典AI公司Lovable，凭借AI驱动的Web应用开发平台，仅用3个月就实现了从0到1700万美元的年化收入增长。平台支持用户通过自然语言描述功能，AI自动生成可生产代码。是面向非技术人员的AI编程工具。用户留存率超85%，网站月访问量达1000万次。来源：AI工具集
+------------------
+【3月26日·周三】
+OpenAI发布GPT-4o图像生成功能，免费向用户开放
+OpenAI宣布在GPT-4o模型中集成先进图像生成功能，用户可通过自然语言指令生成和编辑图像。新功能支持多轮对话优化图像，保持内容一致性，能处理10至20个物体的复杂指令，远超其他模型。支持文本渲染、风格转换和上下文关联生成。来源：IT之家
+------------------
+【3月26日·周三】
+它石智航官宣天使轮融资1.2亿美元，开启具身智能创业新征程
+具身智能初创公司它石智航（TARS）宣布完成1.2亿美元天使轮融资，创下中国具身智能行业天使轮最大融资额纪录。本轮融资由蓝驰创投、启明创投领投，线性资本等多家知名机构跟投。融资将用于产品研发、模型训练和场景拓展。来源：它石智航
+------------------
+【3月26日·周三】
+谷歌Gemini Live推出实时AI视频新功能，实时交互能力再升级
+谷歌在MWC上承诺的Project Astra与Gemini Live集成功能正式上线。Gemini Live新增屏幕共享功能，用户可通过“Share screen with Live”按钮让AI读取手机屏幕信息并回答问题。实时视频功能可让Gemini通过手机摄像头解读画面并即时回答相关问题。来源：机器之心
+------------------
+【3月25日·周二】
+DeepSeek V3模型已完成小版本升级，可在官方网页、APP、小程序试用体验
+DeepSeek V3发布模型更新。此次更新属于小版本升级，模型参数量达6850亿，新版V3在编程能力上大幅提升，特别在前端编码方面，已接近Claude 3.7水平。用户测试显示，多轮对话的上下文理解能力也显著增强。开源版本已上架HuggingFace。来源：AI工具集
+------------------
+【3月25日·周二】
+阿里开源Qwen2.5-VL-32B多模态模型，视觉语言与数学推理能力显著增强
+阿里开源了最新多模态模型Qwen2.5-VL-32B-Instruct，参数量 32B，主打视觉语言，兼顾性能与尺寸，适合本地部署。模型经强化学习优化，在数学推理、图像解析等任务中表现出色，超越更大规模的 72B 模型。在多模态任务及纯文本能力上均达同规模最优表现。来源：AI工具集
+------------------
+【3月25日·周二】
+Trae 支持配置 DeepSeek V3 最新版
+Trae宣布支持配置DeepSeek V3最新版（DeepSeek-V3–0324）。Trae是国内首个AI原生IDE，专注于中文开发场景，支持自定义模型接入。DeepSeek-V3–0324拥有6850亿参数，是基于DeepSeek V3的小版本升级。开发者可通过简单配置接入该模型，提升编程体验。来源：Trae&MarsCode
+------------------
+【3月25日·周二】
+美团已开发内部大模型 LongCat，AI 策略是主动进攻
+美团CEO王兴在财报电话会议中表示，美团在人工智能领域采取“主动进攻”策略，定位为连接数字世界与物理世界的桥梁。美团已开发内部大语言模型LongCat，用于日常工作，推出AI编码、智能会议与文档助手等工具，将集成其他主流模型助力产品研发。来源：IT之家
+------------------
+【3月24日·周一】
+百度“秒哒”正式全量上线，国内首个对话式应用开发平台
+百度宣布国内首个“对话式”应用开发平台“秒哒”正式全量上线。平台采用“无代码编程 + 多智能体协作 + 多工具调用”技术组合，用户仅需通过自然语言描述需求，可自动生成完整功能代码，实现“3分钟生成+1小时迭代”的开发体验。来源：AI工具集
+------------------
+【3月24日·周一】
+OpenAI推出三大音频模型，语音交互技术迈向新高度
+OpenAI推出新一代音频模型，包括语音转文本和文本转语音功能。gpt-4o-transcribe显著降低单词错误率，优于现有Whisper模型；gpt-4o-mini-transcribe是精简版本，速度更快、效率更高；gpt-4o-mini-tts首次支持“可引导性”，开发者可控制语音风格。来源：APPSO
+------------------
+【3月24日·周一】
+腾讯混元自研深度思考模型「T1」正式发布
+腾讯正式发布自研深度思考模型混元T1正式版。擅长超长文处理和快速推理，混元T1采用Hybrid-Mamba-Transformer融合架构，降低计算复杂度和内存占用，减少训练和推理成本，在长文本推理领域表现出色，解码速度提升2倍。来源：腾讯混元
+------------------
+【3月24日·周一】
+生数科技用AI赋能国内动漫短剧市场，7部千万级网文IP改编概念短片
+生数科技旗下的AI视频生成平台Vidu宣布获得7部千万级网文IP概念短片改编授权，包括《修罗武神》《九星霸体决》等热门作品。这些IP将通过AI技术改编为动漫短片，标志着网络文学AI影视化改编的新里程碑。来源：Vidu AI
+------------------
+【3月24日·周一】
+全球客服AI先锋Shulex完成亿元级融资，加速AI数字员工开发与全球化布局
+全球化客户服务 AI Agent 企业Shulex（VOC.AI）近日完成亿元级融资，由 盛大资本领投，北极光创投、Starting Gate Fund 跟投，非凡资本担任独家财务顾问。本轮融资将用于加速大模型驱动的 AI 数字员工开发，扩大全球业务版图。来源：AI工具集
+------------------
+【3月24日·周一】
+Anthropic AI 聊天机器人 Claude 新增联网搜索功能
+Anthropic宣布大语言聊天机器人Claude新增联网搜索功能。用户可在个人设置中开启网页浏览功能，Claude会在需要时自动联网提取信息，在反馈结果中提供直接引用来源方便核实。来源：IT之家
+------------------
+【3月24日·周一】
+百川智能携手北京儿童医院发布全球首个儿科大模型“福棠·百川”，双医模式助力基层医疗
+百川智能携手北京儿童医院发布全球首个儿科大模型“福棠·百川”，推出两款AI儿科医生应用（基层版和专家版）。模型覆盖儿童常见病与疑难病症知识体系，首创儿科“循证模式”，整合医学证据为患儿制定个性化诊疗方案。来源：百川大模型
+------------------
+【3月20日·周四】
+OpenAI 推出最贵 o1-pro API，定价远超 DeepSeek
+OpenAI 推出了最昂贵的API——o1-pro。是o1的升级版，使用更多计算资源以提供更优质响应，仅对特定开发者开放（Tier 1–5）。定价极高：每百万输入token收费150美元，输出token收费600美元。来源：机器之心
+------------------
+【3月20日·周四】
+飞书字段捷径 —— Kimi 招聘助手上线，助力企业高效招聘
+北京月之暗面推出飞书字段捷径Kimi 招聘助手，为 HR 提供高效招聘支持。工具通过强大的文本分析能力，实现简历信息提取、候选人匹配评估和面试建议生成的一站式服务。用户只需输入简历和职位需求，系统可快速生成关键信息和匹配度分析。来源：Kimi 开发平台
+------------------
+【3月20日·周四】
+阶跃星辰开源图生视频模型 Step-Video-TI2V，运动可控，动漫效果尤佳！
+上海阶跃星辰宣布开源图生视频模型Step-Video-TI2V。模型基于30B参数，支持生成102帧、5秒、540P分辨率的视频，具备运动幅度可控和镜头运动可控两大核心特点，在动漫风格视频生成方面表现出色。来源：阶跃星辰
+------------------
+【3月19日·周三】
+黄仁勋甩出三代核弹AI芯片！个人超算每秒运算1000万亿次，DeepSeek成最大赢家
+英伟达GTC大会上，黄仁勋发布了新一代核弹级AI芯片Blackwell Ultra（GB300），性能大幅提升，推理速度可达每秒1000万亿次。芯片配备20TB HBM3内存和40TB快速内存，支持14.4TB/s的CX8带宽。还推出了基于Blackwell Ultra的AI PC，包括DGX Station和DGX Spark，适用于AI推理、机器人训练及自动驾驶等领域。来源：APPSO
+------------------
+【3月19日·周三】
+豆包编程能力再升级，3分钟做出专属小游戏
+字节跳动旗下的AI智能助手豆包宣布AI编程能力升级，新增HTML预览、Python运行和完整项目生成三项功能。用户可通过豆包快速制作小游戏等互动网页。豆包支持HTML代码实时预览和交互，Python代码直接运行并提供一键报错修复，能生成完整项目代码，无需分别编写前后端逻辑。来源：豆包
+------------------
+【3月19日·周三】
+谷歌 Gemini 更新：新增音频播客、Canvas 画布与 Deep Research 扩容
+谷歌Gemini最新推出了 Canvas 功能，可用于创建、改进和分享写作与编码项目，实时预览代码效果。新增“文本转音频”功能（Audio Overviews），可将文本对话生成音频播客。免费用户的 Deep Research 使用次数增加至每月 10 次，帮助用户更高效地完成复杂的研究任务。来源：Google
+------------------
+【3月19日·周三】
+马斯克xAI公司收购视频生成初创公司Hotshot，加速布局AI视频领域
+马斯克的xAI公司收购了Hotshot视频生成初创公司。Hotshot由4人组成，在13个月内开发出3款视频生成模型，包括Hotshot-XL、Hotshot Act-One和Hotshot。Hotshot模型可生成最长10秒的720p视频。公司由Aakash Sastry和John Mullan于2017年创立，曾获Reddit联合创始人Alexis Ohanian等投资。来源：量子位
+------------------
+【3月19日·周三】
+谷歌达成迄今最大一笔收购交易，320 亿美元现金买下云安全公司 Wiz
+谷歌宣布以320亿美元全现金收购云安全初创公司Wiz，是其迄今最大一笔收购交易。Wiz是一家总部位于纽约的云安全公司，提供连接到所有主要云服务和代码环境的安全平台。此次收购旨在提升谷歌云的安全能力，支持多云环境，推动云安全创新。交易完成后，Wiz将继续在所有主要云平台上运行，包括AWS、Azure和甲骨文云。来源：IT之家
+------------------
+【3月18日·周二】
+腾讯 Hunyuan3D 2.0 开源：几何与纹理分离，一键生成高精度3D模型
+腾讯推出Hunyuan3D 2.0，开源的高质量 3D 模型生成系统。采用几何与纹理分离的生成架构，通过大规模扩散模型实现高精度几何形状和高分辨率纹理的生成。系统支持文本和图像到 3D 模型的快速转换，具备纹理更换功能。来源：AI工具集
+------------------
+【3月18日·周二】
+Cursor 推出 Claude 3.7 Max：更强大的代码编辑与项目管理
+Cursor 推出Claude 3.7 Max，提供了更大的200k上下文窗口，支持最多 200 次工具调用，能处理更复杂的代码编辑和项目。专为需要深度理解和大规模修改的复杂任务设计。来源：AI工具集
+------------------
+【3月18日·周二】
+昆仑万维开源R1V视觉思维链推理模型，开启多模态思考新时代
+昆仑万维开源首款工业级多模态思维链推理模型Skywork R1V。模型具备强大的视觉理解和推理能力，能处理复杂的视觉逻辑推理、数学问题和科学现象分析等任务。在权威基准测试中表现卓越，推理能力领先于行业内众多主流模型。来源：昆仑万维集团
+------------------
+【3月18日·周二】
+秘塔AI搜索升级：文字秒变可视化网页
+秘塔AI搜索升级模型，推出“生成互动网页”功能。用户可在研究模式下将文字内容秒变互动网页，或通过粘贴文章链接快速生成，核心观点一目了然。支持上下滑动查看更多内容，登录后署名分享。来源：AI秘塔
+------------------
+【3月18日·周二】
+苏姿丰北京激情演讲！点赞DeepSeek，AMD全面拥抱中国
+AMD董事会主席兼CEO苏姿丰在北京AMD AI PC创新峰会上发表演讲，强调中国市场对AMD的重要性。会上，AMD展示了锐龙AI Max系列、锐龙AI 300系列等新品，强调AI PC的定制化、自动化和进阶推理趋势。AMD现场演示了DeepSeek模型在AI PC上的本地部署效果，包括生成吃豆人游戏等应用。来源：智东西
+------------------
+【3月18日·周二】
+Mistral Small 3.1 上线，多模态理解与文本性能双重升级
+Mistral AI 推出Mistral Small 3.1开源多模态人工智能模型。模型在文本性能、多模态理解以及长上下文窗口（128k tokens）方面进行了改进，推理速度可达每秒 150 个 token。在多项基准测试中表现优异，超越了 Gemma 3 和 GPT-4o Mini 等同类模型。来源：AI工具集
+------------------
+【3月18日·周二】
+QwQ-32B登陆！超算互联网MaaS服务再上新
+超算互联网平台推出 QwQ-32B 推理大模型服务。QwQ-32B 已集成至平台的 Chatbot 可视化对话服务和 API 在线调用服务。用户可通过平台一级栏目直接体验其多轮交互和长文本解析能力，满足学术研究、代码生成、日常咨询等需求。来源：超算互联网
+------------------
+【3月17日·周一】
+蝴蝶效应备案manus.cn顶级域名，此前曾称尽快将创新体验带给中文用户
+北京蝴蝶效应科技有限公司的manus.cn域名备案审核通过。此前公司官网域名是manus.im。3月11日，manus官博曾发文表示“尽快将Manus的创新体验带给广大中文用户，敬请期待”。来源：财联社
+------------------
+【3月17日·周一】
+ima智能工作台升级：五大新功能助力高效办公与创作
+腾讯旗下的ima智能工作台在电脑端和移动端（安卓版）迎来更新，更新内容包括：支持使用混元T1模型，适用于复杂任务；新增Markdown文件导入与解读功能；支持修改最新一条问答消息；笔记的AI写作支持多轮对话；笔记中可调用知识库辅助创作。来源：ima.copilot
+------------------
+【3月17日·周一】
+新浪财经APP喜娜AI助手赋能财经资讯：AI摘要与公告解读新突破
+新浪财经APP的喜娜AI助手通过北京市生成式人工智能服务登记，推出“喜娜AI摘要”和“个股公告AI解读”两项创新功能。喜娜AI摘要可快速提炼财经新闻和文章的核心要点，帮助用户高效获取信息；个股公告AI解读基于深度学习模型，深度解析上市公司公告，生成专业解读报告。来源：AI工具集
+------------------
+【3月17日·周一】
+谷歌 Gemini 2.0 Flash 模型拥有强大图片去水印功能，或触犯版权红线
+谷歌推出的Gemini 2.0 Flash模型因强大的图片去水印功能引发争议。模型可去除包括盖蒂图片社等知名图库图片的水印，会填补因水印删除产生的空白区域，目前免费提供给用户使用。来源：IT之家
+------------------
+【3月17日·周一】
+百度发布文心大模型4.5及X1，两款模型免费上线
+百度发布文心大模型4.5和文心大模型X1，在文心一言官网免费开放。文心大模型4.5是新一代原生多模态基础大模型，具备优秀的多模态理解能力和精进的语言能力，通过关键技术如FlashMask动态注意力掩码等实现能力提升。文心大模型X1是能力更全面的深度思考模型，能自主运用工具，在多种场景表现出色。来源：百度
+------------------
+【3月17日·周一】
+零一万物推出万智，打通企业大模型“最后一公里”，确认不再做超大基模迭代
+李开复创立的AI独角兽零一万物宣布推出万智企业大模型一站式平台，为企业级DeepSeek部署提供定制解决方案。平台预装高性能GPU，内置DeepSeek全系列模型，支持多种前沿模型架构，具备灵活扩展性，AI搜索产品准确性高达88%。来源：钛媒体AGI
+------------------
+【3月17日·周一】
+清华团队开源“赤兔”推理引擎，FP8模型部署成本减半、速度翻番
+清华系科创企业清程极智与清华大学翟季冬教授团队联合开源大模型推理引擎“赤兔”（Chitu）。率先实现非H卡设备运行原生FP8模型的突破，在A800集群上部署DeepSeek-671B满血版推理服务时，相比vLLM方案，GPU数量减少50%，速度提升3.15倍。来源：AI工具集
+------------------
+【3月17日·周一】
+对话姜哲源：3.99万元背后，我们想成为人形机器人赛道的小米和苹果
+国内机器人创业公司NOETIX Robotics松延动力发布人形机器人N2和升级版机器人E1，其中E1最低价格为3.99万元起，N2预售价达5.99万元起。N2身高1.2米，具备后空翻、奔跑等多种运动能力，预售量已超500台。创始人姜哲源表示，要让人形机器人不再只是少数人的产品，未来希望成为人形机器人领域的“苹果”。来源：钛媒体AGI
+------------------
+【3月14日·周五】
+谷歌免费开放Deep Research功能：人人皆可深度探索信息
+谷歌近日向所有用户免费开放了Deep Research功能，此前该功能仅限Gemini Advanced付费用户使用。用户可登录Gemini官网体验。来源：AI工具集
+------------------
+【3月14日·周五】
+谷歌Gemini 2.0 Flash全模态图像生成上线，动嘴就能P图
+谷歌Gemini 2.0 Flash全模态图像生成功能正式上线，用户可通过自然语言对话生成和编辑图像，支持文本与图像结合、对话式编辑、世界知识理解和文本渲染等亮点。开发者可通过Gemini API或Google AI Studio使用。来源：AI工具集
+------------------
+【3月13日·周四】
+潞晨科技重磅开源 Open-Sora 2.0，视频大模型降本提速
+潞晨科技推出开源视频生成模型Open-Sora 2.0，仅用20万美元（224张GPU）成功训练11B参数商业级模型，性能媲美百万美元成本的主流闭源模型。模型在VBench评测中表现优异，与OpenAI Sora的性能差距大幅缩小至0.69%。来源：潞晨科技
+------------------
+【3月13日·周四】
+谷歌推出新一代开源模型 Gemma 3，单卡最强多模态模型
+谷歌推出新一代开源模型Gemma 3，是 Gemma 模型家族的最新版本。Gemma 3 支持多模态输入，包括视觉语言输入和文本输出，能处理长达 128k 令牌 的上下文窗口，涵盖超过 140 种语言。在数学、推理和对话能力上都有显著提升，提供结构化输出和函数调用功能。来源：AI工具集
+------------------
+【3月13日·周四】
+阿里巴巴推出AI旗舰应用——新夸克，发布“AI超级框”
+阿里巴巴推出全新AI旗舰应用“新夸克”。新夸克基于阿里通义领先的推理及多模态大模型，全面升级为无边界的“AI超级框”，为2亿用户带来全新AI体验。与对话式AI不同，夸克将AI对话、深度思考、深度搜索、深度研究、深度执行整合到一个极简“AI超级框”内，一站式满足用户需求。来源：阿里巴巴
+------------------
+【3月13日·周四】
+理想汽车推出“理想同学网页版”，集成DeepSeek R1与MindGPT双模型
+理想汽车推出“理想同学网页版”，集成DeepSeek R1与MindGPT双模型，提供高效智能服务。用户可通过网页版进行深度思考和联网搜索，实现复杂任务的简化处理。MindGPT支持图文问答，提升交互体验。来源：AI理想同学
+------------------
+【3月13日·周四】
+智元机器人与阶跃星辰达成战略合作，共同探索AI+具身智能场景
+智元机器人与阶跃星辰正式签署战略合作协议。双方将利用各自优势，在具身智能与大模型领域展开全方位合作，聚焦新零售等场景解决方案开发、具身智能数据合作及世界模型技术探索。来源：智元机器人
+------------------
+【3月12日·周三】
+Trae功能上新：支持 Remote-SSH 和自定义模型配置
+Trae发布新功能，更新支持Remote-SSH远程开发，开发者可在本地通过Trae访问和操作远程主机文件夹，享受代码补全、调试等AI辅助功能。Trae新增自定义模型配置，用户可接入火山引擎、DeepSeek、硅基流动、阿里云、腾讯云等服务商的模型资源，满足个性化需求。来源：Trae&MarsCode
+------------------
+【3月12日·周三】
+OpenAI 发布 Agent 工具包，助力开发者构建智能体
+OpenAI发布了专为构建AI Agents设计的新工具包，包括Responses API、Web搜索工具、文件搜索工具、计算机使用工具以及开源的Agents SDK。简化开发者创建自动完成任务的AI Agents的过程。来源：APPSO
+------------------
+【3月12日·周三】
+豆包文生图技术报告发布！数据处理、预训练、RLHF全流程公开
+字节跳动豆包大模型团队发布文生图技术报告，首次公开Seedream 2.0图像生成模型技术细节。模型覆盖数据构建、预训练框架及后训练 RLHF 全流程，具备原生中英双语理解、文字渲染、高美感等特性。Seedream 2.0 已在豆包 APP 和即梦上线。来源：豆包大模型团队
+------------------
+【3月12日·周三】
+李飞飞团队新成果 BEHAVIOR Robot Suite：500美元打造全能家务机器人
+李飞飞团队推出具身智能新成果——BEHAVIOR Robot Suite（BRS），解决机器人在家庭环境中完成家务任务的全身操作问题。BRS的核心组件成本不到500美元，具备三项关键能力：双臂协同、稳定导航和末端执行器的广泛操作范围。团队通过JoyLo低成本遥操作接口和WB-VIMA学习算法，实现了高效的数据采集和全身动作协调。来源：量子位
+------------------
+【3月12日·周三】
+Manus将与阿里通义千问团队正式达成战略合作
+Manus平台宣布与阿里通义千问团队达成战略合作。双方将基于通义千问系列开源模型，在国产模型和算力平台上实现Manus的全部功能，为中国用户打造更具创造力的通用智能体产品。来源：财联社
+------------------
+【3月12日·周三】
+DeepSeek-R1 & V3 API 再升级，支持批量推理，R1 价格直降 75%
+硅基流动SiliconCloud平台宣布DeepSeek-R1 & V3 API升级，新增批量推理功能。用户通过批量API发送请求，不受实时推理速率限制，24小时内完成任务。3月11日至18日，DeepSeek-R1批量推理价格直降75%，输入1元/百万Tokens，输出4元/百万Tokens。来源：硅基流动
+------------------
+【3月11日·周二】
+智元机器人发布灵犀X2：双足人形机器人解锁情感交互与灵活运动新技能
+智元机器人发布灵犀X2，具备高自由度运动、情感计算和通用任务执行能力的双足人形机器人。灵犀X2全身28个自由度，未采用并联结构，运动灵活，能骑自行车、踩滑板车。搭载情感计算引擎，可感知情绪并回应，交互反应达毫秒级。来源：AI工具集
+------------------
+【3月11日·周二】
+字节推出音效生成模型 SeedFoley，一键生成大片感音效！
+字节跳动豆包大模型语音团队推出SeedFoley模型，通过端到端架构实现视频音效智能生成，将 AI 视频创作带入“有声时代”。“AI 音效”已上线即梦，用户可一键生成 3 个专业级音效方案。来源：AI工具集
+------------------
+【3月11日·周二】
+阿里开源 R1-Omni：DeepSeek 同款 RLVR 技术赋能全模态情感识别
+阿里通义实验室薄列峰团队开源R1-Omni模型，首次将 DeepSeek 同款 RLVR 技术应用于全模态情感识别。模型结合视觉和音频模态，通过 RLVR 和 GRPO 方法优化，在情感识别的推理能力、理解能力和泛化能力上显著提升。来源：AI工具集
+------------------
+【3月11日·周二】
+豆包大模型团队 COMET 系统开源，万卡集群部署节省数百万 GPU 小时
+字节跳动豆包大模型团队推出通信优化系统COMET，针对 MoE 模型分布式训练中的通信瓶颈，通过细粒度计算-通信重叠技术，实现单层 1.96 倍加速，端到端平均 1.71 倍效率提升。COMET 已在万卡级生产集群落地，节省数百万 GPU 小时资源，获 MLSys 2025 高分评审，核心代码已开源。来源：豆包大模型团队
+------------------
+【3月11日·周二】
+百度文心快码推出Zulu：从需求到代码的端到端生成
+百度文心快码推出AI自动编程智能体Zulu，为开发者提供从需求到代码的端到端生成服务。Zulu能自主理解编码需求，精准拆解任务，突破单文件限制，实现跨模块、跨目录的系统级代码生成。支持多种编程语言和框架，具备多文件编辑与管理、一键采纳变更代码、工具调用、实时预览和多模态交互等功能。来源：AI工具集
+------------------
+【3月11日·周二】
+科大讯飞联合华为率先实现国产算力大规模跨节点专家并行集群推理
+科大讯飞与华为联合团队在国产算力领域取得重大进展，率先突破了国产算力集群上MoE模型的大规模跨节点专家并行集群推理。通过软硬件深度协同创新，团队在昇腾集群上完成了验证和部署，实现了显著的性能提升。来源：科大讯飞研究院
+------------------
+【3月11日·周二】
+百度上线“月匣”App，第4次冲击AI社交
+百度推出情感陪伴类App“月匣”，主打高自由度AI对话与沉浸式剧本互动。App搭载文心一言大模型，整合DeepSeek、豆包、MiniMax abab三大外部模型，构建“四核驱动”的AI社交引擎。通过多模型协同和沉浸式剧本交互，重新定义情感陪伴类应用边界，填补情绪刚需空白。来源：AI工具集
+------------------
+【3月11日·周二】
+OpenAI 发布 CoT 思维链研究成果，监控阻止大模型恶意行为
+OpenAI公布最新研究，通过CoT（思维链）监控方式监控推理模型的“想法”，阻止AI大模型恶意行为，如胡说八道、隐藏真实意图等。测试中，以o3-mini为被监控对象，GPT-4o为监控器，在编码任务环境下，CoT监控器检测系统性“奖励黑客”行为召回率达95%，远超仅监控行为的60%。来源：IT之家
+------------------
+【3月11日·周二】
+鸿海首个大语言模型 FoxBrain 发布：具备推理能力
+鸿海推出首个大语言模型“FoxBrain”，基于 Meta 的 Llama 3.1 架构，由 120 块英伟达 H100 GPU 训练完成，训练周期约四周。模型具备推理能力，适配繁体中文及本土语言风格，主要用于内部数据分析、决策辅助、文档协作等场景。来源：AI工具集
+------------------
+【3月11日·周二】
+Manus 沙盒代码被获取，基座模型为：Claude Sonnet 及阿里 Qwen 微调模型
+网友通过查找 /opt/.manus/ 下的文件获取了Manus沙盒运行代码，发现 Manus 使用了 Claude Sonnet 模型及基于该模型的 29 个工具，未使用 Claude 多智能体，还使用了 Browser Use 的开源代码作为 Computer use 能力底座。Manus 联合创始人季逸超回应称，沙盒代码的“泄露”是设计的一部分，每个对话都有独立沙盒环境。来源：第一财经
+------------------
+【3月10日·周一】
+MetaGPT 团队推出 OpenManus ：开源版 Manus
+MetaGPT的5人小团队仅用3小时成功复刻了开源版Manus——OpenManus，在GitHub上获得了8k+的star。OpenManus无需邀请码，可以自由使用。用户可通过创建conda环境、克隆存储库、安装依赖项并配置API密钥等步骤快速上手使用。来源：AI工具集
+------------------
+【3月10日·周一】
+智元发布首个通用具身基座大模型GO-1
+智元机器人发布首个通用具身基座大模型Genie Operator-1（GO-1）。模型基于创新的Vision-Language-Latent-Action（ViLLA）架构，融合多模态大模型（VLM）和混合专家系统（MoE），通过预测隐式动作标记，弥合图像-文本输入与机器人动作执行之间的差距。来源：智元机器人
+------------------
+【3月10日·周一】
+超算互联网QwQ-32B API接口服务上线，免费100万Tokens
+超算互联网平台上线阿里巴巴开源推理模型QwQ-32B的API接口服务，提供免费100万Tokens。QwQ-32B基于Qwen2.5-32B+强化学习构建，在数学和代码能力上表现优异。用户可通过超算互联网平台快速开发或私有化部署该模型，平台提供保姆级教程，支持多种访问形式。来源：超算互联网
+------------------
+【3月10日·周一】
+北京大学联合华为发布全栈开源DeepSeek推理方案
+北京大学联合华为发布DeepSeek全栈开源推理方案。方案基于北大自研的SCOW算力平台系统、鹤思调度系统，整合了DeepSeek、openEuler、MindSpore与vLLM/RAY等开源组件，实现了华为昇腾上的高效推理，支持大规模算力集群的训推一体化部署。来源：北京大学高性能计算校级公共平台
+------------------
+【3月10日·周一】
+CAMEL-AI推出OWL项目：0天复刻Manus，开源且性能卓越
+CAMEL-AI开源社区推出OWL项目，成功0天复刻Manus通用智能体完全开源，性能在GAIA Benchmark上达到57.7%，超越Huggingface的Open Deep Research（55.15%）。OWL项目免费，支持GitHub一键克隆，提供云端和本地两种执行环境。来源：CAMEL-AI
+------------------
+【3月10日·周一】
+Mistral AI 推出 Mistral OCR API：最快最准光学字符识别，千页 1 美元
+Mistral AI推出Mistral OCR，先进的光学字符识别（OCR）API。能精准识别文档中的文本、图像、表格、公式等复杂元素，支持多语言和多模态输入，处理速度可达每分钟2000页。在基准测试中，Mistral OCR的准确率高达94.89%，全面领先其他OCR模型。来源：AI工具集
+------------------
+【3月10日·周一】
+OpenAI 更新 macOS 版 ChatGPT，可在 Xcode 等 IDE 中直接编辑代码
+OpenAI更新macOS版ChatGPT应用，新增在Xcode、VS Code等IDE中直接编辑代码的功能。用户通过“与应用程序协作”功能，可让ChatGPT自动检测当前活跃编辑器并交互，能在编辑过程中对话ChatGPT。来源：IT之家
+------------------
+【3月6日·周四】
+全球首款通用 AI Agent 产品 Manus 发布，刷新 AI 基准测试纪录
+Monica.im团队推出全球首款真正自主的AI Agent产品Manus，引发AI圈关注。Manus采用多代理架构，能独立思考、规划并执行复杂任务，直接交付完整成果。在 GAIA 基准测试中创下新纪录，远超 OpenAI 同类产品。来源：AI工具集
+------------------
+【3月6日·周四】
+腾讯混元开源图生视频模型，上线音频与动作驱动能力，助力创意视频创作
+腾讯正式发布并开源混元图生视频模型。模型支持用户通过上传一张图片输入简短描述，可生成5秒的短视频，同时具备对口型、动作驱动和背景音效自动生成等功能。模型适用于多种场景，包括写实、动漫和CGI角色制作，总参数量为130亿。来源：AI工具集
+------------------
+【3月6日·周四】
+通义千问QwQ-32B，更小尺寸，性能比肩全球最强开源推理模型
+阿里云通义千问团队推出320亿参数的推理模型QwQ-32B，性能媲美6710亿参数的DeepSeek-R1。模型通过大规模强化学习提升推理能力，在数学推理、编程能力等多领域表现卓越，超越多个领先模型。QwQ-32B集成Agent能力，支持批判性思考与动态调整。来源：通义千问Qwen
+------------------
+【3月6日·周四】
+逐际动力半年完成5亿元融资，阿里、蔚来、联想等巨头加持
+具身智能机器人公司「逐际动力」近期完成A+轮融资，半年内累计融资5亿元人民币。此次融资由阿里巴巴、蔚来资本、联想创投等多家知名机构参与，将用于加速人形机器人研发与商业化落地。专注于全尺寸通用人形机器人及双足机器人开发。来源：36氪
+------------------
+【3月6日·周四】
+智源开源多模态向量模型BGE-VL：多模态检索新突破
+智源研究院联合多所高校开发了多模态向量模型BGE-VL，推动多模态检索技术的突破。模型基于大规模合成数据集 MegaPairs 训练，具备优异的可扩展性和数据质量。MegaPairs 通过自动化挖掘和标注多模态数据，仅需传统数据量的 1/70 即可实现更优效果。来源：智源研究院
+------------------
+【3月6日·周四】
+Cohere 推出 Aya Vision，突破多语言多模态 AI 新纪元
+Cohere For AI 推出领先的多模态、多语言视觉模型Aya Vision，支持 23 种语言，覆盖全球超半数人口。Aya Vision 在多语言图像理解和文本生成任务中表现出色， 8B 和 32B 版本在性能上超越了包括 Llama-3.2 90B Vision 在内的更大规模模型。来源：AI工具集
+------------------
+【3月5日·周三】
+Vidu API 开放平台全面开放，开启智能化内容生产范式
+全球领先的专业级视频生成服务ViduAPI开放平台全面开放，面向企业级用户与个人开发者。具备多模态语义理解能力，支持文字、图片等多模态指令输入，精准匹配创作意图。动漫风格稳定，画面流畅，帧间一致性高，首创多主体一致性技术，突破模型上下文理解限制。来源：Vidu AI
+------------------
+【3月5日·周三】
+OpenAI宣布提供3.6亿，联合15个大学和机构建立NextGenAI教育联盟
+OpenAI宣布成立NextGenAI教育联盟，联合15家顶尖大学和机构，包括加州理工学院、哈佛大学、麻省理工学院、牛津大学等。OpenAI将提供5000万美元（约合人民币3.6亿元）的研究补助金、计算资源和API访问权限，支持学生、教育工作者和研究人员推进AI研究与教育创新。来源：钛媒体AGI
+------------------
+【3月4日·周二】
+智谱发布开源图像生成模型CogView4，首个支持中英双语，图像生成迎来新突破
+智谱正式发布并开源最新的图像生成模型CogView4。模型具备强大的复杂语义对齐和指令跟随能力，支持任意长度的中英双语输入，可生成任意分辨率的图像。CogView4在DPG-Bench基准测试中综合评分排名第一，成为开源文生图模型中的最先进技术（SOTA）。来源：GLM大模型
+------------------
+【3月4日·周二】
+通义灵码上新Qwen2.5-Max模型，体验数学和编程双冠王能力
+阿里云和通义实验室联合推出的AI编码助手“通义灵码”上线了Qwen2.5-Max模型。模型使用超过20万亿token的预训练数据及优化的后训练方案，在Arena-Hard、LiveBench等基准测试中，Qwen2.5-Max领先业界，在数学和编程能力上排名第一。来源：通义灵码
+------------------
+【3月4日·周二】
+Anthropic完成35亿美元E轮融资，估值飙升至615亿美元
+Anthropic完成35亿美元E轮融资，估值达615亿美元。本轮融资由Lightspeed Venture Partners领投，Bessemer Venture Partners、Cisco Investments等多家机构参与。资金将用于推进下一代AI系统开发、扩大计算能力、加速国际扩张。Anthropic推出的Claude 3.7 Sonnet和Claude Code，在代码能力上取得突破。来源：Anthropic
+------------------
+【3月4日·周二】
+秘塔AI搜索推出视频搜索功能，高效学习娱乐新体验
+秘塔AI搜索推出新功能，新增“视频”搜索模块。功能基于对上亿条视频内容的分析，覆盖多模态数据，用户可通过关键词快速找到学习或娱乐视频。来源：AI秘塔
+------------------
+【3月4日·周二】
+百川智能调整业务布局，聚焦医疗领域
+百川智能近期对To B业务进行重大调整。2025年3月3日，金融行业To B团队被裁撤，此前，团队曾负责金融领域的大模型商业化，推出Baichuan4-Finance等产品。此次调整是为聚焦医疗领域，百川已在该领域布局，如投资医疗数据服务商“小儿方”并计划落地AI医生助理。来源：智能涌现
+------------------
+【3月3日·周一】
+智谱AI完成超10亿元新轮战略融资，杭州城投产业基金参与投资
+智谱AI完成超10亿元战略融资，投资方包括杭州城投产业基金等。两轮融资期间近三个月DeepSeek的RL训练模式引发行业变革，促使OpenAI等公司调整战略，降低GPT-4 Turbo价格考虑开源。智谱AI在开源生态和基座模型上持续投入，计划发布并开源全新大模型产品，同时调整B端与C端业务，强化行业定制化与多模态交互体验。来源：智谱
+------------------
+【3月3日·周一】
+中国首款AI IDE：Trae国内版发布，配置豆包1.5pro，支持切换满血版DeepSeek模型
+中国首个AI原生集成开发环境（AI IDE）Trae国内版正式上线。Trae配置了Doubao-1.5-pro，支持切换满血版DeepSeek R1、V3模型，专为中国开发者设计，支持代码补全、理解、Bug修复及自然语言生成代码等功能，通过Builder模式实现“思想到代码”的快速转化，提升开发效率。来源：豆包MarsCode
+------------------
+【3月3日·周一】
+MiniMax Video-01系列收官，海螺视频App全球上线
+MiniMax宣布Video-01系列收官，推出海螺视频App全球上线。海螺视频App集成了图生视频模型I2V-01-Director和文生图视频模型T2V-01-Director，组成01-Director系列，为用户提供15种可自由组合的运镜效果，支持多运镜镜头组合和自然语言控制镜头运动。来源：MiniMax 稀宇科技
+------------------
+【3月3日·周一】
+科大讯飞星火X1升级，推出星火一体机及多款新品
+科大讯飞宣布星火X1大模型升级，并发布多款新品。星火X1在数学能力上显著提升，首发星火医疗大模型X1，已应用于“讯飞晓医”，在医疗推理任务上超越GPT-4o和DeepSeek R1。科大讯飞联合华为升级星火一体机，推出医疗、政务、高教、法律、警务五大场景一体机，发布首款“星火X1+DeepSeek”双引擎AI学习机，推动AI在多领域的深度应用。来源：科大讯飞
+------------------
+【3月3日·周一】
+亚马逊推出Alexa+：五大技术突破 AI 助手新体验
+亚马逊云科技宣布推出Alexa+，下一代AI助手。Alexa+采用全新架构，连接大语言模型、智能体能力、服务和设备，实现更智能、更具个性化的用户体验。五大技术突破包括：全新架构连接数以万计的服务和设备；精准系统提供准确实时信息；极致优化降低延迟；个性化响应定制专属体验；新增智能体能力突破API限制。来源：亚马逊云科技
+------------------
+【3月3日·周一】
+“腾讯元宝电脑版”正式发布：混元大模型 / DeepSeek 双模切换
+腾讯元宝电脑版正式上线。具备便捷的文件管理、在线协作编辑、实时沟通等功能，提升团队协作效率。用户可以在电脑端享受与移动端一致的流畅体验，支持多平台无缝切换，满足远程办公、团队协作等多样化需求。来源：AI工具集
+------------------
+【3月3日·周一】
+飞书推出个人 AI 知识库“飞书知识问答”，支持调用 DeepSeek R1
+字节跳动旗下的飞书推出“飞书知识问答”的个人AI知识库产品。通过自然语言对话形式，为用户提供资料整合与搜索问答服务。用户可以将飞书内的文件、文档等资料同步至知识库，或手动上传本地文件，系统会自动解析整合。来源：AI工具集
+------------------
+【3月3日·周一】
+夸克AI搜索上线深度思考，新亮点，新体验！
+夸克AI搜索上线了“深度思考”功能，升级AI搜索体验。更新聚焦于提升搜索结果的深度和精准度。通过深度思考技术，结合AI搜索，能快速从多个权威来源整理答案，提供更精准、简洁的搜索体验。夸克集成了AI写作、生图、PPT制作、翻译等功能，一站式解决用户在工作和生活中的多样化需求。来源：夸克APP
+------------------
+【2月28日·周五】
+Trae已全量支持Claude 3.7！免费！
+Traev1.0.8版本正式发布，新增对Claude 3.7 Sonnet模型的全量支持，为用户提供更强大的AI生成能力。资源有限，响应可能延迟，服务目前免费，用户可体验更高效、智能的AI功能。来源：AI工具集
+------------------
+【2月28日·周五】
+OpenAI发布GPT-4.5：更智能、更具情商的聊天模型
+OpenAI推出GPT-4.5，作为最强聊天模型的研究预览版本，目前仅对Pro用户和开发者开放。GPT-4.5通过扩大无监督学习，提升了模式识别、知识广度和创造力，减少了幻觉现象，对话更自然。在写作、编程和解决问题上表现出色，具备更高情商，能更好地理解人类意图。来源：AI工具集
+------------------
+【2月28日·周五】
+DeepSeek开源高性能并行文件系统 3FS 实现聚合吞吐 6.6 TiB/s
+DeepSeek在开源周最后一天发布了Fire-Flyer File System（3FS）和Smallpond数据处理框架。3FS是一种高性能并行文件系统，专为AI训练和推理设计，支持大规模集群的高吞吐量数据访问，峰值读取吞吐量达6.6 TiB/s。Smallpond基于3FS和DuckDB构建，支持高效数据处理，可扩展至PB级数据集。来源：AI工具集
+------------------
+【2月28日·周五】
+百度文心大模型4.5，3月16日正式上线
+百度宣布文心大模型4.5将于3月16日正式上线。两年前的同一天，百度发布了全球首个生成式AI产品——文心一言。此次升级后的文心大模型4.5在基础模型能力上大幅提升，新增原生多模态和深度思考能力。来源：百度
+------------------
+【2月28日·周五】
+荣耀、阿里在 AI 领域达成合作：千问、万相等多个模型已接入 YOYO 智能体
+百荣耀宣布与阿里在AI领域达成合作，千问（Qwen）和万相（Wan）等多款语言、视觉理解及图像生成模型已接入荣耀YOYO智能体。用户可通过Magic7系列手机体验相关AI功能。YOYO助理已上线DeepSeek-R1满血版，支持深度思考模式，答案更精准、及时。来源：IT之家
+------------------
+【2月27日·周四】
+腾讯混元新一代快思考模型 Turbo S 发布，实现秒级响应
+腾讯发布新一代快思考模型混元Turbo S，模型在知识、数理、创作等方面表现出色，实现“秒回”功能，吐字速度提升一倍，首字时延降低44%。混元Turbo S采用Hybrid-Mamba-Transformer融合架构，有效降低计算复杂度和部署成本。来源：腾讯混元
+------------------
+【2月27日·周四】
+DeepSeek开源新动作：三大并行计算优化技术，助力大模型训练效率飞跃
+DeepSeek开源三项并行计算优化技术，DualPipe是一种双向流水线并行算法，通过计算与通信的完全重叠，显著减少流水线气泡，优化 GPU 资源利用率。EPLB（专家并行负载均衡器）通过冗余专家策略和负载均衡技术，解决专家并行中 GPU 负载不均的问题。profile-data 提供详细的性能分析数据，帮助开发者深入理解并行策略优化。来源：AI工具集
+------------------
+【2月27日·周四】
+Anthropic 全面开放 Claude AI 的 GitHub 集成，赋能所有开发者
+Anthropic宣布全面开放Claude AI的GitHub集成，面向免费、Pro和Teams用户。集成后，用户可将GitHub代码库同步至Claude，使其理解代码上下文，辅助测试、调试和优化代码。来源：IT之家
+------------------
+【2月27日·周四】
+微软开源Phi4多模态与Phi4-Mini：端侧AI迎来最强小模型
+微软开源两款小模型Phi-4-Multimodal和Phi-4-Mini。Phi-4-Multimodal是多模态模型，集成了文本、视觉和语音输入，采用“混合LoRA”技术，表现出色。Phi-4-Mini是3.8亿参数的语言模型，擅长数学和编码任务，性能优于同尺寸模型。来源：AI工具集
+------------------
+【2月26日·周三】
+DeepSeek API 错峰优惠，R1 价格降至1/4
+DeepSeek推出API错峰优惠，2025年2月26日起，DeepSeek开放平台在北京时间每日00:30至08:30的夜间空闲时段，DeepSeek-V3 API调用价格降至原价的50%，DeepSeek-R1价格低至原价的25%。鼓励用户在夜间利用平台资源，享受更经济、更流畅的服务体验。来源：DeepSeek
+------------------
+【2月26日·周三】
+阿里云开源视频生成大模型“Wan2.1”，全模态、全尺寸助力全球开发者
+阿里云开源视频生成大模型“万相2.1”，采用Apache 2.0协议，提供14B和1.3B两个参数版本，支持文生视频和图生视频任务。14B版本在复杂运动生成和物理建模方面表现卓越，1.3B版本能在消费级显卡上运行，仅需8.2GB显存可生成480P视频。万相2.1在权威评测集Vbench中以86.22%的总分超越国内外众多模型。来源：AI工具集
+------------------
+【2月26日·周三】
+DeepSeek开源FP8 GEMM库：极致优化Hopper GPU性能，助力AI训练与推理
+DeepSeek开源周第三弹发布——DeepGEMM，是专为Hopper GPU设计的FP8 GEMM库，支持密集和MoE GEMM，性能高达1350+ TFLOPS。采用JIT即时编译，无需预编译，核心代码仅约300行，支持多种矩阵布局，矩阵运算提速显著。来源：AI工具集
+------------------
+【2月26日·周三】
+谷歌推出 Gemini Code Assist 个人版编程工具，免费可用
+谷歌推出面向个人开发者的免费编程工具Gemini Code Assist，帮助学生、爱好者和初创公司更便捷地获取AI编程支持。工具基于谷歌Gemini 2.0模型驱动，支持38种语言，提供每月最多18万次代码补全服务，远超其他同类产品。来源：AI工具集
+------------------
+【2月25日·周二】
+Claude 3.7 Sonnet发布：AI推理与编码能力的双重突破
+Anthropic发布全球首个混合推理模型——Claude 3.7 Sonnet。模型结合了标准和扩展思考模式，可在快速响应与深度思考间切换，用户可通过API细粒度控制思考时间。Anthropic推出命令行工具Claude Code，支持代码搜索、编辑、测试、提交及复杂应用开发，显著提升开发效率。来源：AI工具集
+------------------
+【2月25日·周二】
+DeepSeek 开源通信库 DeepEP，大幅提升 MoE 模型训练与推理效率
+DeepSeek 开源周第二天，发布开源项目DeepEP，专为混合专家模型（MoE）训练和推理设计的高效通信库。DeepEP 提供高吞吐量和低延迟的全对全 GPU 内核，支持 NVLink 和 RDMA 通信，优化训练和推理效率。来源：AI工具集
+------------------
+【2月25日·周二】
+ChatGPT 变身苹果 Safari 浏览器默认搜索引擎
+OpenAI更新ChatGPT应用，新增Safari扩展功能，用户可将ChatGPT设为Safari地址栏的默认搜索引擎。更新后，用户在“设置”中启用“ChatGPT搜索扩展”，输入搜索查询时，结果将直接由ChatGPT提供，非传统的谷歌等搜索引擎。来源：IT之家
+------------------
+【2月25日·周二】
+阿里Qwen团队发布推理模型QwQ，会展示完整的思维链
+阿里通义千问团队推出QwQ-Max-Preview深度思考模型，支持联网搜索，具备强大的通用能力，可完成创意写作、代码生成、数学题解答等任务。模型基于Qwen2.5-Max构建，未来将以Apache 2.0许可协议开源。目前已上线官网，用户可通过点击“深度思考（QwQ）”按钮体验。来源：AI工具集
+------------------
+【2月25日·周二】
+Perplexity 官宣“Comet”浏览器，主打“AI 智能体搜索”
+Perplexity AI宣布进军浏览器市场，推出名为“Comet”的浏览器。浏览器以“AI 智能体搜索”为核心概念，提供更贴近用户需求的搜索体验。Comet 已开启注册，具体上线时间和功能细节尚未公布。Perplexity AI 称 AI 技术将优于谷歌 Chrome 和微软 Edge 等现有浏览器的搜索体验。来源：IT之家
+------------------
+【2月25日·周二】
+字节AI加速调整，豆包正测试深度思考模型，暂未接入DeepSeek
+字节跳动旗下AI助手“豆包”正在小范围测试深度思考模型，但未接入DeepSeek，是采用自研技术。目前，豆包的深度思考功能尚未开放，部分测试用户已能体验到思维链的呈现。自DeepSeek开源后，字节AI部门面临重大调整。来源：Z Finance
+------------------
+【2月24日·周一】
+DeepSeek 开源周首日推出 FlashMLA，为 Hopper GPU 优化的高效 MLA 解码内核
+DeepSeek启动“开源周”，首个开源项目为FlashMLA，是针对NVIDIA Hopper GPU优化的高效MLA解码内核，专为处理可变长度序列设计。灵感来源于FlashAttention 2&3和Cutlass项目。FlashMLA支持CUDA 12.3及以上版本、PyTorch 2.0及以上版本。来源：AI工具集
+------------------
+【2月24日·周一】
+LiblibAI一年内完成四轮融资，再次斩获数亿元资金
+LiblibAI宣布在过去一年内连续完成四轮融资，创下国内AI应用赛道融资速度新纪录。最新两轮融资由渶策资本、顺为资本领投，明势创投等跟投，巨人网络参与产业投资。LiblibAI致力于AI内容创作与分享，已拥有超2000万创作者和5亿张生成图片。本轮融资将重点投入创作者生态建设和技术研发，推动平台全球化发展。来源：LiblibAI
+------------------
+【2月24日·周一】
+爱诗科技推出PixVerse V4：5秒生成AI视频，音画同步
+爱诗科技发布PixVerse V4，带来AI视频创作新突破。新增“音效”功能，可自动生成与视频内容匹配的音效；“人声”功能可为视频角色生成口型一致的配音；“重绘”功能支持一键切换视频风格，提供赛博、芭比等多种风格。生成速度可达5秒。来源：爱诗科技 AIsphere
+------------------
+【2月24日·周一】
+LiblibAI 作为独家 AIGC 创作合作平台接入阶跃开源视频生成大模型
+上海阶跃星辰智能科技有限公司开源的视频生成大模型“Step-Video-T2V”正式接入LiblibAI平台，LiblibAI成为其独家AIGC创作合作平台。此次合作推动AI技术的普及与创新，为全球开发者和创作者提供更优质的服务。来源：阶跃星辰
+------------------
+【2月24日·周一】
+马斯克宣布 Grok 3 语音模式早期测试版已上线
+马斯克在社交平台X宣布，Grok 3语音模式早期测试版已在Grok应用程序上线。支持用户通过自然语言与AI对话，提供两种声音（Ara和Grok）及不同个性，支持添加自定义说明和分享对话。来源：IT之家
+------------------
+【2月24日·周一】
+月之暗面 Kimi 开源“Moonlight”混合专家模型
+月之暗面Kimi发布“Moonlight”混合专家模型（MoE），包含30亿和160亿参数版本。模型在Muon技术基础上训练，使用了5.7万亿个token，以更低的浮点运算次数（FLOPs）实现更优性能，提升了帕累托效率边界。团队通过添加权重衰减等技术优化Muon优化器，无需超参数调优可用于大规模训练，计算效率是AdamW的2倍。来源：AI工具集
+------------------
+【2月21日·周五】
+小红书将接入DeepSeek，AI搜索“点点”iOS版下载量总计约20万
+小红书即将接入DeepSeek-R1开源模型，在AI搜索产品“点点”App中推出“深度思考”功能，目前处于内测阶段。“点点”App自上线以来，iOS版下载量总计约20万次。“点点”，定位为生活搜索助手，覆盖多种生活场景。来源：钛媒体AGI
+------------------
+【2月21日·周五】
+DeepSeek 官宣下周陆续开源 5 个代码库，每日解锁新内容
+DeepSeek宣布将在下周陆续开源5个代码库，每日解锁新内容。公司表示，这些经过测试和部署完备的代码库可投入生产环境，将“毫无保留地分享进展”。DeepSeek自称为“小小的团队”，强调该领域没有“象牙塔”。来源：IT之家
+------------------
+【2月21日·周五】
+Figure推出Helix：凭单神经网络实现上身控制与自然语言交互
+人形机器人公司Figure推出通用控制模型Helix，是与OpenAI断交后的首个成果。Helix通过单一神经网络控制机器人整个上身，包括手腕、躯干和手指，能理解自然语言指令，完成拿起物品、打开冰箱等任务，可协作完成复杂操作。来源：AI工具集
+------------------
+【2月21日·周五】
+Spotify 启动 AI 配音有声书服务，29 种语言可供选择
+Spotify宣布与ElevenLabs合作推出AI配音有声书服务。支持29种语言，为作者提供多种合成语音选项。免费版每月提供10分钟文本转语音服务，付费套餐起价99美元，可生成500分钟配音。Spotify认为，AI配音能让小型作者更低成本地制作有声书，便于旧书有声化。来源：IT之家
+------------------
+【2月21日·周五】
+腾讯元宝升级：DeepSeek图生文功能上线
+腾讯元宝上线图生文功能，结合混元和DeepSeek技术，可理解图片内容提供分析。结合混元的多模态理解技术后，在关闭联网搜索的情况下，用户发送任意图片并提问，元宝都能给出自己的理解和分析。来源：腾讯
+------------------
+【2月21日·周五】
+英伟达推出 Signs AI 平台，助力美式手语学习与无障碍沟通
+英伟达携手美国聋童协会（ASDC）和 Hello Monday 推出Signs AI平台，帮助更多人学习美式手语（ASL）。平台通过摄像头捕捉手势提供实时反馈，使用 3D 虚拟人物演示正确动作，方便用户对比学习。Signs 平台通过用户贡献的视频不断优化模型，数据集包含 40 万个视频片段，涵盖 1000 个手语单词。来源：AI工具集
+------------------
+【2月20日·周四】
+「捏 Ta」X「清影」达成战略合作，多模态模型商业化持续发力
+AI角色创作平台“捏Ta”与智谱旗下的多模态模型“清影”达成战略合作，共同探索从AI角色设计到动画创作的完整路径。此次合作基于智谱最新升级的视频生成大模型CogVideoX-2，显著提升了模型的图像生成和指令遵从能力，支持高质量视频创作。上线首日，“捏Ta”平台完成4万+次视频生成，调用上亿次Tokens。来源：智谱
+------------------
+【2月20日·周四】
+ima App安卓端正式上线 云存储空间扩容至2GB
+腾讯旗下的AI智能工作台ima App正式上线。ima App安卓版可通过官网或腾讯应用宝下载，iOS版也将随后推出。ima App延续了简洁设计风格，整合了电脑端和小程序的核心功能，ima云存储空间扩容至2GB，满足用户多场景需求。来源：ima.copilot
+------------------
+【2月20日·周四】
+xAI 公司宣布 Grok 3 限时免费开放，直到服务器不堪重负为止
+马斯克旗下人工智能公司xAI宣布，Grok 3现向公众免费开放，直至服务器不堪重负。所有用户均可免费使用Grok 3的推理和深度搜索功能。X Premium+和SuperGrok订阅用户将享有优先访问权及语音模式等高级功能。来源：IT之家
+------------------
+【2月20日·周四】
+Codeium 获新一轮融资，估值推至 28.5 亿美元
+AI编程初创公司Codeium完成新一轮融资，估值达28.5亿美元。此次融资距C轮融资仅6个月，当时估值为12.5亿美元。Codeium专注于为企业提供服务，去年推出WindsurfEditor工具，可自动编写部分代码。来源：IT之家
+------------------
+【2月20日·周四】
+「灵境AI」完成数百万元种子轮融资，打造AI时代文创IP“造梦新基建”
+灵境AI完成数百万元种子轮融资，打造AI时代文创IP“造梦新基建”。专注于文创内容生成的AI科技公司，核心业务涵盖网文大数据平台、AI短篇小说工厂、AI动漫创作引擎和内容出海计划。通过“创意洞察+AI提效”模式，在小说、动漫、微短剧等领域实现智能化生产，大幅提升创作效率和分发效率。来源：灵境AI创作
+------------------
+【2月19日·周三】
+「灵宝CASBOT」完成超亿元天使轮融资，加速推进人形机器人量产进程
+北京中科慧灵机器人技术有限公司（灵宝CASBOT）近日完成超亿元天使轮融资，投资方包括联想创投、国投创合、河南资产基金等。本轮融资将加速人形机器人量产及核心技术研发。2024年11月，公司发布首款双足人形机器人CASBOT 01，拥有52个自由度，算力达550T，续航超4小时。来源：36氪
+------------------
+【2月19日·周三】
+OpenAI 推出大模型测试基准 SWE-Lancer
+OpenAI 官方宣布，推出全新的大模型测试基准SWE-Lancer，用于评估大语言模型（LLMs）在自由职业软件工程任务中表现的基准测试。基准包含来自 Upwork 的 1400 多个真实任务，总价值达 100 万美元，涵盖从简单修复到复杂功能开发的全栈工程任务。来源：AI工具集
+------------------
+【2月19日·周三】
+硅基流动完成新一轮亿元人民币融资
+硅基流动于2024年底完成亿元人民币Pre-A轮融资，由华创资本领投，普华资本跟投，耀途资本超额跟投，华兴资本担任财务顾问。此前，硅基流动已引入美团作为战略股东。大模型云服务平台SiliconCloud上线不到一年，用户数超300万，日均调用上千亿Token，支持上百款主流模型。来源：硅基流动
+------------------
+【2月18日·周二】
+xAI 发布 Grok 3 聊天机器人，性能较前代提升十倍
+马斯克旗下xAI公司发布新一代大模型Grok 3，Grok 3在数学推理、科学逻辑和代码写作等能力上表现卓越，超越DeepSeek-v3、GPT-4o和Gemini-2 Pro等模型。开发依托10万块英伟达H100 GPU的Colossus超级计算机，训练时长2亿GPU小时，性能较前代提升十倍。Grok 3引入推理模式和“DeepSearch”功能，支持复杂问题的深度思考。来源：AI工具集
+------------------
+【2月18日·周二】
+月之暗面推出最新模型：Kimi Latest，开放平台同步上线
+月之暗面科技宣布推出Kimi智能助手最新模型——Kimi Latest。模型对标Kimi智能助手当前使用的最新大模型，支持128k上下文长度，具备图片理解能力，支持自动上下文缓存。Kimi Latest适用于大模型聊天应用，如ChatWise、ChatBox等，可提供与Kimi智能助手相似的聊天体验。来源：Kimi 开放平台
+------------------
+【2月18日·周二】
+阶跃星辰联合吉利首次开源，为开源世界贡献多模态力量
+阶跃星辰与吉利汽车集团联合开源两款多模态大模型——Step-Video-T2V视频生成模型和Step-Audio语音交互模型。Step-Video-T2V参数量达300亿，可生成高质量视频，性能领先全球开源视频模型。Step-Audio是业内首款产品级开源语音交互模型，支持多语种、方言、情感表达及音色克隆，性能在多项评测中名列前茅。来源：阶跃星辰
+------------------
+【2月18日·周二】
+秘塔AI搜索推出“浅度研究”功能，2-3分钟完成数百网页分析
+秘塔AI搜索推出Shallow Research「浅度研究」功能，快速收集信息并完成初步分析。功能采用“小模型+大模型”协同架构，结合秘塔自研模型与DeepSeek R1推理模型，可在2-3分钟内完成数百个网页的搜索与分析。来源：AI秘塔
+------------------
+【2月18日·周二】
+昆仑万维开源中国首个面向AI短剧创作的视频生成模型，重塑AI短剧行业格局
+昆仑万维开源中国首个面向AI短剧创作的视频生成模型SkyReels-V1及表情动作可控算法SkyReels-A1。SkyReels-V1是开源视频生成模型中参数最大且支持图生视频的模型，可实现影视级人物微表情表演和电影级光影美学，支持33种细腻表情与400+自然动作组合。SkyReels-A1支持高保真微表情还原和更大幅度的人物表情驱动。来源：昆仑万维集团
+------------------
+【2月18日·周二】
+Mistral 推出首个专业区域语言模型：专精阿拉伯语和印度起源语言
+Mistral AI 推出首个专业区域语言模型Mistral Saba，满足中东和南亚地区对本地化语言和文化的需求。模型拥有 240 亿参数，经过精心策划的数据集训练，支持阿拉伯语及多种印度起源语言，擅长泰米尔语。来源：AI工具集
+------------------
+【2月17日·周一】
+字节Trae Win+Mac版全量上线，免费无限量使用Claude
+字节跳动推出的AI编程IDETraeWin+Mac版于正式全量上线。Trae支持免费无限量使用Claude Sonnet编程大模型，具备全自动开发模式“Builder模式”，可实现需求理解、代码生成、文件操作及错误修复一体化。Trae支持多模态开发，可直接通过上传原型或截图生成代码。来源：AI工具集
+------------------
+【2月17日·周一】
+浙江大学推出DeepSeek系列专题线上公开课
+浙江大学人工智能教育教学研究中心于2025年2月17日起推出DeepSeek系列专题线上公开课，每周一晚上19:30面向全校师生及社会公众直播。解析DeepSeek的技术革新与伦理影响，探讨在人工智能领域的突破与应用。首期课程由吴飞教授和陈文智教授主讲。来源：AI工具集
+------------------
+【2月17日·周一】
+xAI即将发布Grok 3，马斯克称之为“地球上最聪明的人工智能”
+埃隆·马斯克的xAI公司将于2月17日发布Grok 3聊天机器人，马斯克称其为“地球上最聪明的人工智能”。Grok 3引入“思维链”推理能力，显著提升推理、编程及多模态功能。训练使用合成数据，可反思错误。Grok 3接入X平台，供用户使用。发布时间较马斯克原计划延迟来源：第一财经
+------------------
+【2月17日·周一】
+腾讯元宝再更新：DeepSeek R1+腾讯混元T1「双核」驱动
+腾讯元宝发布重大更新，接入腾讯混元T1和DeepSeek-R1两大模型，均支持深度思考功能。用户可免费切换使用，解决复杂问题更高效。混元T1为腾讯自研的最新「深度思考模型」，专为多维度分析设计，思维方式贴近人类认知。更新后，腾讯元宝支持联网搜索，结合腾讯生态内容及权威信源，答案更精准。来源：AI工具集
+------------------
+【2月17日·周一】
+AI搜索新突破：Perplexity推出Deep Research免费深度研究功能
+AI公司Perplexity宣布推出Deep Research（深度研究）功能，向所有用户免费开放。非订阅用户每天可免费体验5次，Pro用户每天可体验500次。Deep Research通过多次搜索和推理，挖掘上百个信息源，提供深度研究报告，与普通AI搜索相比，搜索深度、广度和推理能力更强。来源：AI工具集
+------------------
+【2月17日·周一】
+腾讯多款产品接入DeepSeek-R1模型，全面升级AI体验
+腾讯宣布旗下多款产品接入DeepSeek-R1模型，包括腾讯元宝、微信、ima、腾讯文档、QQ浏览器、QQ音乐等。腾讯元宝支持免费使用DeepSeek-R1满血版和混元T1深度思考模型，提供复杂问题解答能力。微信“AI搜索”功能在灰度测试中。ima、腾讯文档、QQ浏览器、QQ音乐等产品结合DeepSeek-R1优化功能，提升用户体验。来源：腾讯
+------------------
+【2月17日·周一】
+中国AI变局：腾讯、百度接入DeepSeek模型，字节反思，“大模型六虎”加速分化
+腾讯微信上线“AI搜索”功能灰度测试DeepSeek-R1模型，百度搜索宣布全面接入DeepSeek和文心大模型的深度搜索功能。字节跳动反思DeepSeek技术跟进，“大模型六小虎”加速分化，部分企业选择拥抱DeepSeek，另一些则继续深耕自身模型研发。来源：钛媒体AGI
+------------------
+【2月14日·周五】
+问小白上线DeepSeek-R1满血版，实测为官网最佳平替！
+问小白平台上线DeepSeek-R1满血版，提供免费流畅的使用体验。支持联网搜索、上传文件、多模态分析等功能，具备深度思考、时效性回答、生成深度话题等亮点。问小白的客户端支持语音输入和语音播放，适合多群体使用。用户可在PC端和移动端通过问小白免费体验DeepSeek-R1，解决官网服务器繁忙的问题。来源：AI工具集
+------------------
+【2月14日·周五】
+通义灵码全新上线模型选择功能，新增支持 DeepSeek-V3 和 DeepSeek-R1 模型
+通义灵码上线模型选择功能，支持DeepSeek-V3和DeepSeek-R1满血版671B模型。通义灵码是阿里云和通义实验室联合出品的AI编码助手，提供代码智能生成和研发智能问答能力。升级后，用户可在VS Code和JetBrains IDEs中切换不同模型，满足复杂算法和简单逻辑处理需求，进一步降低AI编程门槛。来源：通义灵码
+------------------
+【2月14日·周五】
+昆仑万维发布Matrix-Zero世界模型，开启空间智能新时代
+昆仑万维推出Matrix-Zero世界模型，包含3D场景生成和可交互视频生成两大子模型。3D场景生成模型可将图片转化为全局一致、可自由探索的3D场景，支持不同风格输入和动态效果生成；可交互视频生成模型以用户输入为核心，支持实时交互和精准视角控制。来源：昆仑万维集团
+------------------
+【2月14日·周五】
+谷歌 Gemini 宣布上线“全局记忆”功能，订阅用户可令 AI 回忆曾经所有对话
+谷歌GeminiAI上线“全局记忆”功能，订阅Gemini Advanced服务的用户可在App和网页端体验。AI能记住用户所有对话，提供更个性化的回复。用户无需跳转历史记录即可延续对话，可要求Gemini总结对话内容。目前仅支持英语，未来几周扩展至其他语言。来源：IT之家
+------------------
+【2月13日·周四】
+OpenAI 将在未来几个月内推出 GPT-5：整合 o3 等多项技术，可免费无限使用
+OpenAI创始人Sam Altman在社交媒体上透露公司产品路线图的重大更新。OpenAI将发布GPT-4.5（代号Orion），是最后一个非思维链（CoT）模型。未来几个月，OpenAI将推出GPT-5，模型将整合OpenAI的多项技术，包括o3，不再将o3作为独立模型发布。GPT-5将集成到ChatGPT和API中，提供更统一的智能体验。来源：机器之心
+------------------
+【2月13日·周四】
+文心一言 4 月起全面免费，上线深度搜索功能
+百度AI宣布：自2025年4月1日零时起，文心一言将全面免费开放，PC端和APP端用户均可体验文心系列最新模型。同时，文心一言上线深度搜索功能，同样于4月1日起免费开放。深度搜索功能具备更强大的思考规划和外部工具使用能力，为用户提供专家级内容回复，支持多场景任务处理以及多模态输入与输出。APP端也将同步上线。来源：百度AI
+------------------
+【2月13日·周四】
+Adobe Firefly 开放 AI 视频生成，一键搞定 5 秒 1080P 视频
+Adobe宣布向公众免费开放AI视频生成器Firefly。用户仅需输入文本描述或上传图像，可一键生成5秒的1080p高清视频。Firefly在动态景观、动物行为、天气模式和粒子效果等元素上表现出色，支持高级相机设置和多种宽高比选择。来源：AI工具集
+------------------
+【2月13日·周四】
+腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索
+腾讯元宝发布更新，正式接入DeepSeek R1模型，支持深度思考与联网搜索。模型基于腾讯混元架构，具备强大的自然语言理解能力，可提供详细且权威的回答。QQ音乐此前也已完成对DeepSeek R1的部署，成为首个应用该模型的音乐平台。来源：AI工具集
+------------------
+【2月12日·周三】
+华为小艺助手网页端上线人人可用：支持 R1 深度思考
+华为小艺助手网页端正式上线，适配手机和PC，用户可通过浏览器直接访问。更新接入DeepSeek-R1智能体，支持联网搜索功能，可实时获取最新信息。网页版小艺提供AI问答、AI写作、编程助手和AI翻译等功能，支持R1深度思考模式，用户可根据需要自定义自动或强制使用。来源：AI工具集
+------------------
+【2月12日·周三】
+Agentic GLM全面登陆三星最新款手机Galaxy S25
+智谱与三星合作，将Agentic GLM技术全面应用于三星Galaxy S25系列手机。技术基于多模态数据处理能力，支持AI音视频通话、视觉理解、系统功能调用、AI搜索、文案写作等功能。Galaxy S25的“语聊视界”功能可实现智能互动视频通话，同时支持社交媒体文案生成和系统级功能调用。来源：智谱
+------------------
+【2月12日·周三】
+苹果抛弃DeepSeek，选择与阿里合作开发中国iPhone AI 功能
+苹果公司已与阿里巴巴集团达成合作，共同开发面向中国市场的AI功能。双方联合开发的AI功能已提交审批，预计3月25日公布国行AI开发者教程。苹果曾尝试与百度合作，但未达预期，后放弃DeepSeek，因其缺乏支持大客户的经验。来源：钛媒体AGI
+------------------
+【2月12日·周三】
+七家国产芯片鼎力支持！无问芯穹异构云打通DeepSeek-R1多芯片适配优化
+无问芯穹异构云大模型服务平台正式上线DeepSeek-R1和DeepSeek-V3，完成了在壁仞、海光、摩尔线程、沐曦、昇腾、燧原、天数智芯等七家国产芯片上的适配优化。平台支持通过Infini-AI异构云平台一键获取DeepSeek系列模型与多元异构自主算力服务，为开发者提供高效、省心、划算的AI开发体验。来源：无问芯穹
+------------------
+【2月12日·周三】
+字节跳动推出UltraMem架构，推理成本较MoE最高降83%
+字节跳动豆包大模型团队发布全新稀疏模型架构UltraMem，有效解决传统MoE架构在推理时的高额访存问题。UltraMem通过优化内存访问和计算效率，推理速度较MoE提升2-6倍，推理成本最高降低83%。来源：豆包大模型团队
+------------------
+【2月11日·周二】
+港大与字节跳动发布Goku+，AI视频生成技术颠覆广告创作
+香港大学与字节跳动联合发布最新视频生成模型Goku和广告视频生成版本Goku+。Goku支持文生视频、图生视频和文生图等多种生成任务，能生成高质量的图像和视频内容。Goku+专注于广告视频生成，可将产品图片转化为吸引人的视频，支持虚拟数字人与产品互动，显著降低广告制作成本。来源：AI工具集
+------------------
+【2月11日·周二】
+OpenAI、谷歌、Roblox 等联手，成立新组织以保障 AI 时代儿童安全
+Roblox、Discord、OpenAI和谷歌联合成立非营利组织ROOST（强大开放在线安全工具），为AI时代构建可扩展且互联互通的安全基础设施。ROOST将向公共和私人机构免费提供开源安全工具，初期重点关注儿童安全，特别是提供检测、审核和报告儿童性虐待材料（CSAM）的相关工具。来源：IT之家
+------------------
+【2月11日·周二】
+庖丁科技宣布完成新一轮融资，金山办公及顺为联合领投
+北京庖丁科技宣布完成新一轮融资，金额达到15亿元人民币，由金山办公和顺为资本联合领投。此次融资将用于文档智能技术研发、市场拓展及核心人才引进，推动非结构化数据智能处理技术的创新与落地。庖丁科技专注于文档智能领域，已为超过100家大型机构客户提供服务，客户续费率超过90%。来源：36氪
+------------------
+【2月11日·周二】
+沙特将向 AI 芯片创企 Groq 投资 15 亿美元，支持后者在沙 AI 基础设施扩建
+AI推理芯片初创公司Groq宣布获得沙特阿拉伯15亿美元（约合109.62亿元人民币）的投资，用于扩建位于沙特达曼的AI推理基础设施。Groq与沙特阿美旗下子公司合作建设的达曼数据中心已拥有19000个语言处理单元（LPU），能为41个国家的40亿用户提供服务。来源：IT之家
+------------------
+【2月10日·周一】
+OpenAI CEO 深夜发文：AI 成本每年暴跌 10倍，2035 年人人都有超级大脑
+OpenAI CEO Sam Altman发文称，AI成本每年暴跌10倍，到2035年，人人都将拥有超级大脑。他认为AGI（通用人工智能）将成为人类进步的强大工具，带来前所未有的繁荣和生活质量提升。随着AI智能水平的线性增长，社会经济价值呈超指数增长，未来AI Agents将成为知识工作中的“虚拟同事”，广泛应用于各领域。来源：APPSO
+------------------
+【2月10日·周一】
+晚点对话王小川丨不是文本创作、不是物理模型，AGI 的尽头是生命科学
+百川智能创始人王小川在接受《晚点》采访时表示，AGI（通用人工智能）的尽头是生命科学，医疗不是垂直场景，是大模型皇冠上的明珠。百川智能专注于医疗领域，致力于打造AI医生，认为“造医生等价于AGI”。百川已发布全场景推理大模型Baichuan-M1-preview，计划在2025年第一季度推出AI医生助手，服务北京海淀区居民。来源：晚点对话LateTalk
+------------------
+【2月10日·周一】
+VideoWorld开源：多方合作打造仅靠视觉认知世界的视频生成模型
+字节跳动豆包大模型团队联合北京交通大学、中国科学技术大学发布的“VideoWorld”视频生成模型，现已开源。模型首次实现仅通过视觉信息认知世界，无需依赖语言模型即可学习和执行复杂任务，如围棋对战和机器人操控。VideoWorld采用潜在动态模型（LDM）压缩视频帧间变化信息，显著提升学习效率。来源：豆包大模型团队
+------------------
+【2月10日·周一】
+美国网约车巨头 Lyft 同 Anthropic 达成合作：Claude 将为百万司机提供服务
+美国网约车巨头Lyft与AI创企Anthropic达成合作，将推出AI驱动的产品，为Lyft每年超4000万乘客和100万司机提供更好的拼车体验。目前，由Anthropic的Claude模型支持的Lyft AI客服助手已投入使用，每天处理数千个客户请求，平均客服解决时间缩短87%。来源：IT之家
+------------------
+【2月10日·周一】
+吴恩达团队发布AI新成果：零样本标记助力图片目标检测
+吴恩达宣布创业公司推出新成果——Agentic Object Detection（Agent目标检测）。无需标注训练数据，仅通过推理即可在图片中定位指定物体。例如在一张草莓图片中，提示“未成熟的草莓”，模型可在短时间内准确识别。。来源：AI工具集
+------------------
+【2月10日·周一】
+昆仑万维旗下天工AI正式上线DeepSeek R1+联网搜索
+昆仑万维旗下「天工AI」正式上线DeepSeek R1+联网搜索功能。此次更新解决了此前DeepSeek联网功能无法使用及偶尔崩溃的问题，为用户带来更稳定、高效的AI体验。用户可在「天工AI」PC端勾选“深度思考 R1”按钮，实现联网搜索，获取最新信息。来源：昆仑万维集团
+------------------
+【2月8日·周六】
+Pika新功能Pikadditions上线，用AI为视频“加料”
+Pika推出新功能Pikadditions，用户仅需上传一张图片和一段视频，可将图片内容自然地添加到视频中，实现如“老虎扑人”“冰箱里的北极熊”等创意效果。基于AI技术，可根据原始视频动作智能生成引人入胜的合成画面。Pika官方提供15次免费体验机会。来源：AI工具集
+------------------
+【2月8日·周六】
+Github重磅发布Agent模式和Copilot Edits，主动修复错误代码
+微软宣布GitHub Copilot全面支持代理功能，推出首个自主SWE智能体。可自主迭代代码、修复错误、建议并执行终端命令。同时GitHub Copilot Edits上线，支持多文件编辑与代码更改意见。微软计划将在今年内融入GitHub用户体验。来源：AI工具集
+------------------
+【2月8日·周六】
+软银即将完成对 OpenAI 的 400 亿美元投资，超越微软成为最大金主
+软银即将完成对OpenAI的400亿美元投资，投前估值为2600亿美元，投后估值达3000亿美元。资金将在未来12至24个月内支付，第一笔款项最快于春季到账。投资完成后，软银将超越微软，成为OpenAI的最大投资方。部分资金将用于OpenAI与软银、甲骨文合资的“星际之门”项目。来源：IT之家
+------------------
+【2月7日·周五】
+OpenAI 更新 o3-mini 模型思维链展示方式，提高 AI 推理透明度
+OpenAI宣布公开o3-mini模型的推理思维链，免费和付费用户可查看其思维过程。部分人质疑公开的思维链是否为原始数据，因为展示速度较慢且字符数量与原始版本存在差异。OpenAI发言人确认公开的思维链经过后处理，消除不安全内容、简化复杂想法，为非英语用户提供更好的体验。来源：量子位
+------------------
+【2月7日·周五】
+欧洲的 OpenAI，Mistral AI 推出 iOS 和 安卓APP
+Mistral AI发布客户端Le Chat，推出iOS和Android版本。支持实时网络搜索、文档分析、图像生成等功能，提供企业级解决方案，包括代码解释器、OCR和文档处理等。来源：AI工具集
+------------------
+【2月7日·周五】
+《麻省理工科技评论》点评中国AI“四剑客”，每家都媲美DeepSeek
+DeepSeek凭借低训练成本和高性能的开源模型引发全球关注。《麻省理工科技评论》指出，除DeepSeek外，中国还有四家AI初创公司展现出强大的技术实力，包括阶跃星辰、面壁智能、智谱AI和无问芯穹。分别在基础模型、端侧模型、多模态AI以及AI基础设施领域取得了显著成就，展现了与DeepSeek媲美的竞争力。来源：机器之心
+------------------
+【2月7日·周五】
+谷歌 Magic Editor 集成 SynthID，“火眼金睛”识别 AI 造假
+为应对 AI 生成内容带来的虚假信息风险，谷歌将SynthID水印技术集成到图像编辑工具 Magic Editor 中。本周使用 Magic Editor 的 AI 生成编辑图像将在 Google Photos 中被 SynthID 标记，部分细微编辑可能无法被检测到。技术通过嵌入数字水印标记内容，不影响视觉质量。来源：IT之家
+------------------
+【2月7日·周五】
+OpenAI 与加州州立大学达成迄今最大的AI教育合作
+OpenAI宣布将在加州州立大学23个校区推出ChatGPT，覆盖46万名学生和6.3万名教职员工。是OpenAI在美国高等教育领域的最大规模部署，为学生提供个性化辅导和学习指南，同时帮助教师完成行政工作。来源：36氪
+------------------
+【2月7日·周五】
+DeepSeek声明：社交平台仅三个账号，一切声称与官方群组有关收费行为均系假冒
+DeepSeek官方发布声明：近期，DeepSeek发现部分仿冒账号和不实信息误导公众，DeepSeek的官方账号仅包括微信公众号“DeepSeek”、小红书“@DeepSeek（deepseek_ai）”和X（Twitter）“DeepSeek (@deepseek_ai)”。除这些账号外，其他任何声称与DeepSeek相关的信息均为假冒。来源：DeepSeek
+------------------
+【2月6日·周四】
+OpenAI 放大招：ChatGPT 搜索功能无需注册人人可用，分钟级别解析全网信息
+OpenAI 宣布ChatGPT搜索功能无需登录账户即可使用，用户可直接获取基于实时网络信息生成的答案，查看信息来源清单。与传统搜索引擎相比，ChatGPT 搜索可实现分钟级解析网络信息，能查看地图和本地景点图片，结果更具可信度和实用性。来源：IT之家
+------------------
+【2月6日·周四】
+谷歌发布Gemini 2.0 Pro，全型号刷榜，原生多模态，编程、物理模拟能力炸裂
+谷歌发布 Gemini 2.0 系列模型，包括Gemini 2.0 Pro、2.0 Flash 和 2.0 Flash-Lite。2.0 Pro 是谷歌最强的编码和复杂提示处理模型，配备 200 万 token 上下文窗口，支持谷歌搜索和代码执行工具。2.0 Flash 是高效主力模型，支持 100 万 token 上下文和多模态输入，适合高容量任务。2.0 Flash-Lite 是最具性价比的模型，性能优于前代 1.5 Flash，成本更低。来源：Founder Park
+------------------
+【2月6日·周四】
+前追觅中国区执行总裁郭人杰创业，「乐享科技」宣布完成近2亿元天使轮融资
+前追觅中国区执行总裁郭人杰创立的「乐享科技」宣布完成近 2 亿元人民币的天使轮融资，由 IDG 资本领投，Monolith、经纬创投、真格基金等跟投，投后估值约 6 亿元。乐享科技成立于 2024 年，定位为全球科技公司，专注于 AI + 消费硬件市场，首款面向家庭场景的产品正在研发中。来源：36氪
+------------------
+【2月6日·周四】
+字节跳动推出 OmniHuman 多模态框架：图片+音频 = 逼真动画
+字节跳动提出OmniHuman，基于扩散变换器的高保真人类视频生成框架。模型通过单阶段的音频和姿态驱动，能生成高质量的人类视频内容。支持文本、音频、姿态等多种输入信号，可生成从面部特写到全身的各种视频，适应不同风格。来源：AI工具集
+------------------
+【2月6日·周四】
+训练成本不到 50 美元，研究人员打造出媲美 OpenAI o1 的推理模型
+斯坦福大学和华盛顿大学的研究人员仅花费不到50美元的云计算费用，训练出s1人工智能推理模型。模型在数学和编程能力测试中表现与OpenAI的o1和DeepSeek的r1等顶尖模型相当。s1通过“蒸馏”技术从谷歌的Gemini 2.0 Flash Thinking Experimental模型中提取推理能力，使用监督微调方法，耗时不到30分钟。来源：AI工具集
+------------------
+【2月5日·周三】
+一场关于DeepSeek的高质量闭门会：比技术更重要的是愿景
+拾象创始人李广密组织了一场关于DeepSeek的闭门讨论会，数十位顶尖AI研究员、投资人与从业者参与。会议探讨了DeepSeek的技术细节、组织文化及其影响。DeepSeek凭借高效的资源利用和对智能的专注，展现出强大的技术实力。创始人梁文锋注重技术与智能的推进，而非商业化。来源：腾讯科技
+------------------
+【2月5日·周三】
+5人创业国产AI搜索火了，小红书Reddit都在推！比Perplexity留存更高
+国产AI搜索工具HikaAI 仅5人团队打造，上线不到1个月，在获取用户注意力方面已超越Perplexity等竞争对手。Hika AI 提供免费的知识获取引擎，核心特点是按段落分割回答，支持用户对感兴趣的部分深入提问，提供图表化的总结表和思维导图。来源：AI工具集
+------------------
+【2月5日·周三】
+Adobe Acrobat AI 助手新增合同理解与比对功能，月费 5 美元
+AdobeAcrobat AI助手新增合同理解与比对功能，月费 5 美元（约 36.4 元人民币）。可帮助用户理解复杂合同条款，自动发现不同合同之间的差异，例如新旧合同的变化。Acrobat 应用能自动识别合同文档，提取关键条款，生成摘要，推荐可能的问题。可同时比较多达 10 份合同。来源：AI工具集
+------------------
+【2月5日·周三】
+SB OpenAI Japan成立！2025年首个最火AI赛道开打
+OpenAI在日本宣布成立合资公司 SB OpenAI Japan，与软银合作，专注于开发和销售新型高级企业AI——“水晶智能（Cristal intelligence）”。合作为日本企业提供定制化的AI解决方案，推动企业工作流程自动化和效率提升。来源：智东西
+------------------
+【2月5日·周三】
+华为小艺助手接入 DeepSeek，升级纯血鸿蒙 HarmonyOS NEXT 即可体验
+华为小艺助手接入 DeepSeek，升级至 HarmonyOS NEXT 后即可体验。小艺助手的智能体广场已上线DeepSeek-R1Beta 版，升级小艺助手至 11.2.10.310 版本及以上，可在“发现”栏找到智能体广场，与 DeepSeek 进行对话。来源：IT之家
+------------------
+【2月5日·周三】
+Figure AI与OpenAI“分手”，人形机器人公司与大模型公司重新划定边界
+人形机器人公司Figure AI与OpenAI终止合作。Figure AI创始人Brett Adcock表示，公司自主研发的端到端机器人AI取得重大突破，未来30天内将展示新成果。Figure AI与OpenAI合作始于去年初，曾发布多条展示机器人视觉、对话及灵活操作能力的视频。来源：第一财经
+------------------
+【2月5日·周三】
+Ai2推出开源模型Tülu 3 405B，性能超越DeepSeek V3与GPT-4o
+美国艾伦人工智能研究所（Ai2）推出新一代开源模型Tülu 3 405B，基于强化学习技术，在多项基准测试中超越了DeepSeek v3和GPT-4o。Tülu 3系列模型基于Llama 3 Base，通过四阶段后训练方法优化，包括精心策划的提示词、监督微调、偏好微调和强化学习。训练数据、代码和方法完全开源。来源：AI工具集
+------------------
+【2月3日·周一】
+OpenAI 推出 Deep Research 深度研究功能，助力复杂任务高效解决
+OpenAI发布ChatGPT的Deep Research功能。通过多步骤推理和互联网信息综合，可在数十分钟内完成复杂的研究任务。Deep Research基于o3模型，针对网页浏览和数据分析进行了优化。能生成专家级的研究报告，适用于金融、科学、政策和工程等领域的知识密集型工作。来源：AI工具集
+------------------
+【2月3日·周一】
+秘塔AI接入满血版DeepSeek R1推理模型
+秘塔AI宣布接入DeepSeek R1推理模型的满血版。模型结合了秘塔数十亿的全网数据和数千万学术文献，能处理复杂的推理问题，在结合知识和学术文献的推理任务中表现出色。秘塔AI的测试结果显示，R1模型在回答复杂问题时表现突出。来源：AI秘塔
+------------------
+【2月3日·周一】
+OpenAI 更新 ChatGPT Canvas 工具：上线 o1 模型、支持渲染 HTML / React 代码
+OpenAI更新ChatGPT Canvas写作工具，新增了o1模型支持，扩展了代码渲染功能，支持HTML和React代码。Canvas是ChatGPT中的写作与编码工具，用户可以在右侧输入文本，左侧基于模型调整文本长度或联想上下文。订阅了ChatGPT Pro、Plus、Team会员的用户可以使用o1模型，HTML和React代码渲染功能对所有用户开放。来源：IT之家
+------------------
+【2月1日·周六】
+OpenAI发布新的推理模型o3-mini，性能提升 24%
+OpenAI发布新的推理模型o3-mini，是推理系列中最具成本效益的模型。o3-mini在科学、数学和编程等STEM领域表现出色，保持低延迟和低成本。支持函数调用、结构化输出和开发者消息等高级功能，提供低、中、高三档推理强度供开发者选择。与搜索功能集成，为用户提供最新答案及链接。来源：AI工具集
+------------------
+【2月1日·周六】
+阿里云通义千问旗舰版模型Qwen2.5-Max全新升级发布
+阿里云通义千问推出旗舰版模型Qwen2.5-Max。是MoE模型的最新探索成果，预训练数据超20万亿tokens，在知识、编程、综合能力等主流权威基准测试中表现卓越，全面超越全球领先的开源MoE模型及最大开源稠密模型。来源：AI工具集
+------------------
+【2月1日·周六】
+DeepSeek推出人人可用的开源视觉多模态AI模型Janus-Pro
+DeepSeek发布开源多模态AI模型Janus-Pro，包含10亿和70亿参数规模。模型在GenEval和DPG-Bench基准测试中击败了OpenAI的DALL-E 3和Stable Diffusion。Janus-Pro基于DeepSeek-LLM构建，使用SigLIP-L作为视觉编码器，支持多模态理解和生成。来源：AI工具集
+------------------
+【2月1日·周六】
+通义开源两大AI模型：支持理解长视频和捕捉事件等能力
+通义开源两大AI模型：Qwen2.5-VL和Qwen2.5-1M。Qwen2.5-VL推出3B、7B和72B三个版本，全面超越GPT-4o与Claude3.5。模型支持超1小时的视频理解，无需微调即可操作手机和电脑完成复杂任务。Qwen2.5-1M推出7B和14B版本，处理长文本任务性能卓越，推理速度提升近7倍，首次将上下文扩展到1M长度。来源：通义
+------------------
+【1月27日·周一】
+开源全模态模型Baichuan-Omni-1.5上线，多项能力跑赢GPT-4o mini
+百川智能上线开源全模态模型Baichuan-Omni-1.5。模型支持文本、图像、音频和视频的全模态理解，具备文本和音频的双模态生成能力。在视觉、语音及多模态流式处理等方面，Baichuan-Omni-1.5的表现均优于GPT-4o mini，在多模态医疗应用领域优势突出。来源：百川大模型
+------------------
+【1月27日·周一】
+可灵AI创意特效上线啦！好玩儿到停不下来！
+可灵AI上线创意特效功能，支持“快乐惹毛我”“捏捏乐”“万物膨胀”等特效，已上线可灵AI APP和Web端，一起创意发挥，尽情体验，好玩儿到停不下来。来源：AI工具集
+------------------
+【1月27日·周一】
+中国电信发布“复杂推理大模型”TeleAI-t1-preview：能解《九章算术》题目
+中国电信人工智能研究院发布“复杂推理大模型”TeleAI-t1-preview，即将上线天翼AI开放平台。模型采用强化学习训练方法，引入探索、反思等思考范式，提升逻辑推理和数学推导的准确性。在AIME 2024和MATH500评测中，分别以60分和93.8分的成绩大幅超越OpenAI o1-preview和GPT-4o等标杆模型。模型具备将形象思维与抽象思维结合的能力，能严谨地进行古今单位换算，有效解决复杂问题。来源：AI工具集
+------------------
+【1月27日·周一】
+GLM-4V-Plus 大模型能理解长达2小时视频
+GLM技术团队推出了GLM-4V-Plus-0111 beta版本，版本引入了原生可变分辨率等技术，显著提升模型对不同视频长度和分辨率的适应能力。新模型支持短视频的精细理解，能处理长达2小时的长视频，自动调整分辨率以平衡时间与空间信息捕捉。来源：AI工具集
+------------------
+【1月27日·周一】
+扎克伯格持续建设“AI 帝国”：Meta 今年将投入最多 650 亿美元
+Meta首席执行官马克・扎克伯格表示，公司今年计划投入最多650亿美元用于扩展AI基础设施，巩固其在与OpenAI和谷歌竞争中的地位。Meta将增加AI岗位的招聘，建设一座超过2吉瓦的数据中心。作为英伟达的主要客户之一，Meta计划在年底前拥有超过130万块图形处理器，在2025年实现约1吉瓦的计算能力。来源：IT之家
+------------------
+【1月24日·周五】
+OpenAI正式发布智能体Operator！能推理、联网自主执行任务
+OpenAI推出“Operator”AI代理，Operator依托Computer-Using Agent（CUA）模型，结合GPT-4o的视觉能力和强化学习推理能力，能自动完成多种在线任务，如预订餐厅、旅行规划、购物等。通过屏幕截图“感知”界面，通过虚拟键盘和鼠标操作网页。具备自我纠错能力，遇到敏感信息或复杂任务时会交由用户接管。来源：AI工具集
+------------------
+【1月24日·周五】
+百川智能发布深度思考模型，同时具备语言、视觉和搜索三大领域推理能力
+百川智能推出两款新模型：Baichuan-M1-preview是国内首个全场景深度思考模型，具备语言、视觉和搜索三大领域推理能力，在医疗循证模式下，能快速精准回答医疗问题，提供深度推理和个性化建议。小尺寸版本Baichuan-M1-14B是行业首个开源医疗增强大模型，医疗能力超越Qwen2.5-72B。来源：百川大模型
+------------------
+【1月24日·周五】
+跃问App上新「创意板」功能，零代码实现应用与游戏创作
+跃问App上线国内首个「创意板」功能，用户可通过简单指令生成应用、游戏等创意内容，无需代码知识。基于自研多模态大模型Step-1o系列。创意板支持生成海报、游戏、互动网页等，可分享至任意平台。来源：AI工具集
+------------------
+【1月24日·周五】
+JetBrains发布AI编程Agent，助力开发者提升代码效率与质量
+JetBrains推出全新的AI编程Agent——Junie，以插件形式支持IntelliJ IDEA Ultimate和PyCharm Professional，未来将扩展至WebStorm。Junie在SWE-Bench Verified基准测试中完成53.6%的任务，表现中等偏上。能与JetBrains IDE深度整合，生成代码、运行检查、编写测试并验证结果，显著提升开发效率和代码质量。来源：AI工具集
+------------------
+【1月23日·周四】
+智谱GLM-PC开放体验：自主操作电脑的多模态Agent再升级
+智谱推出电脑智能体GLM-PC，基于智谱CogAgent模型构建，能像人类一样“观察”和“操作”电脑，协助完成各类任务。新增“深度思考”模式、逻辑推理和代码生成功能，支持Windows系统。GLM-PC通过模拟人类左右脑分工，结合代码生成和图形界面理解，实现了逻辑推理与感知认知的深度结合。来源：AI工具集
+------------------
+【1月23日·周四】
+字节跳动推出的开源原生 GUI 代理模型
+字节跳动发布并开源了UI-TARS大模型，是专门用于操控电脑界面的视觉语言模型，具备感知、推理和操作能力。UI-TARS提供2B、7B和72B三种参数规模版本，支持跨平台操作，能通过自然语言指令完成鼠标点击、键盘输入等任务。在多个基准测试中，UI-TARS表现优于GPT-4和Claude。来源：AI工具集
+------------------
+【1月23日·周四】
+Step-Video 开年震撼升级：更强大的真实世界模拟器来了
+阶跃星辰推出视频生成模型Step-Video V2版本。新版本在参数量、语义理解、指令遵循能力等方面大幅提升，支持复杂运动、人物美感、基础文字生成和多语言输入等功能。用户可通过跃问网页端申请试用。来源：阶跃星辰
+------------------
+【1月23日·周四】
+Perplexity发布Sonar API，提供实时信息搜索功能
+Perplexity发布SonarAPI，提供实时信息搜索功能。Sonar API分为基础版和Pro版，基础版支持轻量级实时搜索和简单查询引用，Pro版则支持复杂多步骤任务、更大的上下文窗口和更丰富的引用。来源：AI工具集
+------------------
+【1月23日·周四】
+谷歌 Gemini 2.0 Flash Thinking 强化版发布，登上 Chatbot Arena 榜首
+谷歌发布Gemini 2.0 Flash Thinking推理模型的加强版，再次登顶Chatbot Arena排行榜。更新引入了1M长上下文处理能力，可对长篇文本进行更深入分析，减少模型思想与答案之间的矛盾。支持长上下文、多模态输入以及推理过程可视化，推理速度极快，在数学和科学能力测试中表现突出，数学成绩较前代提升54%。来源：AI工具集
+------------------
+【1月23日·周四】
+字节启动 Seed Edge，加码 AGI 研究
+字节跳动正式设立代号为“Seed Edge”的研究项目，专注于通用人工智能（AGI）的前沿研究。项目拟定五大研究方向，包括下一代推理、感知、软硬一体模型设计、新范式探索和Scaling方向研究。Seed Edge旨在探索AI的原创性创新，而非仅追随现有技术。字节跳动创始人张一鸣高度重视AI研究，鼓励团队探索基础课题。来源：晚点LatePost
+------------------
+【1月22日·周三】
+豆包大模型1.5正式发布，全面上线火山方舟
+字节跳动旗下火山引擎正式发布豆包大模型1.5 Pro。模型在知识、代码、推理、中文等多个权威测评基准上表现优异，综合得分超越GPT-4o、Claude 3.5 Sonnet等业界一流模型。此次更新还推出了豆包·视觉理解模型和实时语音模型，支持多模态数据合成、低时延语音对话等功能。来源：火山引擎
+------------------
+【1月22日·周三】
+可灵AI重磅升级，「多图参考」功能上新
+可灵 AI重磅升级，「多图参考」功能全新上线，支持参考单个角色生成视频，不同角色之间的互动，支持上传4张参考图，可以是人物、物品、道具和场景。确保多个镜头中的人物或主体保持一致。与可灵一起制作富有创意的视频。来源：AI工具集
+------------------
+【1月22日·周三】
+特朗普联合OpenAI启动5000亿美元“星际之门”AI项目，用于建设AI基础设施
+特朗普与OpenAI CEO Sam Altman、软银CEO孙正义等在白宫宣布启动名为“星际之门”的人工智能项目。项目计划未来四年投资5000亿美元，在美国建设新的人工智能基础设施，首期投入1000亿美元。技术合作伙伴包括Arm、微软、英伟达等。推动通用人工智能（AGI）发展，创造数十万就业岗位。来源：机器之心
+------------------
+【1月22日·周三】
+有道子曰-o1推理模型正式发布！消费级显卡即可部署
+网易有道正式发布并开源国内首个输出分步式讲解的推理模型“子曰-o1”。作为14B轻量级单模型，子曰-o1支持在消费级显卡上部署，采用思维链技术，能提供细致的解题过程，具备强逻辑推理能力。子曰-o1已应用于“有道小P”，支持“先解析思路、再提供答案”的答疑模式，助力学生自主思考。来源：网易有道
+------------------
+【1月21日·周二】
+清影2.0重磅更新，模型能力大幅提升
+清影2.0重磅更新，AI视频生成能力大幅提升。新版本在模型结构、训练方法和数据工程上全面升级，图生视频基础模型能力提升38%，支持画面主体进行大幅度运动并保持稳定。指令遵从能力行业领先，可精准实现复杂提示词，涵盖写实、三维动画、二维动画及特殊艺术风格。已上线智谱清言，普通用户可免费用。来源：智谱
+------------------
+【1月21日·周二】
+k1.5 新模型登场：Kimi 如何做到满血版多模态o1水平
+月之暗面推出全新k1.5多模态思考模型。模型在多模态推理和通用推理能力上达到SOTA水平，在short-CoT模式下，数学、代码、视觉多模态能力大幅超越全球短思考SOTA模型，领先550%；在long-CoT模式下，达到OpenAI o1正式版水平，成为全球首个实现该性能的非OpenAI模型。来源：月之暗面 Kimi
+------------------
+【1月21日·周二】
+DeepSeek-R1 发布，性能对标 OpenAI o1 正式版
+深度求索发布DeepSeek-R1模型，并开源模型权重。DeepSeek-R1通过强化学习技术大幅提升推理能力，在数学、代码和自然语言推理等任务上性能对标OpenAI o1正式版。DeepSeek还开源了基于R1蒸馏的6个小模型，其中32B和70B模型性能比肩OpenAI o1-mini。DeepSeek-R1已上线API，可通过官网或App调用。来源：DeepSeek
+------------------
+【1月21日·周二】
+小红书AI翻译功能上线，网友玩转Prompt，背后大模型引关注
+小红书上线AI翻译功能，引发了网友的广泛关注和讨论。功能支持多种语言的翻译，能处理颜文字、网络热梗、化学式、摩斯电码等特殊内容。用户还可以通过Prompt提出翻译需求或生成特定内容。来源：量子位
+------------------
+【1月21日·周二】
+阶跃星辰Step-1o重大升级，多模态视觉双榜夺冠，国内第一
+阶跃星辰宣布 Step 系列模型上新第三弹。推出新成员Step-1o Vision多模态理解大模型，Step-1o Audio 语音模型能力升级。Step-1o Vision 在视觉识别、推理等任务中表现卓越，位居国内外权威榜单首位。升级后的Step-1o Audio情商更高，声音更自然，支持多语种及方言理解，实现更低时延。来源：阶跃星辰
+------------------
+【1月21日·周二】
+书生·浦像超高动态成像算法：AIGC叠加HDR，捕捉细节，平衡曝光
+上海人工智能实验室联合香港中文大学、浙江大学团队推出“书生·浦像”超高动态成像算法（浦像HDR，UltraFusion HDR）”，通过AIGC与HDR技术结合，实现超高动态范围成像。算法可在9档曝光差异的极端条件下修复图片细节，生成色彩鲜艳、细节丰富的高质量图像。解决了传统HDR技术在动态场景中的运动伪影问题。来源：上海人工智能实验室
+------------------
+【1月21日·周二】
+秘塔AI搜索上线“阅读模式”，PDF阅读体验全面升级
+秘塔AI搜索推出了全新的“阅读模式”功能。旨在解决PDF文档在移动设备上阅读不便的问题，支持复杂公式识别、智能渲染排版以及全文翻译，可轻松处理多列文字和图表混排的PDF文件。阅读模式支持多端同步，用户可在电脑端添加或上传PDF至书架，通过手机App查看。来源：AI秘塔
+------------------
+【1月20日·周一】
+字节跳动推出全新AI IDE：Trae，基于Claude模型免费使用
+字节跳动正式发布全新AI编程IDE——Trae，对标Cursor！支持原生中文，集成Claude 3.5、GPT-4o等顶级AI模型，免费开放使用。具备智能代码生成与优化、AI驱动的Chat和Builder交互模式、便捷的项目预览与调试等功能。来源：AI工具集
+------------------
+【1月20日·周一】
+豆包实时语音大模型上线即开放！情商智商双高
+字节跳动旗下的豆包大模型团队宣布推出豆包实时语音大模型，在豆包APP全量开放。模型是语音理解和生成一体化的端到端语音系统，主要面向中文语境，支持英语对话但暂不支持多语种。在语音表现力、情绪承接和控制力方面表现出色，整体满意度高于GPT-4o。具备低时延、可随时打断等特性，支持实时联网回答时效性问题。来源：豆包大模型团队
+------------------
+【1月20日·周一】
+阶跃星辰语言模型上新：既有文学大师，又有性价比之王
+上海阶跃星辰推出Step系列语言模型的两位新成员：Step-2 mini和Step-2文学大师版。Step-2 mini是轻量级模型，仅用3%的参数量保留了Step-2模型80%以上的性能，生成速度快，性价比高。Step-2文学大师版则专注于创作，能生成富有深度和风格的文学作品，已在跃问App上线。来源：IT之家
+------------------
+【1月20日·周一】
+商汤「日日新融合大模型交互版」开放商用，限时免费
+商汤科技推出“日日新融合大模型交互版”（SenseNova-5o），正式对外开放实时音视频对话服务，限时免费使用。模型具备强大的实时交互、视觉识别、记忆思考和复杂推理能力，支持超长多模态交互记忆（不少于5分钟），交互延迟低至2秒以内。用户还可根据偏好设置交流风格和音色。来源：商汤科技SenseTime
+------------------
+【1月20日·周一】
+全球首个亿级参数量地震波大模型今年对外开放
+全球首个亿级参数量地震波大模型“谛听”在国家超级计算机成都中心发布第三阶段测试版本，已成功应用于西藏定日6.8级地震数据处理。模型由中国地震局地球物理研究所、国家超级计算成都中心和清华大学联合开发，可自动识别震前、震后事件并生成AI地震序列目录。来源：IT之家
+------------------
+【1月20日·周一】
+香港大学携手快手科技推出 GameFactory 框架，突破游戏场景泛化难题
+香港大学与快手科技联合推出GameFactory框架，旨在解决游戏视频生成中的场景泛化难题。框架基于在开放域视频数据上预训练的视频扩散模型，可生成多样化游戏场景。通过独特的三阶段训练策略，GameFactory突破了现有方法对特定游戏数据集的依赖，支持自回归动作控制，可生成无限长度的交互式游戏视频。来源：AI工具集
+------------------
+【1月20日·周一】
+如何识别AI生成图片？腾讯上线「鉴别工具」
+腾讯上线由腾讯混元安全团队朱雀实验室研发的朱雀大模型检测工具，旨在帮助用户识别AI生成的图像和AI生成文本检测系统。通过检测图片中的纹理、语义及隐层特征，快速判断图片是否由AI生成。系统使用140万份正负样本进行训练，涵盖多种场景，测试检出率超过95%。来源：腾讯
+------------------
+【1月20日·周一】
+晚点对话 MiniMax 闫俊杰：创业没有天选之子
+《晚点》对话MiniMax创始人闫俊杰，探讨AI创业与技术发展。闫俊杰认为，AI创业不应套用移动互联网逻辑，模型能力提升并非依赖用户规模，而是技术进化。MiniMax最新开源的MiniMax-01模型采用线性注意力机制，首次在大规模模型中实现高效处理400万token的长上下文，助力AI记忆与交互能力提升。来源：晚点对话LateTalk
+------------------
+【1月17日·周五】
+智谱清言APP推出“2025克穷暴富”春节活动，赢现金红包庆新年
+智谱清言推出2025年春节活动，时间为1月17日至2月5日。用户可通过智谱清言APP参与多种互动活动赢取现金红包。活动包括AI生成视频金币爆爆爆、新春纪念照生成、视频通话互动以及AI帮助群发拜年短信等。用户上传照片可生成新春主题纪念照，与小智视频通话可获得拜年红包，AI助手AutoGLM可自动群发新年祝福。来源：智谱清言
+------------------
+【1月17日·周五】
+Luma AI推出Ray2视频生成模型，算力扩大10倍
+Luma AI推出最新视频生成模型Luma Ray2，基于新的多模态架构训练，计算能力是前代Ray1的10倍，能在10秒内根据文本提示生成高质量视频，最长时长从5秒延长至1分钟。生成视频动作生动流畅，未来还将推出图像转视频、视频转视频和编辑功能。来源：AI工具集
+------------------
+【1月17日·周五】
+马斯克 xAI 再放大招：网页版 Grok 上线，无需 X 账户
+埃隆·马斯克旗下xAI公司推出网页版GrokAI聊天机器人，无需X账户即可体验。访问grok.com，提供出生年份即可使用，能实时收集信息、获取答案、生成图像等。输入框下方菜单支持切换不同模式，更好控制响应。登录后可开启“临时模式”，聊天不记录不用于训练模型。来源：IT之家
+------------------
+【1月17日·周五】
+阿里再投具身智能，清华大学孵化的星动纪元完成最新一轮融资
+清华大学孵化的人形机器人企业北京星动纪元，近日完成最新一轮融资，新增阿里巴巴旗下公司等为股东，注册资本增至约1095.9万人民币。星动纪元专注于研发高智能通用人形机器人，产品已迭代至第六代——星动STAR 1，具备55个自由度，能在复杂环境中执行多种任务。来源：财联社
+------------------
+【1月16日·周四】
+豆包电脑版和网页版全新上线AI编程新功能，帮你高效解决编程难题
+字节跳动豆包电脑版和网页版全新上线新功能AI编程，帮助用户解决编程难题。提供更便捷的导入流程，一键上传多个本地代码文件和实时引入GitHub开源仓库。通过全新的代码编辑器支持沉浸式阅读和精准圈选代码，随时解答疑问，帮助用户生成、解释、修复和优化代码。来源：AI工具集
+------------------
+【1月16日·周四】
+智谱Realtime、4V、Air新模型发布，上线bigmodel.cn
+智谱发布多款新模型，包括GLM-Realtime、GLM-4V-Plus和GLM-4-Air，这些模型在bigmodel.cn上线。GLM-Realtime模型支持低延迟视频理解和语音交互，具有清唱功能和长达2分钟的记忆能力。GLM-4-Air和GLM-4V-Plus模型提供高性价比的语言和视觉理解解决方案。来源：智谱
+------------------
+【1月16日·周四】
+阶跃星辰推理模型 Step R-mini 全量上线跃问网页版
+2025年1月16日，阶跃星辰推出自研推理模型Step Reasoner mini（简称“Step R-mini”）。模型上线跃问网页端，擅长规划、尝试和反思，通过慢思考和反复验证的逻辑机制，为用户提供准确可靠的回复。Step R-mini在数学、代码、逻辑推理等复杂问题解决上表现出色，同时兼顾文学创作等通用领域。来源：AI工具集
+------------------
+【1月16日·周四】
+腾讯会议全新升级，上线AI小助手Pro
+腾讯会议推出全新升级功能。用户可从组织通讯录直接拉人入会，日程自动呈现并多渠道提醒，确保参会人准时上会等。上线AI小助手Pro全程监听会议，可回答问题、提供方案建议，支持联网搜索与文件上传提问，提升会议效率。来源：腾讯会议
+------------------
+【1月15日·周三】
+MiniMax-01开源：新架构开启Agent时代
+MiniMax于2025年1月15日宣布开源MiniMax-01系列模型，包括基础语言大模型MiniMax-Text-01和视觉多模态大模型MiniMax-VL-01。该系列模型参数量达4560亿，单次激活459亿，性能比肩GPT-4o，能高效处理长达400万token的上下文，是GPT-4o的32倍。来源：MiniMax 稀宇科技
+------------------
+【1月15日·周三】
+OpenAI 推出新功能「Tasks」ChatGPT 变身 AI 私人助理
+2025年1月15日，OpenAI推出ChatGPT的新功能「Tasks」，能根据用户的指示自动完成各种任务，包括一次性提醒和重复执行的动作。用户可以在ChatGPT的聊天界面中选择「4o与计划任务」模式，创建最多10个任务，通过网页、桌面和移动设备接收通知。该功能已向Plus、Pro和Teams用户开放Beta测试。来源：AI工具集
+------------------
+【1月15日·周三】
+科大讯飞发布星火深度推理模型X1，率先落地真实应用场景
+科大讯飞于2025年1月15日发布讯飞星火X1，国内首个基于全国产算力平台训练的深度推理大模型。模型解题方式接近人类“慢思考”，以较少算力达成业界领先效果，中文数学能力国内第一。已在教育、医疗领域落地，提升AI学习机精准度，助力教师助手部署，辅助医生诊断，推动行业发展。来源：AI工具集
+------------------
+【1月15日·周三】
+Kimi 多模态图片理解模型 API 发布，1M tokens 定价 12 元起
+2025年1月15日月之暗面发布全新多模态图片理解模型moonshot-v1-vision-preview，模型具备强大的图像识别和文字识别理解能力，能精准区分复杂图像细节，准确识别潦草手写内容及图表信息。价格根据选择的模型不同而有所区分。来源：AI工具集
+------------------
+【1月15日·周三】
+书生·浦语大模型升级，突破思维密度，4T数据训出高性能模型
+上海人工智能实验室宣布书生大模型升级至3.0版本，书生·浦语3.0（InternLM3）。版本通过精炼数据框架，仅用4T训练数据，使InternLM3-8B-Instruct综合性能超同量级开源模型，训练成本降低75%以上。书生·浦语3.0首次在通用模型中融合常规对话与深度思考能力，可应对更多真实场景。来源：上海人工智能实验室
+------------------
+【1月15日·周三】
+Vidu 2.0全新升级，更快、更强、更稳定
+Vidu2.0正式上线，带来生成速度与画质的双重突破，10秒即可出片。效果升级，视频风格、主体更一致，首尾帧更自然。推出超值套餐，成本低至4分/秒。新增错峰模式，低峰时段不限量、不扣积分，保障创作不停歇。来源：Vidu AI
+------------------
+【1月14日·周二】
+腾讯推出一站式3D内容生产AI创作平台：腾讯混元3D，用AI给游戏装上创作引擎
+腾讯旗下混元模型将《王者荣耀》游戏设计迁移到3D生成模型中，推出混元3DAI创作引擎。引擎为普通UGC和游戏等专业场景提供一站式3D内容生产的AI创作平台，支持文生3D和图生3D模式生成3D资产，结合3D风格化、渲染打光、骨骼绑定和动作驱动等编辑工具调整模型效果，支持多种输出格式。来源：AI工具集
+------------------
+【1月14日·周二】
+抖音创始成员任利锋的GenAI创意社区：Hitems，完成数千万美元Pre-A轮融资
+抖音早期产品负责人任利锋创立的“数美万物”公司旗下创意电商社区Hitems，近日完成数千万美元Pre-A轮融资，美团龙珠领投，锦秋基金跟投，红杉中国、IDG资本继续跟投，公司估值约1.5亿美元。Hitems是集创作者创意生成、生产、销售于一体的跨境电商平台，基于GenAI技术，可通过关键词、图片或手绘稿生成高保真物品图。来源：智能涌现
+------------------
+【1月14日·周二】
+加速AI和机器人融入生活空间，「一目科技」完成数亿元D轮融资
+“一目科技”近期完成数亿元D轮融资，由赛富投资基金领投，南京市创新投资集团、松霖科技跟投。公司专注于多模态感知+AI计算解决方案，产品已应用于智慧水务、智慧家居、生命科学等领域，并打入TCL、惠而浦等头部白电厂商供应链。在CES 2025上，一目科技的AI洗护机器人首秀亮相并获媒体好评。来源：智能涌现
+------------------
+【1月14日·周二】
+英伟达发布 6.3 万亿 Token 大型 AI 训练数据库 Nemotron-CC
+英伟达推出名为Nemotron-CC的大型英文AI训练数据库，包含6.3万亿个Token，其中1.9万亿为合成数据。该数据库基于Common Crawl网站数据构建，经过严格处理形成高质量子集Nemotron-CC-HQ。与业界领先的DCLM数据库相比，使用Nemotron-CC-HQ训练的模型在MMLU基准测试中分数提高5.6分。来源：IT之家
+------------------
+【1月14日·周二】
+打造AI时代的超级应用平台，「环界云计算」获阿里云战略投资
+珠海环界云计算有限公司完成3750万元Pre-A融资，由阿里云独家投资。核心产品Sealos是基于kubernetes的云操作系统，聚焦已开发应用托管和新应用诞生，助力开发者和B端企业降低成本、提升效率。开源项目Sealos和FastGPT在社区受关注。来源：36氪
+------------------
+【1月13日·周一】
+DeepSeek正式推出手机APP，苹果安卓都支持！
+2025年1月11日，DeepSeek正式推出Deepseek APP，支持iOS和安卓系统。此前，DeepSeek仅有网页端和API调用两种使用方式。此次推出的手机app功能与网页端一致，底层默认使用DeepSeek V3模型，开启深度搜索后调用DeepSeek-R1-Lite推理模型。来源：AI工具集
+------------------
+【1月13日·周一】
+百川智能落地宁波！注册资本 1.5 亿美元，与高新区共建产业基金
+2025年1月13日，百川智能创始人王小川与宁波高新区管委会签订合作协议，百川智能大模型项目落地宁波高新区。王小川表示将立足宁波特色，推进 AI 赋能千行万业。百川智能目前员工约280人，已完成A+轮融资，总融资额约50亿人民币，估值200亿人民币。来源：有新Newin
+------------------
+【1月13日·周一】
+阿里妈妈推出淘宝星辰视频生成大模型及图生视频应用
+阿里妈妈推出淘宝星辰视频生成大模型及图生视频应用。工具基于自研大模型，海量电商数据和设计经验，具备更懂商品展示手法、更强多语种语义遵循能力、合理物理动作规律、稳定元素保持等优势。用户输入静态图片或文本描述，即可一键生成高质量5秒视频。工具已对淘宝天猫商家开放。来源：AI工具集
+------------------
+【1月13日·周一】
+方大特钢与华为开展全面合作，打造钢铁行业大模型
+方大特钢与华为签署全面合作协议。双方将在企业数据治理体系与应用、钢铁行业大模型应用、信息安全、数字化人才培养等方面展开合作。方大特钢表示，此次合作有助于推动数字技术与钢铁主业深度融合，加快数字化转型，提升信息化应用水平和市场竞争力。来源：IT之家
+------------------
+【1月13日·周一】
+3D 生成大模型公司影眸科技完成数千万美元 A 轮融资，美团龙珠、字节跳动领投
+影眸科技完成数千万美元A轮融资，美团龙珠、字节跳动领投，红杉中国种子基金及奇绩创坛跟投。融资将用于推进3D大模型前沿探索及Hyper3D系列产品商业化。其3D生成大模型Rodin上线45天实现100万美金年经常性收入，已与Amazon等知名客户深度合作，获数百万元B端订单，覆盖多行业。来源：IT之家
+------------------
+【1月13日·周一】
+月之暗面海外产品负责人的AI Coding项目被投资人抢爆了，新一轮估值8000万美元
+前月之暗面海外产品Noisee创始人明超平发起的AI Coding项目“新言意码”已完成两轮融资，目前公司估值达8000万美元。该项目吸引了五源资本、高榕资本、真格基金、高瓴创投和IDG资本等多家顶级投资机构。新言意码定位为AI coding应用，瞄准类似美国智能代码生成产品Cursor的市场。来源：Z Finance
+------------------
+【1月13日·周一】
+京东健康发布业内首个医疗健康全场景应用大模型产品体系
+2025年1月11日，京东健康在年度医生盛典和数智医疗大会上发布了“AI京医”大模型产品体系及业内首个面向医院全场景应用的大模型产品“京东卓医”。“AI京医”包括AI诊疗助手2.0、AI科研助手和AI医生智能体等产品，旨在提升患者就医体验、医生临床科研效率和医院运营效能。来源：京东黑板报
+------------------
+【1月13日·周一】
+YY直播首个 AI 伴唱服务数字人“灵儿”发布，平均每天服务超100万用户
+YY直播近日发布首个AI伴播数字人“灵儿”，在12日YY 2024年度巅峰盛典上首次亮相。依托自研技术，“灵儿”已覆盖6000多个直播间，平均每天服务超100万用户，目前处于公测阶段。上线半年来，互动、发言量提升超30%，部分直播间互动设备数增长670%，付费用户数增长80%。来源：钛媒体AGI
+------------------
+【1月13日·周一】
+中文互联网语料 AI 资源平台发布：27 个数据集、总量 2.7T
+中国网络空间安全协会发布中文互联网语料资源平台，含27个数据集、总量2.7T。该平台在中央网信办指导下，由协会与国家互联网应急中心等共建，经严格数据处理后，推出中文互联网基础语料2.0，规模120GB，数据3800万条。来源：IT之家
+------------------
+【1月10日·周五】
+通义万相2.1模型能力重磅升级，轻松实现文生组图
+阿里通义万相2.1模型重磅升级，视频生成能力显著增强。通过自研的高效 VAE 和 DiT 架构，首次实现了中文文字视频生成功能，支持无限长 1080P 视频的高效编解码。在 VBench 视频生成模型评测体系中荣登榜首。还支持文生组图，采用 IC-LoRA 图像生成训练方法，增强文本到图像的上下文能力，轻松实现关联图像间的组合生成。来源：通义
+------------------
+【1月10日·周五】
+海螺AI推出全新 S2V-01 主体参考模型，AI视频创作再上新台阶
+海螺AI推出全新S2V-01主体参考模型，支持用户通过上传一张参考图片，生成与原图高度一致的角色视频。显著提升AI视频创作的效率和质量，使得每一帧画面都能完美还原参考形象。只需简单三步：上传图片、选择模型、生成视频，即可体验。来源：AI工具集
+------------------
+【1月10日·周五】
+商汤推出“日日新”融合大模型，勇夺“双冠王”
+2025年1月10日，商汤科技推出“日日新”融合大模型，实现原生融合模态，深度推理与多模态信息处理能力大幅提升。模型在SuperCLUE《中文大模型基准测评2024年度报告》与OpenCompass多模态评测中均获第一，成“双冠王”。来源：商汤科技SenseTime
+------------------
+【1月10日·周五】
+雷蛇推出“AI 游戏伴侣”Project AVA：支持实时指导 + 赛后复盘
+在 CES 2025 上，雷蛇发布全新概念产品Project AVA， AI游戏伴侣，旨在提升玩家的游戏水平。Project AVA 在训练过程中汲取顶尖电竞职业玩家和教练的游戏理解，能为 MOBA 和 FPS 类型游戏提供实时指导，并在赛后给出个性化总结分析，指出操作高光和需改进之处。Project AVA 还能对电脑硬件进行性能调优，提升帧数和优化画面效果。来源：AI工具集
+------------------
+【1月10日·周五】
+国家网信办：截至 2024 年末共 302 款生成式人工智能服务完成备案
+截至2024年12月31日，国家网信办共完成302款生成式人工智能服务的备案，其中2024年新增238款。2024年还有105款通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能在地方网信办完成登记。这些备案和登记工作旨在促进生成式人工智能服务的创新发展和规范应用。来源：IT之家
+------------------
+【1月10日·周五】
+开源媒体播放器 VLC 下载破 60 亿次，预览本地 AI 字幕 / 翻译功能
+开源媒体播放器 VLC 在 CES 2025 上庆祝累计下载次数突破 60 亿次。VideoLAN 总裁 Jean-Baptiste Kempf 表示，尽管流媒体服务盛行，VLC 的活跃用户数量仍在增长。VideoLAN 在 CES 现场预览了 VLC 即将推出的新功能：基于本地开源 AI 模型的离线字幕生成和翻译功能。功能现已支持多种语言，包括法语、德语、日语和希伯来文。来源：IT之家
+------------------
+【1月9日·周四】
+巨量引擎旗下创意生产平台 AIGC工具“即创”正式版上线
+巨量引擎旗下创意生产平台 AIGC工具“即创”正式版已上线，具备AI脚本生成、智能成片、数字人、商品卡等多体裁内容生成能力，新增“爆款裂变”“一键过审”等功能。来源：AI工具集
+------------------
+【1月9日·周四】
+官宣！通义灵码 AI 程序员全面上线，仅需10分钟完成整个开发过程
+阿里云和通义实验室联合推出的通义灵码AI程序员全面上线，成为全球首个同时支持VS Code和JetBrains IDEs的AI编程工具。通义灵码具备代码智能生成、研发问答等功能，通过对话协作方式，能够高效完成业务开发、问题修复和单元测试等任务。累计生成代码达15亿行。来源：通义灵码
+------------------
+【1月9日·周四】
+微软开源 140 亿参数小语言 AI 模型 Phi-4，性能比肩 GPT-4o Mini
+微软2025年1月8日在Hugging Face平台开源了小语言AI模型Phi-4，其参数量为140亿。Phi-4在多个基准测试中表现优异，超越了参数量更大的Llama 3.3 70B和OpenAI的GPT-4o Mini。出色性能主要得益于高质量数据集的训练。来源：IT之家
+------------------
+【1月9日·周四】
+CES 2025首日观察：AI硬件不再画饼，中国厂商大杀四方
+CES 2025首日，AI硬件成为焦点，中国厂商表现亮眼。涂鸦智能展示AI与IoT深度融合的创新应用，如智慧能源管理、AI灯光创作等，AR/AI眼镜大热，雷神、Rokid等厂商推出多款新品，电视领域，海信、TCL、长虹等国产厂商凭借RGB三维控色、Mini LED技术等突破。智能清洁设备也迎来创新，追觅、MOVA、云鲸等品牌带来机械臂、履带式拖布等新技术。来源：36氪
+------------------
+【1月9日·周四】
+晚点对话李开复丨零一万物部分团队并入阿里，“灵魂拷问来得太快了”
+零一万物CEO李开复在晚点对话中透露，公司与阿里云成立产业大模型联合实验室，部分团队将加入该实验室。零一万物将不再追求训练超级大模型，转而专注于训练更快、更便宜的模型，并基于此打造可盈利的应用。来源：晚点LatePost
+------------------
+【1月9日·周四】
+联通开源首个完全在国产昇腾 AI 平台训练和推理的中文原生文生图模型“元景”
+联通数据智能宣布开源首个完全在国产昇腾 AI 平台训练和推理的中文原生文生图模型“元景”。模型通过在SDXL架构中融合复合语言编码模块，实现了对中文长文本和特色词汇的精确语义理解，提升图像生成效果。元景模型替换了英文CLIP模型，增强了中文短文本输入的理解能力，支持长文本输入。来源：AI工具集
+------------------
+【1月9日·周四】
+智元机器人推出首个机器人4D世界模型
+智元机器人团队推出了首个机器人4D世界模型EnerVerse，通过自回归扩散模型结合稀疏记忆机制和自由锚定视角（FAV），在生成未来具身空间的同时，显著提升了机器人动作规划能力。EnerVerse在复杂任务中表现出卓越的未来空间生成能力和动作规划性能，解决了模态对齐和数据稀缺等挑战。来源：智元机器人
+------------------
+【1月8日·周三】
+英伟达推出生成式世界基础模型平台 Cosmos 构建高保真物理模拟世界
+英伟达推出了生成式世界基础模型平台Cosmos，旨在加速自动驾驶和机器人领域的发展。Cosmos能根据文本、图像或视频生成高度仿真的虚拟世界状态，为AI应用提供独特的视频输出。平台集成了生成式模型、高级标记器和加速视频处理管道，帮助开发者生成大量基于物理的合成数据，减少对真实世界数据的依赖。来源：AI工具集
+------------------
+【1月8日·周三】
+可灵AI V1.6模型现已开放API，生成质量更稳定
+北京快手宣布，自研的视觉生成大模型可灵AIV1.6已开放API。新版本在生成质量、内容效果等方面有显著提升，尤其在广告视频素材生成方面表现出色，能更好地响应运动、时序类动作和运镜等文字描述，提高素材生成成功率。来源：可灵AI
+------------------
+【1月8日·周三】
+HeyGen推全新数字人技术，与 Sora 实现集成
+HeyGen近日宣布推出全新数字人技术，并与Sora实现集成。此次合作产生的虚拟形象视频在许多情况下表现优于真人演员，且没有长度限制。HeyGen的虚拟形象完全由人工智能生成，非基于真实人物模型，具有更强的可塑性和创造性，可满足不同视频需求。来源：品玩
+------------------
+【1月8日·周三】
+Anthropic正以600亿美元估值筹集20亿美元，将成为第五大最有价值的美国初创公司
+Anthropic 正在与 Lightspeed Venture Partners 谈判，计划以 600 亿美元的估值筹集 20 亿美元。这轮融资将使 Anthropic 的估值达到 600 亿美元，成为继 SpaceX、OpenAI、Stripe 和 Databricks 之后第五大最有价值的美国初创公司。来源：有新Newin
+------------------
+【1月8日·周三】
+科大讯飞2025年「首场发布会」，打造每个人的办公新范式
+科大讯飞于2025年1月7日在北京中关村国际会议中心举办办公智能体产品升级发布会，推出多款升级产品。此次升级围绕智慧办公新范式，首次联合发布“知识中台、AI搜索、星火人设、虚拟数字人、星辰MaaS与多模交互”六大通用能力，旨在为每个人打造量身定制的AI助手。来源：讯飞开放平台
+------------------
+【1月8日·周三】
+阅文旗下AI男友应用筑梦岛获千万美元融资，开启独立运营
+阅文集团旗下的“筑梦岛”已开启独立运营，完成新一轮融资，金额超1,000万美元，由商汤国香基金、阅文集团等战略投资方共同投资。筑梦岛定位为“新一代AI虚拟互动娱乐平台”，用户可创造并互动“梦中人”，通过多模态互动建立情感连接。目前，筑梦岛App拥有近五百万注册用户，其中近80%为年轻女性用户，人均日对话轮次超120轮。来源：36氪
+------------------
+【1月8日·周三】
+年终复盘 2024 AI搜索江湖，三大门派围攻光明顶
+2024年，AI搜索赛道竞争激烈，互联网巨头、内容平台和AI创业公司纷纷入局。腾讯、百度、字节跳动等推出多款AI搜索产品，如搜狗输入法的AI搜索、360的纳米搜索、字节跳动的豆包电脑版等，覆盖学习、办公、电商等多个场景。AI搜索产品形态不断进化，多模态大模型的应用使其具备更强大的搜索和创作能力。来源：钛媒体
+------------------
+【1月8日·周三】
+用AI大模型重塑服装设计制版，「深服科技」获数千万元Pre-A轮融资
+浙江深服人工智能近日完成数千万元Pre-A轮融资，由上海厚毅资本领投。资金将用于模型开发、技术人才引进和市场拓展。深服科技成立于2023年，专注于为服装行业提供AI解决方案，通过AI大模型技术解决设计和制版难题，降低研发成本。产品“画衣衣AI制版”即将发布，可让设计师自主生成CAD制版图。来源：36氪
+------------------
+【1月7日·周二】
+英伟达发布新一代消费级显卡RTX50系列，售价为549美元起
+在2025年1月7日的 CES 展会上，英伟达 CEO 黄仁勋发布了 RTX 5090 显卡。显卡采用 Blackwell 架构，拥有 920 亿晶体管，AI 性能达 3352 TOPS，显存为 32 GB GDDR7，功耗为 575W。能通过 AI 提升帧率和图像质量。英伟达还推出了Cosmos世界模型平台，旨在推动物理 AI 的发展。来源：机器之心
+------------------
+【1月7日·周二】
+中国信通院发布 MaaS 六大标准，解决 AI 模型落地“最后一公里”难题
+中国信通院于2025年1月6日发布MaaS（模型即服务）系列标准，旨在解决大模型落地应用中的质量问题和选型难题。系列标准涵盖模型服务协议、评估方法、平台能力、模型管理及应用开发等方面，为大模型服务商和平台供应商提供能力建设参考，助力MaaS行业健康发展。来源：IT之家
+------------------
+【1月7日·周二】
+腾讯研究院发布《AI图景解码50关键词》浓缩AI领域的基本图景和趋势
+腾讯研究院发布《AI图景解码50关键词》，将2024年AI领域的关键信息和趋势浓缩为50个关键词。研究团队基于大量数据和专题研究，筛选出涵盖基础模型、图像处理、视频生成等八大方向的关键词，通过AI生成卡片进行可视化表达。帮助普通人快速了解AI领域的基本图景和未来趋势。来源：AI工具集
+------------------
+【1月7日·周二】
+传音控股与阿里云达成合作，通义千问大模型搭载于前者旗下 AI 手机
+传音控股与阿里云达成合作，将通义千问大模型搭载于旗下 TECNO 品牌的 AI 手机 PHANTOM V Fold2 中。手机通过特定的 AI 按键，用户可以在离线环境中流畅运行多轮 AI 对话，实现文档及通话摘要等功能。来源：IT之家
+------------------
+【1月6日·周一】
+罗永浩 Jarvis 初创项目“J1 Assistant 助理”上线，支持语音与大模型互动
+罗永浩旗下的AI初创项目Jarvis在海外上线J1 AssistantAI智能助手，目前仅提供安卓版本，官网对国内IP进行了限制。J1 Assistant 的特色在于音频输入功能，用户可以通过语音输入，将语音消息发送至谷歌搜索引擎、自家AI模型或ChatGPT进行查询，还可以用于创建备忘录。来源：AI工具集
+------------------
+【1月6日·周一】
+「天工大模型4.0」o1版和4o版正式上线天工APP和网页，免费使用
+昆仑万维集团宣布，「天工大模型4.0」o1版和4o版于2025年1月6日正式上线天工网页和APP，供用户免费使用。o1版专注于中文逻辑推理，具备强大的数学、代码、逻辑、常识和伦理决策能力，通过多智能体体系和强化学习等技术提升推理性能。4o版为多模态模型，语音对话助手Skyo具有情感表达和多语言切换能力，提供流畅的实时对话体验。来源：昆仑万维集团
+------------------
+【1月6日·周一】
+微软计划本财年砸下 800 亿美元，建设符合 AI 工作需求的数据中心
+微软计划在2025财年投资800亿美元建设支持人工智能运算的数据中心，其中超过一半的资金将投向美国市场。微软副董事长布拉德·史密斯表示，美国在全球AI竞赛中处于领先地位，得益于私人资本投入和技术创新。微软已向OpenAI投资超过130亿美元，将其AI模型整合到Windows、Teams等产品中。来源：IT之家
+------------------
+【1月6日·周一】
+马斯克称 Grok 3 即将推出：已完成预训练，计算量比 Grok 2 高十倍
+马斯克宣布 Grok 3 即将推出，预训练已完成，计算量比Grok 2高出十倍。去年 7 月，Grok 3 使用了 10 万块英伟达 H100 芯片进行训练，但未能如期发布。去年 12 月，xAI 向所有 𝕏 平台用户免费推出了 Grok-2 模型，Premium 用户将优先访问新功能。来源：IT之家
+------------------
+【1月6日·周一】
+阿里通义千问 Qwen 推 CodeElo 基准，OpenAI o1-mini 夺冠超 90% 人类程序员
+阿里通义千问 Qwen 推出了CodeElo基准测试，利用 Elo 评级系统评估大语言模型（LLM）的编程能力。CodeElo 通过 CodeForces 平台的题目进行测试，确保评估的准确性和全面性。在测试中，OpenAI 的 o1-mini 模型表现最佳，Elo 评分为 1578，超过了 90% 的人类程序员。来源：AI工具集
+------------------
+【1月6日·周一】
+上海发布“天工人工智能工业平台”和“工业语料库 1.0 版”
+上海市在“人工智能+”行动推进大会上发布了“天工人工智能工业平台”和“工业语料库 1.0 版”。天工平台采用开放架构，兼容主流大模型，提供从底层算力到顶层应用的全面支持，旨在降低工业企业使用 AI 的门槛，提高应用开发效率，助力企业智能化转型。工业语料库则为企业提供精准的决策支持和解决方案。来源：IT之家
+------------------
+【1月6日·周一】
+谷歌 DeepMind 推 CAT4D：普通视频变 3D 大片，单视角视频也能转换多视角了
+谷歌 DeepMind 联合哥伦比亚大学和加州大学圣地亚哥分校开发了CAT4DAI 系统，能够将普通视频转化为动态 3D 场景。系统基于扩散模型，将单视角视频转换为多视角视图，用户可以从不同角度观看视频中的主体。来源：AI工具集
+------------------
+【1月3日·周五】
+阿里入局 AI 眼镜：与雷鸟达成战略合作，产品将接入通义大模型
+雷鸟创新与阿里云达成AI眼镜领域的独家战略合作，阿里云通义大模型将为雷鸟AI眼镜提供技术支持。是国内首次大模型与AI眼镜硬件厂商深度定制合作。双方将共同投入研发资源，围绕云计算、大模型、AI硬件等领域合作。雷鸟计划于1月7日发布雷鸟V3 AI拍摄眼镜。来源：IT之家
+------------------
+【1月3日·周五】
+微软发布新模型 LAM ，可以自己操作Windows程序
+微软推出LAM（Large Action Model）“大型动作模型” ，能够独立操作Windows程序，将用户请求转化为实际行动。是首个专门训练与微软Office产品一起工作的模型。在Word测试中，LAM的成功率达到71%，速度超过GPT-4o。来源：AI工具集
+------------------
+【1月2日·周四】
+百度增设搜索产品：上线“AI 搜”，通过 @与不同智能体交互
+百度近日上线“AI 搜”，基于百度文心大模型的桌面端AI搜索引擎。整合了百度搜索引擎、健康、律临、文库、教育等内容生态，提供话题探索、问题解决等功能。用户可通过@方式与不同智能体交互。来源：AI工具集
+------------------
+【1月2日·周四】
+阿里前端第一人AI创业首秀，要做全球内容创作者的GitHub！5k人排队内测
+前阿里前端技术专家玉伯，离开蚂蚁集团后创办AI公司思维天空，推出AI工具YouMind，旨在服务全球创作者。YouMind 集成多模态内容，提供网页总结、翻译、ChatBot对话等功能，支持用户将内容分类收藏。目前处于内测阶段，已有近5000人申请，公司估值过亿。来源：量子位
+------------------
+【1月2日·周四】
+智象未来多模态大模型3.0全球首发
+智象未来发布智象多模态生成大模型3.0和智象多模态理解大模型1.0，旨在提升视觉多模态基础模型服务，激发创造力。创始人梅涛院士强调了AI技术在推动科学发展和具身智能方面的重要性，提出了大模型通往AGI的两条路径。来源：HiDream智象未来
+------------------
+【1月2日·周四】
+阿里云与零一万物达成战略合作，成立“产业大模型联合实验室”
+阿里云与零一万物达成战略合作，共建“产业大模型联合实验室”，旨在加速大模型技术应用落地和产业生态整合。双方将结合研发实力，通过阿里云百炼大模型平台提供服务。进一步深化双方在AI大模型领域的合作。来源：IT之家
+------------------
+【1月2日·周四】
+英伟达新一代显卡领衔，一波AIPC芯片产品有望亮相CES展
+英伟达CEO黄仁勋将在CES 2025发表开幕演讲，可能发布新一代GeForce RTX50系列显卡。英特尔和AMD也预计在会上发布AIPC相关产品，推动AI芯片技术迭代。行业已进入用户体验探索阶段，AIPC芯片具备自然语言交互等特点，有望快速渗透PC市场，带动产业链升级。来源：财联社
+------------------
+【1月2日·周四】
+谷歌前CEO施密特预测：AI 将在今年获得“永久记忆”，2028 美国会耗尽能源储备
+谷歌前CEO埃里克·施密特预测，2025年AI将实现三大突破：获得“永久记忆”、智能体从对话到行动的飞跃、文本到行动的编程革命。他强调AI变革将“一切，无处不在，同时发生”，警告美国可能在2028年耗尽能源储备，因数据中心耗电量巨大。来源：36Kr
+------------------
+【12月31日·周二】
+智谱正式发布深度推理模型：GLM-Zero 的初代版本 GLM-Zero-Preview
+智谱AI在2024年尾发布GLM-Zero推理模型，初代版本GLM-Zero-Preview已上线，基于扩展强化学习技术，提升数理逻辑、代码处理和深度推理能力。模型在AIME 2024、MATH500和LiveCodeBench评测中表现优异，与OpenAI-o1-Preview相当。用户可在智谱清言-“Zero推理模型”智能体免费使用，开发者可通过API调用体验。来源：AI工具集
+------------------
+【12月31日·周二】
+趣丸科技「天谱乐」开创AI音乐新纪元：全球首个多模态配乐大模型
+趣丸科技推出的全球首个多模态配乐大模型“天谱乐”，支持文本、图片和视频生曲，能生成高度匹配的BGM和MV效果。该技术在中文人声唱词上达到专业级效果，减少了电音感，接近音乐发行级别。“天谱乐”已接入唱鸭App，累计创作近1000万首AI歌曲。来源：AI工具集
+------------------
+【12月31日·周二】
+可灵AI API新增【虚拟试穿V1.5】和【对口型】
+快手可灵AI（Kling）宣布API能力升级，推出虚拟试穿V1.5模型，支持单件及组合服装输入，能生成试衣视频。同时，新增对口型功能，可实现视频中人物口型与配音同步，提升视频真实感。这些升级将为电商、广告营销和泛娱乐行业带来新机遇，推动业务增长。来源：可灵AI
+------------------
+【12月31日·周二】
+OpenAI公布2025年将发布的技术产品：AGI、Agents、GPT-4o升级版
+OpenAI首席执行官Sam Altman宣布，到2025年将发布包括AGI（通用人工智能）、智能体Agents、GPT-4o升级版在内的多项技术产品，以及其他改进，如更好的记忆存储、上下文窗口、成人模式、深度研究特色功能、Sora和个性化定制。来源：第一财经
+------------------
+【12月31日·周二】
+大模型的2024年：我们对AI的发展脱敏了
+2024年AI领域发展迅速，大模型更实用但不再惊艳，端侧模型和混合专家技术（MoE）降低成本，多模态研究成新方向。AI搜索、语音交互、视频技术商业化挑战中前行，AI Agent开发门槛降低。AI硬件百花齐放，AI眼镜异军突起。AI游戏从辅助工具成为游戏一部分。中国AI人才梯队规模质量仅次于美国，期待在AI浪潮中领先。来源：新硅NewGeek
+------------------
+【12月31日·周二】
+黑芝麻智能发布华山A2000家族芯片平台，打造全场景通识智驾标杆
+黑芝麻智能发布华山A2000家族芯片平台，针对下一代AI模型设计，提供高算力、高性能，支持全场景通识智驾。A2000家族包括A2000 Lite、A2000和A2000 Pro，满足不同自动驾驶需求。集成领先CPU、DSP、GPU等，算力是主流旗舰芯片的4倍，原生支持Transformer模型，推动智能驾驶技术发展。来源：黑芝麻智能
+------------------
+【12月30日·周一】
+讯飞医疗成功上市，成为医疗大模型第一股！
+讯飞医疗科技股份有限公司（股票代码：02506.HK）于2024年12月30日在香港联交所主板成功上市，标志着医疗大模型领域的第一股诞生。作为中国医疗人工智能行业的领导者，讯飞医疗在基层医疗服务、医院服务、患者服务和智慧影像等方面均取得显著成就，致力于让医疗服务更便捷，为人类健康未来奋斗。来源：科大讯飞
+------------------
+【12月30日·周一】
+支付宝「探一下」新一代AI视觉搜索产品，满足你的好奇心
+支付宝推出新功能“探一下”，基于自研的多模态大模型技术，能够“用AI之眼探索万物”，提供快速、有用、趣味的生成式搜索服务。“探一下”提供三种核心服务：探知识、探灵感、探文本。可以根据自己的需求选择相应的服务，满足用户的好奇心。通过支付宝“扫一扫”界面或支小宝App中访问。来源：支付宝
+------------------
+【12月30日·周一】
+智元机器人开源 AgiBot World 百万真机数据集，大幅超越谷歌 Open X-Embodiment
+智元机器人宣布开源全球首个百万真机数据集AgiBot World，超越谷歌Open X-Embodiment。该数据集基于全域真实场景、全能硬件平台、全程质量把控，覆盖家居、餐饮、工业等五大核心场景，包含80多种技能视频。来源：AI工具集
+------------------
+【12月30日·周一】
+PixVerse V3.5 正式上线，模型全面升级，10秒极速生成
+爱诗科技宣布PixVerse V3.5版本正式上线，新版本在Turbo模式下10秒内即可生成高质量视频，保持行业领先的语义理解和细节表现力。动漫生成效果显著提升，支持通过文生视频描述特定风格或上传图片生成动漫效果。新增首尾帧功能，激发创作灵感。来源：爱诗科技 AIsphere
+------------------
+【12月30日·周一】
+拓元智慧完成近亿元Pre-A轮融资，将聚焦多模态大模型与具身智能技术
+拓元智慧（X-Era AI）宣布完成近亿元人民币的Pre-A轮融资，由粤科金融集团、鹏城愿景基金等投资。资金将用于加速多模态大模型和具身智能技术的研发。公司成立三年，累计营收近亿元，核心团队来自国内外高校和知名企业，已在无人零售、文教创作等领域实现技术深度应用。来源：钛媒体
+------------------
+【12月30日·周一】
+OpenAI裂变成了两块：一块营利，一块非营利
+OpenAI近日宣布公司重组，分为营利和非营利两部分，确保通用人工智能（AGI）造福全人类。重组旨在选择最适合长期成功的组织结构，使非营利组织可持续发展，让各部分有效运作。OpenAI计划将营利性公司转变为特拉华州公共利益公司（PBC），并发行普通股。PBC的公共利益将是OpenAI的使命。来源：机器之心
+------------------
+【12月27日·周五】
+“理想同学”上架苹果 App Store：支持知识问答、看世界等功能
+理想汽车推出的人工智能应用“理想同学”已上架苹果App Store，版本1.0.0。应用依托自研大模型，具备知识问答、视觉感知能力，能解答汽车、财经、科技等领域问题，支持英文翻译、文本生成。界面简洁，语音输入精准，输出自然流畅。来源：AI工具集
+------------------
+【12月27日·周五】
+可图 1.5 图像模型来啦！全新「AI模特」功能上线
+快手可灵AI（Kling）团队发布可图1.5图像模型，模型在画面质量和美感上大幅提升。AI试衣新增“AI模特”功能，借助可灵1.6图生视频能力，用户只需输入文本描述即可生成模特动态展示服装。可灵1.5模型支持尾帧生成。对口型功能新增10款高品质音色，支持选择音色情感，增强视频内容的情感表达。来源：可灵AI
+------------------
+【12月27日·周五】
+首个重症医疗大模型来了，腾讯 X 迈瑞发布“启元重症大模型”，已在ICU病房上班
+腾讯与迈瑞医疗合作开发的全球首个重症医疗大模型“启元重症大模型”已在ICU病房投入使用。模型能实时监测患者生命体征，5秒内总结病情，提供诊疗建议，准确率高达95%。能自动生成规范病历，将医生病历编写时间从半小时缩短至一分钟。来源：腾讯
+------------------
+【12月27日·周五】
+火山引擎×联想，为 AI 桌面助手“如意”植入豆包大模型，“智” 敬PC新时代
+联想与火山引擎合作，推出全新升级的AI桌面助手“如意”（AI Stick），植入豆包大模型，提供AI搜索、AI写作、AI聊天三大功能，全面提升PC用户体验。如意能精准理解用户需求，提供多领域知识解答，实现智能对话式交互，增强PC智能体验。来源：火山引擎
+------------------
+【12月27日·周五】
+联想新一代智能体系统“天禧 AS”发布，明年 Q2 落地 AI PC、AI 手机、AI 平板等
+联想在2024天禧生态伙伴大会上发布了新一代智能体系统“天禧个人智能体系统（天禧 AS）”，计划于2025年第二季度应用于AI PC、AI手机、AI平板等终端。天禧AS运行在传统操作系统之上，具备跨端运行能力，能实现端侧和个人云混合部署，提供个性化AI助理服务。来源：IT之家
+------------------
+【12月26日·周四】
+国货之光 DeepSeek V3 横空出世，多语言编程能力全面超越 Claude
+幻方量化旗下人工智能公司深度求索（DeepSeek）开源的最新版AI模型DeepSeek V3，拥有685B参数和256个专家的MoE架构，在aider多语言编程测评中超越Claude 3.5 Sonnet，夺得第二名。成功率从V2.5的17%提升至48%，编辑格式正确率高达98.7%。DeepSeek V3现已开源，提供代码编写、Bug修复等多种编程能力。来源：AI工具集
+------------------
+【12月26日·周四】
+智谱AI 开源 GLM-PC 基座模型 CogAgent-9B，推动GUI交互自动化技术
+智谱AI宣布开源GLM-PC基座模型CogAgent-9B，是基于GLM-4V-9B训练的专用Agent任务模型，能仅通过屏幕截图预测GUI操作。CogAgent-9B在GUI感知、推理预测准确性等方面显著提升，支持中英文双语交互。来源：GLM大模型
+------------------
+【12月26日·周四】
+阶跃星辰图像生成模型全新升级：支持「图生图」，一键风格迁移！
+阶跃星辰宣布其图像生成模型Step-1X系列的全新升级版本Step-1X-Medium，性能提升30%，增强了理解能力和图文一致性，支持“图生图”功能，实现细节增强、风格迁移和小范围局部修改。特别强化了“中国风”内容创作能力，能捕捉东方面孔神韵，支持英文文案生成。来源：阶跃星辰
+------------------
+【12月26日·周四】
+腾讯推出 DRT-o1 系列 AI 模型：长链思考推理实现文学翻译“信达雅”
+腾讯研究院推出DRT-o1系列AI模型，通过长链思考推理技术，提升文学作品翻译质量，尤其是在理解比喻和隐喻方面。模型采用多智能体框架，包括翻译员、顾问和评估员角色，通过迭代优化翻译结果。实验显示，DRT-o1在BLEU和CometScore等指标上超越其他模型。来源：AI工具集
+------------------
+【12月26日·周四】
+通义从阿里云分拆，并入阿里智能信息事业群，与“夸克”平级
+阿里巴巴旗下的AI应用通义从阿里云分拆，加入智能信息事业群，正式转向C端市场。通义系列由达摩院研发，是阿里AI领域的拳头产品。此次调整意味着通义将与Kimi、豆包等AI助手竞争，面临缩小与第一梯队差距的挑战。来源：光子星球
+------------------
+【12月26日·周四】
+小米正搭建GPU万卡集群，将对AI大模型大力投入
+小米正在搭建GPU万卡集群，对AI大模型进行大力投入。该计划已实施数月，小米大模型团队成立时已拥有6500张GPU资源。DeepSeek-V2的关键开发者之一罗福莉，将加入小米。小米大模型技术主攻轻量化和本地部署，已在手机端实现13亿参数级别的大模型，效果接近云端60亿参数模型。来源：财联社
+------------------
+【12月26日·周四】
+科大讯飞连续中标7大AI项目，两个月内狂揽11亿大单
+科大讯飞旗下讯飞智元中标山东泰安市肥城人工智能行业大模型应用基地项目，投标金额约1.59亿元。项目内容包括智算中心基础设施建设，涉及基建、硬件平台和基础配套软件等。科大讯飞近期已连续中标7大项目，总金额近11亿元。来源：智东西
+------------------
+【12月25日·周三】
+Qwen开源视觉推理模型QVQ，像物理学家一样更睿智地看世界！
+Qwen团队发布开源多模态推理模型QVQ，基于Qwen2-VL-72B构建，提升AI的视觉理解和复杂问题解决能力。QVQ在MMMU评测中得分70.3，显著优于Qwen2-VL-72B-Instruct，在数学相关基准测试中表现突出。模型虽有语言混合、递归推理等局限性，但已在视觉推理任务中展现增强能力。来源：魔搭ModelScope社区
+------------------
+【12月25日·周三】
+IBM 发布新语言模型 Granite 3.1，性能、上下文能力增强
+IBM发布大语言模型新版本Granite 3.1，相较于3.0版本，Granite 3.1采用了更密集的架构，能处理多达128,000个令牌，显著提升了处理复杂文本的能力。版本包含8B和2B两种规模模型，均能检测工作流程中的幻觉，提供与RAG相同的责任和信任。IBM计划在未来几个月继续推出Granite 3系列的更新，预计在2025年第一季度加入多模式功能。来源：AI工具集
+------------------
+【12月25日·周三】
+“深思熟虑”的 AI：OpenAI 提出全新安全对齐方法
+OpenAI研究人员提出“深思熟虑的对齐”新方法，旨在提升AI模型安全性。该方法通过直接教授模型安全规范，并训练其在生成响应前推理这些准则，将安全原则融入推理过程中。分为监督微调和强化学习两个阶段，使用模型生成的数据和思维链推理，降低资源需求。o1模型部署此技术后，在StrongREJECT基准测试中得分0.88，显著高于GPT-4o的0.37，同时减少了误拒，准确率高达93%。来源：IT之家
+------------------
+【12月25日·周三】
+2025 AI Agent剑指何方？两份前沿报告描绘全景地图
+2024年，AI Agent成为热门概念，被视为大模型应用落地的最佳形式。LangChain和Langbase的报告显示，51%的受访者已在生产中采用AI Agent，78%计划近期引入。中型企业最积极，非科技公司与科技公司部署AI Agent的比例相当。OpenAI和谷歌是最受欢迎的大模型提供商。准确性是选择AI Agent的首要因素，其次是安全性和可定制性。AI Agent在研究总结、个人生产力工具和客户服务等领域被广泛采用。性能质量是生产中采用AI Agent的主要顾虑。来源：钛媒体
+------------------
+【12月25日·周三】
+做出AI科学家的Sakana AI又放大招，大模型自动搜索人工生命系统
+Sakana AI公司开发了搜索人工生命的系统ASAL，通过基础模型自动化搜索人工生命模拟，探索可能存在的“生命”。ASAL展示了在多种人工生命基质中发现新生命形式的能力，为人工生命研究提供了新范式，加速了对涌现、进化和智能的理解，有望启发下一代AI系统的发展。来源：机器之心
+------------------
+【12月25日·周三】
+杭州CPU黑马宣布数亿元融资，在研服务器AI CPU芯片
+国产CPU创企进迭时空完成数亿元人民币A+轮融资，由香港Brizan III期基金领投，资金将用于高性能RISC-V AI CPU和服务器AI CPU产品的研发及市场拓展。公司总部位于杭州，专注于构建面向大模型时代的原生计算平台，助力AI计算机和机器人等新应用发展。进迭时空已布局全栈计算技术，形成软硬全栈计算系统解决方案，推动RISC-V高性能计算芯片规模化进入行业市场，应用于电力、电信、工业等领域。来源：芯东西
+------------------
+【12月25日·周三】
+AI视频创企智象未来又拿新融资，数亿元！
+AI视频生成公司智象未来（HiDream.ai）完成数亿元人民币A轮融资，由合肥产投领投，安徽省人工智能母基金和湖北省长江电影集团等参与。智象未来由加拿大工程院外籍院士梅涛博士创立，专注于视觉多模态基础模型及创新应用。公司自研的“智象大模型”支持文本、图像、视频、3D互生，提供分钟级营销视频生成服务，累计AIGC内容生成量破千万，服务超3万家企业。来源：智东西
+------------------
+【12月25日·周三】
+星火浏览器插件新升级！能读会答、能翻译会总结
+讯飞星火浏览器插件新升级，集成了讯飞星火V4.0底层能力，支持Chrome、Edge等主流浏览器。新增功能包括“继续提问”以深入讨论获取答案、网页全局对照翻译、一键朗读以及句子段落总结，提升阅读效率。插件以6M+极小内存运行，提供AI搜索、网页总结、划词收藏等功能，旨在让网页阅读与信息搜索更轻松高效。来源：讯飞开放平台
+------------------
+【12月25日·周三】
+Freed AI，AI病历助手，创立1年多，1万付费医生，1000万美金ARR
+Freed AI是一家成立一年多的AI病历助手公司，已获得1万付费医生用户，实现1000万美金年度经常性收入（ARR）。公司的AI转录系统通过记录患者就诊讨论内容，识别关键术语并创建结构化的病历记录，帮助医生减少73%的文档工作时间。Freed AI的愿景是打造全球顶尖的AI医疗助手。来源：Z Potentials
+------------------
+【12月24日·周二】
+马斯克xAI获60亿美元新融资，和特斯拉和SpaceX大搞AI生态
+马斯克的xAI公司宣布完成60亿美元C轮融资，主要投资方包括A16Z、Blackrock、富达管理研究公司等。英伟达和AMD作为战略投资者继续支持xAI基础设施扩展。资金将用于加速基础设施建设、推出数十亿人使用的突破性产品和技术研发，实现公司使命。xAI的新一代旗舰模型Grok 3正在训练中，将推出利用Grok、Colossus和X改变人类生活、工作和娱乐方式的新产品。来源：X.ai
+------------------
+【12月24日·周二】
+「像素绽放PixelBloom」完成国家队B2轮融资，打造全球AI办公软件超级工场
+AIGC科技企业“像素绽放PixelBloom”完成B2轮融资，由北京市人工智能产业投资基金领投。融资将用于产品研发和市场拓展，旨在打造全球AI办公软件超级工场。旗下AiPPT.com等产品，通过AI辅助PPT制作，已在全球积累超1000万用户。公司从单一产品向平台化战略转变，构建AI办公软件生态，推动行业发展。来源：36氪Pro
+------------------
+【12月24日·周二】
+Hume AI 宣布推出新一代语音语言模型 OCTAVE，能检测微妙的情绪线索
+Hume AI 推出新一代语音语言模型OCTAVE，模型融合了语言准确性和情感理解。OCTAVE结合了Hume AI的EVI 2语音语言模型、OpenAI的语音引擎、ElevenLab的TTS语音设计和Google DeepMind的NotebookLM等功能，旨在提升AI交互的真实性和丰富性。模型采用多模态神经架构，经过超过一百万个情感语音样本的训练，能够识别微妙情绪线索。来源：AI工具集
+------------------
+【12月23日·周一】
+上海国资和腾讯联手投资，“大模型六虎”阶跃星辰获数亿美元B轮融资
+AI大模型独角兽阶跃星辰完成数亿美元B轮融资，投资方包括上海国有资本投资有限公司、腾讯投资等。本轮融资将用于基础模型研发，强化多模态和复杂推理能力，扩大C端应用场景。公司由微软前全球副总裁姜大昕博士领导，致力于实现AGI，已发布多款自研基座模型，并与多家企业达成合作。来源：钛媒体AGI
+------------------
+【12月23日·周一】
+OpenAI最强推理模型o3发布！AGI测试能力暴涨，最难数学测试分数碾压同行
+OpenAI在第12天发布会直播上推出最强推理模型o3，宣称接近通用人工智能（AGI）。o3在ARC-AGI测试中得分87.5%，远超GPT-3和GPT-4o。o3有完整版和mini版，mini版将于1月底推出。o3在编程竞赛Codeforces中得分2727，数学基准测试AIME 2024中准确率达96.7%。OpenAI将与ARC-AGI基金会合作构建下一个基准测试。来源：AI工具集
+------------------
+【12月23日·周一】
+小红书推出AI搜索产品：点点，主打生活服务场景
+小红书近期推出一款名为“点点”的AI搜索产品，主打生活场景搜索，已在各大应用商店上线。核心功能包括自动定位推送旅游攻略、美食景点问题，AI总结全网信息，以及提供视频回复。小红书还在搜索栏中测试“问点点”功能，进一步整合AI搜索能力。来源：AI工具集
+------------------
+【12月20日·周五】
+谷歌通用推理模型登场：思考速度比所有模型快5倍，能解摩斯代码，数学物理秒解决
+谷歌发布“Gemini 2.0 Flash Thinking”AI推理模型，模型以极快的速度解决复杂问题并展示思考过程。在数学、代码、指令跟随等多个领域表现卓越，排名第一。模型目前支持32k上下文窗口，不联网，未来将提供更长token和更多工具支持。模型已在谷歌AI Studio免费提供试用。来源：AI工具集
+------------------
+【12月20日·周五】
+AI编程助手 Cursor 再获融资1亿美元，估值飙升至26亿美元
+AI编程助手Cursor背后的公司Anysphere完成1亿美元B轮融资，估值达26亿美元。公司收入从4月的年化经常性收入400万美元增长至10月的每月400万美元。Cursor 0.44版本发布，主要更新包括代理性能改进、Yolo模式和光标标签更新，提升代码变更审查直观性和用户体验。来源：AI工具集
+------------------
+【12月20日·周五】
+ElevenLabs推出Flash语音对话模型：仅75毫秒延迟，支持32种语言
+ElevenLabs推出最新的人声合成模型Flash，宣称是目前最快的文本转语音解决方案，延迟仅为75毫秒，非常适合低延迟的对话式语音助手。Flash模型有两个版本，Flash v2仅支持英语，Flash v2.5支持32种语言。在音质和情感深度略逊于Turbo模型，在速度上Flash盲测中表现出色。来源：AI工具集
+------------------
+【12月20日·周五】
+快手可灵 1.6 模型发布：文本响应度、画面美感及运动合理性均有“明显提升”
+可灵近日推出了1.6版本，实现了图生视频的巨大飞跃。更新重点包括物理规律真实感、人物运动表演和语义理解的大幅提升。新版本在切食物、倒茶、跳舞等动作的物理反馈上表现出色，人物表情和动作的细节也更加丰富自然。文本响应度、画面美感及运动合理性均有明显提升。来源：IT之家
+------------------
+【12月20日·周五】
+苹果Mac用户狂喜！ChatGPT深度集成应用，支持 Xcode、Notion 等30+应用
+OpenAI在第11天的直播中宣布ChatGPT与Mac应用的深度集成，特别在编程和写作方面进行了更新。现在，用户可以通过简单的复制粘贴操作，与Warp、XCode等应用协同工作，无需详细交流即可执行任务。ChatGPT支持在语音模式下与Notion、Apple Notes等应用协同工作。新功能已在Mac最新版ChatGPT应用中推出，Windows用户还需等待。来源：量子位
+------------------
+【12月20日·周五】
+国家电网发布国内首个千亿级多模态电力行业大模型
+国家电网发布了国内首个千亿级多模态电力行业大模型“光明电力大模型”，模型参数规模达到千亿级别，具备电力知识记忆理解、多模态融合分析等能力，被誉为能源电力领域的人工智能“专家”。模型已在中国信通院、电子标准院通过权威检测，专业能力达到“卓越级”，在电网规划、运维、运行、客户服务等多个领域得到应用，提升了电网安全稳定运行和新能源消纳能力。来源：IT之家
+------------------
+【12月20日·周五】
+华人团队力作，震撼开源生成式物理引擎Genesis，可模拟世界万物
+CMU联合20多所研究实验室开源发布Genesis生成式物理引擎，旨在模拟世界万物。引擎能生成4D动态世界，基于通用机器人和物理AI应用的物理模拟平台。Genesis支持并行模拟，速度比现有GPU加速的机器人模拟器快10到80倍，具备物理求解器的统一框架，支持照片级真实感渲染和可微分性。还支持生成式模拟，允许通过语言提示生成多种模态数据。来源：AI工具集
+------------------
+【12月19日·周四】
+人人可享 AI 编程：免费版 GitHub Copilot 上线，VS Code 每月补全 2000 次代码
+微软旗下GitHub推出免费版GitHub Copilot，支持开发者在Visual Studio Code中免费使用AI辅助编程服务。全球1.5亿开发者现可在VS Code体验AI编程。免费订阅包括每月2000次代码生成和补全，以及50次编程问题解答。用户可选择Anthropic的Claude 3.5 Sonnet或OpenAI的GPT-4o模型，支持第三方智能体。来源：IT之家
+------------------
+【12月19日·周四】
+蚂蚁团队自研的「智能开发神器」，让你秒变 “代码大师”！
+蚂蚁团队自研的面向前端智能研发AI工具WeaveFox，能根据设计图直接生成前端源代码。WeaveFox基于蚂蚁百灵多模态大模型打造，支持多端和多技术栈，包括控制台、移动端H5、小程序等，以及React、Vue等框架。支持二次调整，追求设计稿的一比一还原，旨在为前端开发带来高质、高效、高产的研发体验。该产品预计将于明年正式开放。来源：AI工具集
+------------------
+【12月19日·周四】
+OpenAI 加速普及 ChatGPT，开通免费热线电话，老人机也能用ChatGPT了
+OpenAI直播第10天，在美国推出ChatGPT热线电话服务，号码是：1-800-ChatGPT，也可以打1-800-242-8478，每月可免费通话15分钟，支持智能手机、老人机和座机各种电话设备与ChatGPT语音对话。OpenAI还集成了ChatGPT到WhatsApp，给这个号码发消息来获取回复，负责回答问题的是4o mini。来源：量子位
+------------------
+【12月19日·周四】
+影石发布AI双摄视频会议一体机Connect，让开会更简单
+影石Insta360发布了智能双摄视频会议一体机Insta360 Connect，集成4K双摄、14阵列麦克风和扬声器，搭载AI算法，为6-14人中小型会议和教育场景提供解决方案。设备支持发言人自动切换和单人追踪，提供多种会议模式，兼容主流会议平台，内置智能白板功能。来源：AI工具集
+------------------
+【12月19日·周四】
+微信公众号新增“作者朗读音色”功能：可生成作者音色全文音频
+微信近日推出了“作者朗读音色”新功能，支持用户在阅读公众号文章时通过点击“听全文”来收听作者音色朗读的文章。作者需在“公众号助手”App中录制例句以复刻语气和情感，创建个性化语音。功能目前处于灰度测试阶段，将逐步向用户开放。来源：微信派
+------------------
+【12月19日·周四】
+小猿学练机发布：墨水屏+AI教育大模型，突破20毫秒手写延迟
+猿辅导发布小猿学练机，集成AI教育大模型，提供个性化学习支持。设备整合296个教材版本、15亿题库和3亿精讲视频，升级六维能力图谱，提升AI数据处理效率。K12阶段采用EPD墨水屏，低龄儿童使用10.3英寸Kaleido3 KHS彩色墨水屏。手写延迟19毫秒，搭载高通8核处理器，支持27天续航，售价4899元。来源：小猿智能设备
+------------------
+【12月18日·周三】
+豆包大模型家族全面升级，重磅发布视觉理解模型
+字节跳动旗下火山引擎发布豆包大模型家族全面升级，包括视觉理解模型，能同时处理文本和图像问题，提供准确回答，大幅降低开发流程复杂度。模型在教育、旅游、电商等领域有广泛应用，价格为每千tokens 0.003元，比行业平均价格低85%。豆包通用模型pro新版本在多个任务处理能力上提升显著。火山引擎还推出全域AI搜索和大模型记忆方案，助力企业智能化转型。来源：AI工具集
+------------------
+【12月18日·周三】
+AI数据分析公司Databricks一口气融728亿！AI融资新纪录
+AI数据分析公司Databricks宣布J轮融资目标为100亿美元（约合人民币728亿元），目前已完成86亿美元，超越OpenAI的65亿美元融资，创下全球AI创企融资新纪录。本轮融资后，Databricks估值达到620亿美元，预计2025年自由现金流将首次为正。公司计划将资金用于开发AI产品、战略性收购及扩展国际市场，满足不断增长的市场需求。来源：智东西
+------------------
+【12月18日·周三】
+Meta 推出 Apollo 开源模型，让 AI “看懂”视频
+Meta与斯坦福大学合作推出Apollo系列AI模型，提升机器对视频的理解能力。Apollo模型包含两个组件，分别处理视频帧和跟踪对象及场景变化，在视频片段间添加时间戳以保持时间感知。模型采用分阶段训练方法，强调训练方法的重要性。Meta优化数据组合，发现10-14%的文本数据与视频内容的平衡能提升语言理解和视频处理能力。来源：AI工具集
+------------------
+【12月18日·周三】
+AI 视频生成工具 PixVerse 上线视频生视频功能，体验视频延长乐趣
+爱诗科技推出的AI视频生成工具PixVerse上线 Video to Video（视频生视频）功能，可基于实拍视频或影视片段进行延长生成，进一步拓宽AI视频创作的可能性。登录PixVerse，上传视频，选择特效或直接输入提示词，体验无限延长的创作乐趣！来源：AI工具集
+------------------
+【12月18日·周三】
+OpenAI o1 推理模型 API 满血开放，成本暴降60%，定制升级
+OpenAI在第9天直播中发布o1模型API全面开放，成本降低60%，具有更高可定制性，新增函数调用、开发者消息和图像分析等功能。GPT-4o音频成本降低60%，mini版本价格降低10倍。OpenAI推出了偏好微调方法，通过成对样本比较学习使模型适应特定应用场景。实时API支持WebRTC，简化开发流程，降低价格，提供Python SDK支持。旨在提高开发效率和模型性能。来源：IT之家
+------------------
+【12月17日·周二】
+智谱完成30亿元新一轮融资，2024年商业化收入翻倍
+AI独角兽“智谱”完成30亿元新一轮融资，投资方包括战投及国资，老股东君联资本跟投。资金将用于大模型研发，提升复杂多模态任务处理能力。2024年智谱商业化收入翻倍，API年收入增长超30倍，智谱清言预计年收入超千万，用户超2500万。来源：智能涌现
+------------------
+【12月17日·周二】
+图森未来发布图生视频开源大模型“Ruyi”，RTX 4090就能运行
+图森未来发布“Ruyi”图生视频大模型，开源Ruyi-Mini-7B版本。Ruyi基于DiT架构，包含Casual VAE模块和Diffusion Transformer，参数量约7.1B，支持在RTX 4090等消费级显卡上运行。模型支持多分辨率、多时长视频生成，以及首帧、首尾帧控制生成和运动幅度控制。Ruyi旨在降低动漫和游戏内容的开发周期和成本。来源：AI工具集
+------------------
+【12月17日·周二】
+Meta Ray-Ban 智能眼镜大更新：“实时 AI”可持续分析用户所见内容
+Meta Ray-Ban智能眼镜v11版本更新，引入“实时AI”功能，能持续观察用户所见并进行自然对话，无需唤醒词即可互动，AI能记住用户提问并主动提供建议。更新还包括实时翻译功能，支持英语与西班牙语、法语、意大利语的交流，以及Shazam音乐识别集成。来源：IT之家
+------------------
+【12月17日·周二】
+谷歌发布AI图像生成新工具 Whisk，支持上传多张图片以图生图
+谷歌发布AI图像生成工具Whisk，支持通过上传图像来生成新图像，无需复杂的文本提示。可以为图像的主题、场景和风格提供多张图像作为提示，或者使用谷歌自动填充的AI生成图像。Whisk基于谷歌最新的Imagen 3图像生成模型，旨在提供快速的视觉探索，支持用户编辑和优化生成的图像。来源：AI工具集
+------------------
+【12月17日·周二】
+全球最大的仓储机器人公司赴港上市，蚂蚁英特尔是股东
+极智嘉作为全球最大的仓储履约AMR解决方案提供商，已向港交所提交招股书，计划在主板上市。极智嘉已连续五年保持领先地位，服务全球约770家终端客户，包括60家财富500强企业。公司三年半累计营收达59亿人民币，其中超70%收入来自中国大陆以外市场。极智嘉专注于AMR解决方案，旨在提高供应链效率，减少人工依赖，计划将IPO募集资金用于研发、市场扩张和供应链发展。来源：机器人前瞻
+------------------
+【12月17日·周二】
+谷歌版Sora迎来 Veo 2，升级4K高清！一句话控制镜头运动，Imagen 3 再进化
+谷歌版Sora升级至Veo 2.0，能根据文本或图像生成4K高清视频，理解镜头控制指令。在模拟现实物理和人类表情方面有显著提升，能精确遵循复杂的指令Prompt。在Meta基准数据集MovieGenBench上，Veo 2.0在整体偏好和指令遵循方面优于其他视频生成模型。同时，图像生成模型Imagen 3也得到增强，能生成多样化的艺术风格图像.来源：AI工具集
+------------------
+【12月17日·周二】
+OpenAI直播发布第8天：ChatGPT Search全面升级，免费开放，与Her打通了！
+OpenAI直播第8天，ChatGPT推出Search搜索功能升级，包括移动端优化和多模态信息搜索，结合Her功能实现实时通话中的语音搜索。基于微调后的GPT-4o模型，使用合成数据生成技术。将逐步向所有用户免费开放。来源：AI工具集
+------------------
+【12月16日·周一】
+Kimi 发布 k1 视觉思考模型，多项理科测试行业领先
+月之暗面 Kimi 今日发布k1 视觉思考模型，模型基于强化学习技术，支持端到端图像理解和思维链技术，覆盖数学、物理、化学等基础科学领域。k1模型在多项基准能力测试中表现超越全球标杆模型，现已上线Kimi智能助手APP及网页版，可通过拍照或传图体验模型推理思维链。来源：AI工具集
+------------------
+【12月16日·周一】
+腾讯微信正式发布多模态大模型 POINTS 1.5，10B参数下开源模型排名第一
+腾讯发布多模态大模型POINTS 1.5，继承了POINTS 1.0的LLaVA架构，包含视觉编码器、投影器和大语言模型。模型在效率和性能上均有显著提升，特别是在复杂场景OCR、推理能力、关键信息提取等方面表现出色。POINTS 1.5-7B在全球10B以下开源模型中排名第一，超越了Qwen2-VL、InternVL2等领先模型。来源：AI工具集
+------------------
+【12月16日·周一】
+PixVerse最新AI特效上线，心情不好，“爆炸”一下！
+爱诗科技PixVerseAI视频生成工具，在社交平台引发特效热潮，共上线12种变身特效，有火爆出圈的“毒液变身”，“压扁”，“爆炸”等，短短几天便迅速火遍抖音，备受好评。让用户创作解压又魔幻的视频内容，成为短视频创作者的”流量密码”。心情不好，“爆炸”一下！进入PixVerse，选择特效【万物皆可羊毛卷】，上传照片，卷起！来源：AI工具集
+------------------
+【12月16日·周一】
+OpenAI 推出 Projects，功能全家桶打造 ChatGPT 新交互方式，迈向“万能应用”
+OpenAI在“OpenAI 12天”活动第7天推出了ChatGPT的新功能Projects，功能支持用户上传文件、自定义指令、分组聊天和数据管理，整合Canvas和ChatGPT Search，提升用户体验。通过Projects，用户可以更便捷地执行写作、研究、编程和网络搜索等任务，为多步骤任务执行奠定基础。目前，已向ChatGPT Plus、Pro和Teams用户开放，企业版和教育版用户将在新年初获得访问权限。来源：AI工具集
+------------------
+【12月16日·周一】
+久等了，DeepSeek开源 DeepSeek-VL2 MoE视觉模型：支持动态分辨率、解析梗图等
+DeepSeek推出DeepSeek-VL2AI视觉模型，模型采用DeepSeek-MoE架构结合动态切图技术，提升视觉能力。模型在视觉定位、梗图解析、OCR和故事生成等方面展现出新能力。DeepSeek-VL2在多项评测中取得优异成绩，支持动态分辨率图像和长宽比，能更好地理解和生成视觉内容。来源：AI工具集
+------------------
+【12月16日·周一】
+上新！阶跃星辰 Step-1o 千亿参数端到端语音大模型来啦！
+阶跃星辰发布国内首个千亿参数端到端语音大模型Step-1o。模型支持语音和文本混合输入输出，具备高智商和情商，能理解语音背后的情绪信息，提供专业建议和情绪陪伴。Step-1o能创作生动的故事，适用于新闻播报、聊天陪伴等多个场景。近期将接入跃问App，提供实时语音通话服务。来源：AI工具集
+------------------
+【12月16日·周一】
+360 自研 AI 大模型 360gpt2-o1 正式上线，数学与逻辑推理新标杆
+360推出新一代AI大模型360gpt2-o1，模型结合多模态和新推理范式，具备自我反思与纠错能力。在数学和逻辑推理任务中，360gpt2-o1超越了前代模型及GPT4o等竞争对手。模型通过合成数据优化、后训练和“慢思考”技术，显著提升推理能力。现已在360智脑API平台上线，供用户和开发者使用。来源：AI工具集
+------------------
+【12月16日·周一】
+Meta 发布 Motivo AI 模型，打造更逼真元宇宙体验
+Meta发布Meta MotivoAI模型，通过控制类人数字智能体的动作来提升元宇宙体验。模型基于行为训练，在Mujoco模拟器中使用AMASS动作捕捉数据集和3000万在线交互样本，通过无监督强化学习算法预训练，展现出更接近人类的行为。来源：AI工具集
+------------------
+【12月13日·周五】
+快手开源全球首个”多视角视频生成”工具，解锁无限视角！
+快手开源全球首个”多视角视频生成”工具SynCamMaster，能从任意视点生成开放世界视频，解决了多视点间动态一致性问题。SynCamMaster通过即插即用模块增强预训练的文生视频模型，实现多摄像机视频生成，确保不同视点的内容一致性。实现出色的视点间同步，可扩展到新视图合成任务中。来源：AI工具集
+------------------
+【12月13日·周五】
+巨人网络发布”千影”有声游戏大模型，加码”游戏+AI”赛道
+巨人网络在2024年度中国游戏产业年会上发布”千影 QianYing“有声游戏生成大模型，包括游戏视频生成大模型YingGame和视频配音大模型YingSound。YingGame支持开放世界游戏角色动作交互控制和物理仿真特性，YingSound能为视频添加逼真音效。巨人网络AI实验室将推进模型升级，推动游戏创作平权时代的到来。来源：AI工具集
+------------------
+【12月13日·周五】
+微软推出14B参数小语言模型 Phi-4：专攻数学等领域复杂推理
+微软近日推出14B参数的小型语言模型Phi-4，模型在传统语言处理能力之外，特别擅长数学等领域的复杂推理。Phi-4在数学竞赛问题上的表现超越了多个更大规模的模型（如70B的Llama 3.3和72B的Qwen 2.5）。已将Phi-4在Azure AI Foundry上开放使用。来源：AI工具集
+------------------
+【12月13日·周五】
+OpenAI 数据中心提供商Crusoe融资6亿美元，估值28亿美元
+OpenAI的数据中心提供商Crusoe在最新一轮融资中筹集了6亿美元，由Founders Fund主导，Nvidia、Fidelity等参与，公司估值达到28亿美元。Crusoe开发AI数据中心，出租Nvidia GPU的云服务。公司正在德克萨斯州阿比林建设大型数据中心园区，将为Oracle和OpenAI提供服务，已筹集34亿美元债务以资助配备Nvidia下一代旗舰芯片Blackwell的项目。来源：Z Potentials
+------------------
+【12月13日·周五】
+Google 发布了「虚拟现实」版 Android XR，想让你把熟悉的应用「戴在头上」
+Google发布了全新的Android XR操作系统，专为下一代计算构建，兼容各种XR设备，从VR头显到AI眼镜。系统以Android为底层，集成AI能力，提供沉浸式体验，如实时信息查询和多窗口功能。Google提供开发工具包，帮助开发者将2D Android应用快速适配到XR平台。首批搭载Android XR的设备包括三星的Project Moohan VR头显，与高通合作的AR眼镜。来源：极客公园
+------------------
+【12月13日·周五】
+千寻智能一年三轮融资数亿元，构建下一代智慧劳动力
+千寻智能由产业老兵和清华教授联合创立的具身智能初创企业，已完成三轮融资数亿元。公司采用”数据金字塔”模式，结合互联网视频数据、仿真数据、遥操数据和强化学习，构建能控制各类机器人执行任务的具身模型，目标是打造下一代智慧劳动力。来源：Z Potentials
+------------------
+【12月13日·周五】
+OpenAI版《Her》全量来袭：实时视频对话，你每个动作AI都看得见
+OpenAI直播第六天，推出”Santa Mode”（圣诞模式），实现《Her》式视频通话功能。可通过点击”雪花”与AI进行圣诞老人风格对话，开启摄像头让AI”看见”你。新功能包括实时视频通话、屏幕共享和图片上传，即日将在ChatGPT移动应用中推出。一周内，将向所有团队用户以及大多数Plus和Pro用户开放。来源：量子位
+------------------
+【12月12日·周四】
+谷歌深夜炸场：Gemini 2.0 正式发布，主打Agent+多模态
+谷歌发布新一代AI模型Gemini 2.0，性能是前代1.5 Pro的两倍，支持多模态输入输出，包括图像、视频、音频等，可以原生调用 Google Search、代码执行以及第三方用户定义的函数等工具。新模型集成了深度研究功能，能生成复杂主题的研究报告，目前仅对Gemini Advanced用户使用。Gemini 2.0 Flash实验版已开放网页端试用，移动版即将推出，将扩展到旗下更多产品中。来源：AI工具集
+------------------
+【12月12日·周四】
+造梦次元完成近亿元人民币融资，多家顶级风投和大厂共同投资
+造梦次元完成近亿元人民币A轮融资，由锦秋基金领投，高榕创投、明势创投、商汤科技等参投。公司专注于多模态AI驱动的内容平台，提供虚拟角色互动体验，日均活跃互动时间超100分钟。融资将加速技术研发和市场拓展，优化创作者工具，拓展海外市场，重视内容安全与合规。来源：Z Potentials
+------------------
+【12月12日·周四】
+百度文库AI再升级，「专业PPT生成」功能上线！打工人终于有救了
+百度文库推出「专业PPT生成」功能，通过AI技术帮助用户一键生成高质量PPT。只需输入关键词或主题，可快速获得内容明确、主题突出的专业演示文稿。新功能采用商务化PPT版式，提供清晰的结构和视觉冲击力，支持个性化编辑，包括字体、颜色和动画效果，助力职场汇报和晋升。来源：百度文库服务号
+------------------
+【12月12日·周四】
+OpenAI直播第五天，OpenAI正式成为苹果AI的”贤内助”
+OpenAI与苹果达成合作，将ChatGPT集成进iOS、iPadOS和macOS系统。此次整合包括Siri协同、写作工具增强和iPhone相机控制功能。用户可通过Siri启用ChatGPT处理复杂任务，撰写和总结文档，基于视觉智能分析拍摄对象。合作使OpenAI成为苹果AI的“贤内助”，直接触达数十亿苹果设备用户，可能改变科技行业格局。来源：腾讯科技
+------------------
+【12月12日·周四】
+谷歌发布智能体原型 Mariner，能帮用户操作表格、在线购物
+谷歌发布名为Mariner的智能体原型，基于Gemini 2.0 AI模型，能自主浏览网站执行电子表格、在线购物等操作。Mariner旨在与用户协作，如在购物时可将商品加入购物车，但购买需用户完成。目前仅对少数测试者开放，处于实验阶段。来源：AI工具集
+------------------
+【12月12日·周四】
+全球首个”AI 程序员”Devin 全面开放：可独立开发/修复bug，月费500美元
+全球首个AI程序员Devin已全面开放，支持个人开发者和团队以每月500美元订阅服务，包括Slack集成、IDE扩展和技术支持。Devin能熟练使用多种编程语言，独立完成网站和应用构建、部署，能发现修复代码缺陷。Devin采用沙盒计算环境，内置代码编辑器和浏览器，能快速学习和适应新技术，理解复杂的编程上下文。来源：IT之家
+------------------
+【12月12日·周四】
+MidJourney 上线 Patchwork：用户化身“造物主”，AI 构造故事宇宙
+Midjourney推出Patchwork叙事工具，打造AI驱动的沉浸式故事世界。适用于小说作者、游戏开发者和艺术家等，用户在无限画布上构建角色、风格和背景故事。可以通过Midjourney账户登录，创建和保存包含所有图像链接的JSON文件，支持多达100名用户实时协作构建故事。来源：AI工具集
+------------------
+【12月11日·周三】
+字节内部判断AI对话类产品天花板可能不高，提升剪映即梦优先级
+字节跳动反思AI对话产品如豆包的局限性，认为可能仅为AI产品的“中间态”。豆包用户活跃度不高，日均使用时长和频次增长有限，商业化前景不明。字节计划资源转移至多模态产品，提升即梦产品优先级，探索更视觉化、低门槛的AI产品，打造AI时代的“抖音”。剪映月活高达1.7亿，全球排名第二。来源：智能涌现
+------------------
+【12月11日·周三】
+面壁智能完成新一轮数亿元融资，CEO称大模型正进入“真刀真枪”阶段
+面壁智能完成数亿元新一轮融资，由龙芯创投等联合领投，北京市人工智能产业投资基金跟投。面壁智能将加速端侧AI大模型商业化，以高性能、低能耗技术服务行业。CEO李大海表示，大模型技术进入实战阶段，面壁智能在端侧智能领域保持竞争力，致力于将高效AI技术带入各行各业。来源：钛媒体AGI
+------------------
+【12月11日·周三】
+OpenAI直播第四弹：Canvas全量开放，人+AI协作模式启动
+OpenAI宣布ChatGPT的Canvas功能全量开放，从聊天工具升级为生产力工具。Canvas整合进ChatGPT，支持用户与AI共同完成写作和编码项目。在Canvas上直接运行Python代码和Customgpt调用能力。OpenAI展示了Canvas的文字编辑、审稿、编程和图片识别功能，这一变革使ChatGPT更像一个拥有超强智能的Google Docs。来源：机器之心
+------------------
+【12月11日·周三】
+文小言电脑版正式发布，支持Windows和Mac免费下载，双端协同
+文小言电脑版正式发布，支持Windows和macOS系统免费下载，实现与APP的双端协同和消息互通。可以一键拖拽解析多种格式文件，针对原文提问，获得有据可依的回答。提升文本创作的效率，支持边搜索边编辑功能。来源：AI工具集
+------------------
+【12月11日·周三】
+DeepSeek V2 系列 AI 模型收官，推出 DeepSeek-V2.5-1210，联网搜索上线
+DeepSeek官方推出V2系列AI模型DeepSeek-V2.5-1210上线，支持联网搜索功能。模型在数学、代码、写作等方面取得进步，优化了文件上传。可在网页端体验搜索功能，API暂不支持。模型能分析网页信息，提供全面、准确答案。DeepSeek宣布V2系列模型收官，将告一段落，正在打造更强大的下一代基座模型 DeepSeek V3，敬请期待。来源：AI工具集
+------------------
+【12月11日·周三】
+ChatGPT语音负责人创业AI语音，a16z首轮重注4000万美金
+前ChatGPT语音负责人Conneau，创立 WaveForms AI 专注于音频LLM的新公司，旨在2025年前推出与OpenAI和Google竞争的AI音频产品。已获得a16z领投的4000万美元种子资金，开发能“用耳朵感受AGI”的技术，强调人机互动应与人际互动互补，而非取代。来源：Z Potentials
+------------------
+【12月10日·周二】
+字节视频生成模型PixelDance上线豆包，每日免费生成10个视频
+字节跳动的PixelDance视频生成模型在豆包电脑版开启内测，用户每日可免费生成10个视频。模型于9月底首次发布。内测反馈，10秒视频切换3-5次镜头效果最佳，场景和角色保持一致性。豆包将持续优化，助力用户创作。来源：IT之家
+------------------
+【12月10日·周二】
+智源研究院开源3D生成模型See3D，看3.2亿帧视频学会3D生成
+智源研究院推出无标注视频学习的3D生成模型See3D，采用新型视觉条件技术，能从大规模互联网视频中生成几何一致的多视角图像。See3D支持零样本和开放世界的3D生成，无需昂贵的相机标注，具备高效的3D编辑和表面重建能力。模型、代码、Demo均已开源。来源：AI工具集
+------------------
+【12月10日·周二】
+OpenAI 正式推出视频生成王者 Sora ，网页挤爆了！
+OpenAI 正式发布视频生成大模型Sora及其新版本 Sora Turbo，提供1080p分辨率、最长20秒的视频生成能力，支持宽屏、竖屏和方形比例。Sora Turbo版本提升了生成速度。所有视频带有C2PA元数据以验证来源。ChatGPT Plus用户每月可免费生成50个480P视频，Pro用户（月费200美元）享有更高分辨率和更长时长。来源：机器之心
+------------------
+【12月10日·周二】
+北京国资独家投资，小米投资首家工业大模型公司小雨智再造获亿元A轮融资
+北京小雨智造科技有限公司宣布完成亿元A轮融资，由北京信息产业发展投资基金独家投资。公司专注于工业领域大模型机器人技术，为机器人打造“通用大脑”。小雨智造已与松下等企业合作，推进智能焊接机器人市场，在航空航天、船舶制造等领域布局。来源：钛媒体AGI
+------------------
+【12月10日·周二】
+谷歌发布最强量子芯片 Willow，5分钟颠覆138亿年计算极限
+谷歌宣布最新量子芯片Willow取得重大突破，在基准测试中5分钟内完成一项标准计算，而最快的超级计算机需超过10^25年。Willow芯片破解了近30年的量子纠错挑战，能在更多量子比特下成倍减少错误。来源：AI工具集
+------------------
+【12月09日·周一】
+商汤办公小浣熊2.0，上新！AI原生一站式创作空间来了
+商汤科技推出升级版的办公小浣熊2.0，集成多项AI功能，包括信息检索、方案输出、文档创建和智能规划，用户通过“规划、分析、写作”三步法高效完成工作任务。升级版增强了数据分析和文档解析能力，可以通过对话生成文档，实时进行数据可视化和分析。来源：AI工具集
+------------------
+【12月09日·周一】
+马斯克新文生图模型Aurora闪现！网友抢时间疯狂实测：人物生成超逼真
+马斯克的xAI公司短暂上线新文生图模型Aurora，生成的人物图像逼真又高清。Aurora能理解简单的提示生成高质量的图像，能生成受版权保护角色和公众人物图像。模型上线数小时，网友已抢先进行实测，在人物写实生成方面表现出色。马斯克表示只是测试版，将很快改进。来源：AI工具集
+------------------
+【12月09日·周一】
+英伟达发布大模型NVILA，专注于优化准确性和效率
+英伟达发布新型开放式视觉语言模型NVILA，专注于提高准确性和效率。与LLaVa OneVision模型相比，NVILA的训练成本降低了4.5倍，微调内存减少了3.4倍，预填充和解码延迟降低了近2倍。在视频基准测试中表现优于GPT 4o Mini。来源：AI工具集
+------------------
+【12月09日·周一】
+智谱AI再放大招！全新多模态模型 GLM-4V-Flash 免费开放！
+智谱AI推出首个免费多模态模型GLM-4V-Flash，该模型基于4V系列，提升图像处理精确度，降低开发门槛。模型支持26种语言，具备图像描述生成、分类等高级功能，适用于信息提取、内容创作等多个场景。来源：AI工具集
+------------------
+【12月09日·周一】
+Meta今年压轴开源 AI 大模型Llama 3.3，700亿参数，性能比肩4050亿
+Meta发布AI大模型Llama 3.3，拥有700亿参数，性能媲美4050亿参数的Llama 3.1。模型效率更高、成本更低，支持8种语言，可在标准工作站上运行。采用优化的transformer架构，通过SFT和RLHF微调，确保与人类偏好一致。上下文长度为128K，支持与外部工具集成。来源：AI工具集
+------------------
+【12月09日·周一】
+OpenAI强化微调登场：几十条数据o1-mini反超o1暴涨80%，奥特曼：今年最大惊喜
+OpenAI的第2天直播推出新功能“强化微调”，仅需几十个例子可创建特定领域的专家模型。CEO奥特曼称为2024年最大惊喜。微调后的o1-mini模型得分提高80%，超过o1正式版。OpenAI已开启研究计划，支持开发者申请强化微调API的alpha版本。来源：量子位
+------------------
+【12月09日·周一】
+马斯克 xAI 公司 Grok AI 聊天机器人向免费用户开放，不再是会员专属
+马斯克的AI聊天机器人Grok已向X的免费用户开放，每两小时可最多发送10条消息。Grok定位为幽默型AI助手，今年增加了文生图功能，用的是Flux模型。来源：钛媒体AGI
+------------------
+【12月06日·周五】
+LiblibAI x 星流：正式推出新一代自研图像大模型Star-3 Alpha
+LiblibAI今日宣布推出新一代自研图像大模型Star-3 Alpha。模型基于F.1基础算法架构，提升图像精准度、色彩表现力和美学捕捉能力，提供高级感和真实感。可通过星流官网、Lib官网在线生图功能及API开放平台体验。来源：AI工具集
+------------------
+【12月06日·周五】
+通义实验室开源 ClearerVoice-Studio，高效去除背景噪声
+阿里通义实验室语音团队开源ClearerVoice-Studio技术框架，集成语音增强、分离和音视频说话人提取功能。通过复数域深度学习算法，有效消除背景噪声，保留语音清晰度，保持语音失真最小化。可在Github和HuggingFace Space上查看和试用。来源：AI工具集
+------------------
+【12月06日·周五】
+谷歌DeepMind推出AI气象预测模型GenCast，8分钟预测15日天气
+DeepMind气象预测大模型GenCast在Nature发表，能在8分钟内完成15天的天气预报，准确度超过全球顶尖中期天气预报系统ENS。GenCast基于扩散模型和Transformer技术，分辨率为0.25度经度/纬度。在1320种实验条件下，GenCast在97.2%的任务中比ENS更准确，在36小时后的预测中表现突出。来源：AI工具集
+------------------
+【12月06日·周五】
+豆包大模型团队开源FullStack Bench代码全新基准，覆盖超11类真实编程场景
+字节跳动豆包大模型团队开源全栈编程代码评估数据集FullStack Bench。FullStack Bench覆盖超11类真实编程场景和16种编程语言，包含3374个问题，有效评估大模型代码开发能力。为AI在真实编程场景中的表现提供快速评估参考。来源：AI工具集
+------------------
+【12月06日·周五】
+OpenAI第一场直播就炸场！o1满血版上线，ChatGPT Pro订阅费：200美元/月
+OpenAI发布最强推理模型o1满血版及其Pro版本，ChatGPT Pro订阅计划定价为200美金/月，成为全球最贵的大模型订阅服务。满血版o1在数学、代码能力上显著提升，推理速度比预览版快60%，支持多模态输入。Pro版本为订阅用户提供o1满血版的不限量访问权限，展示在高难度科学问答上的卓越表现。来源：量子位
+------------------
+【12月05日·周四】
+海螺AI推出图生视频模型I2V-01-Live，让静态二维图像动起来
+海螺AI推出图生视频模型I2V-01-Live，能将静态图像转成动态视频。模型基于深度学习，增强动作流畅度和真实性，支持多风格适配。上传2D插图，选择I2V-01-Live模型即可生成动态视频。来源：AI工具集
+------------------
+【12月05日·周四】
+DeepMind最强「基础世界模型」诞生！单图生1分钟游戏世界，解锁下一代智能体
+谷歌DeepMind发布第二代基础世界模型Genie 2，能从单图生成长达1分钟的3D游戏世界。支持键盘鼠标操作，模拟复杂交互和物理效果，为具身智能体提供无限训练数据。Genie 2的涌现能力包括物体交互、角色动画、物理效果等，为AI研究和游戏开发带来新可能。来源：新智元
+------------------
+【12月05日·周四】
+谷歌领跑AI视频生成赛道：抢先 OpenAI Sora推出Veo模型，可生成1080P高清视频
+谷歌宣布在Vertex AI平台上推出Veo模型的私测预览版，面向企业开放。Veo模型能根据文本或图像提示生成1080p高清视频，提供多种视觉风格。Veo生成的视频逼真度极高，如狗狗的毛皮和项圈在运动中保持一致，难以区分是否由AI生成。来源：IT之家
+------------------
+【12月05日·周四】
+OpenAI官宣12天12场新品发布会
+OpenAI宣布将举行为期12天的系列活动，期间每天发布一个新产品或样品。活动将包括备受期待的文字转视频工具Sora和新的推理模型。OpenAI CEO透露，周活跃用户数已超3亿，目标是到2025年增至10亿。来源：财联社
+------------------
+【12月05日·周四】
+红杉美国最新洞察：2025 年将是 Agent 元年！AI 智能体进入“群体协作”时代
+红杉美国合伙人Konstantine Buhler预测，2025年AI智能体将进入“群体协作”时代，多个智能体网络将协作完成复杂任务。他强调，AI技术将在医疗和教育领域发挥重要作用，降低成本、提高效率，推动社会进步。来源：有新Newin
+------------------
+【12月04日·周三】
+文心一言上线“深度写作”专业版功能：会自己搜素材的AI写作
+百度AI推出文心一言“深度写作”专业版，能自动搜索素材并创作个性化文章。可通过上传资料或网盘素材，使内容更具体。适用于多种文档创作，模板将持续更新。来源：百度AI
+------------------
+【12月04日·周三】
+刚刚！字节跳动豆包上线图片理解，大模型走向多模态
+字节跳动豆包APP和PC端新增图片理解功能，能识别图片内容并回答相关问题，如景点位置和动漫人物身份。标志着AI大模型向多模态发展，更加实用。豆包已成为中国日活用户最高的AI大模型产品，AI应用行业月活跃用户规模同比增长373%。来源：钛媒体
+------------------
+【12月04日·周三】
+亚马逊年末甩王炸！6款大模型、3nm AI芯片、全球最大AI计算集群，苹果罕见站台
+亚马逊在AWS re:Invent大会上宣布将推出6款大模型和3nm第三代AI训练芯片Trainum3，以及最强AI服务器Trn2 UltraServer。Amazon Nova系列模型涵盖文本、图像和视频，Reel模型支持生成6秒视频。AWS与Anthropic合作构建全球最大AI计算集群，Bedrock服务更新包括自动推理检查、多Agent协作和模型蒸馏功能.来源：智东西
+------------------
+【12月04日·周三】
+即梦2.1模型上线，一键生成图文融合设计图
+字节即梦AI发布全新绘图模型v2.1，10秒内一键生成中文海报。解决了中文嵌入问题，支持直接在图片上绘制中英文字体，具有高审美和泛化能力。可通过简单描述生成个性化海报，但需注意避免抄袭。来源：AI工具集
+------------------
+【12月04日·周三】
+The Browser Company计划推出新型AI网络浏览器Dia
+The Browser Company计划于2025年推出新款AI网络浏览器Dia。Dia具备人工智能功能，如从互联网获取事实、提供写作灵感、总结网页内容，能从打开的标签中复制信息，如亚马逊链接，插入电子邮件。来源：AI工具集
+------------------
+【12月04日·周三】
+WPS Office推出 WPS AI 语音速记功能
+WPS Office推出了WPS AI语音速记功能，通过WPS AI技术得到增强，与WPS云文档深度整合。支持实时录音和音频导入转文字，实现中英等多种语言互译，确保录音文件的完整性。声纹识别和AI自动总结功能提高转写准确率和速度，提供无缝衔接，确保高安全性能。来源：AI工具集
+------------------
+【12月03日·周二】
+腾讯正式发布AI视频产品：腾讯混元文生视频，预计下月推出图生视频模型
+腾讯今日正式推出了“腾讯混元文生视频”AI视频生成工具，该模型在指令遵循、动态表现、画面稳定性等方面表现出色，尤其在科幻、魔幻风格上给人惊喜。用户可以在腾讯元宝免费体验，每天免费3次。同时，腾讯混元文生视频已在Hugging Face和Github上开源，提供130亿参数的模型、权重和推理代码，供开发者免费使用。来源：AI工具集
+------------------
+【12月03日·周二】
+全面对决Suno，国产AI音乐三巨头的突围之战
+国内AI音乐领域三巨头——字节跳动的海绵音乐、昆仑万维的天工SkyMusic和趣丸科技的天谱乐，正与全球顶级产品Suno展开激烈竞争。通过提供个性化音乐生成、多模态配乐等创新功能，降低音乐创作门槛。来源：钛媒体
+------------------
+【12月03日·周二】
+快手预告“可灵 AI”导演共创计划作品 12 月 6 日上线：联合李少红、贾樟柯、叶锦添、薛晓路等
+快手宣布“可灵AI”导演共创计划作品将于12月6日上线，计划自9月9日启动，由9位导演联合发起，涵盖多种题材。9部短片全部由可灵AI进行视频生成。可灵AI服务用户已超500万，累计生成5100万个视频和1.5亿张图片，商业化单月流水超千万人民币。来源：IT之家
+------------------
+【12月03日·周二】
+全网热评的李飞飞世界生成模型，真的能构建物理世界吗？
+李飞飞的空间智能World Labs发布了世界生成模型，一个能从单张图片生成3D物理世界的AI系统，引起AI界热议。该技术突破在于直接生成三维场景，遵循物理规则，具有深度感和空间感，能实现场景控制和动态效果。来源：腾讯科技
+------------------
+【12月03日·周二】
+OpenAI考虑在AI产品中引入广告
+OpenAI首席财务官Sarah Friar透露，公司正在考虑将广告引入AI产品中，寻求新的收入来源。目前没有积极推进广告业务的计划，公司对探索其他收入渠道持开放态度。广告经验团队包括曾在Instagram和谷歌搜索广告团队任职的成员。目前，OpenAI主要通过出售AI模型API访问权限、ChatGPT会员收入和与微软合作获得收益。来源：第1财经
+------------------
+【12月03日·周二】
+360推出的自研360智脑7B参数大模型升级版
+360公司推出了自研AI大模型360智脑7B参数的升级版——360Zhinao2-7B。在中英文通用能力、数学逻辑推理能力方面有显著提升，在国内外同尺寸开源模型中多项能力排名第一。模型基于Transformer架构，采用自注意力机制和优化策略，已在GitHub和HuggingFace模型库上线。来源：AI工具集
+------------------
+【12月02日·周一】
+微信公众号后台新增“AI 配图”功能，支持文章配图和封面配图
+微信公众号后台最近推出了“AI 配图”功能，支持创作者通过简单的文字描述在十几秒内生成四张风格和比例可调的候选图片，用于文章配图。极大提高了内容创作的效率，还有效规避了图片版权问题，增强了内容生产的安全性。同时，文章封面图也支持AI配图。来源：IT之家
+------------------
+【12月02日·周一】
+ChatGPT两岁，OpenAI 10亿用户计划曝光！
+ChatGPT已经2岁了！OpenAI下一个目标瞄准十亿用户，预计明年放出AI智能体产品。就在生日这天，马斯克还送上了大礼：阻止OpenAI全面盈利的一份诉状书。来源：新智元
+------------------
+【12月02日·周一】
+实测腾讯元宝2.0：图文视频啥都能搜，论文绘画全搞定
+腾讯元宝2.0全新升级，集成AI搜索、阅读、生图等功能，打通公众号、视频号等资源，提供深度研究、脑图整理服务。新增创意绘画、灵感图库、AI美照等图片功能，以及应用广场。同时整合腾讯文档、电脑管家、搜狗输入法，提升工作效率和用户体验。来源：量子位
+------------------
+【12月02日·周一】
+可灵AI新增「AI换衣」功能！1.5 模型支持「首尾帧」
+可灵AI推出新功能“AI试衣”，用户只需2张图即可解锁新造型。1.5模型支持高品质视频制作，新增“首尾帧”功能，5s/10s均支持使用首尾帧。可灵AI 上线「灵感学院」！新手入门免费课程，帮你快速上手可灵AI。来源：可灵AI
+------------------
+【12月02日·周一】
+对话智谱CEO张鹏：大家对大模型期待过高，Scaling Law还有很大增长空间
+CEO张鹏认为，大家对大模型期待过高，但Scaling Law仍有增长空间。智谱AI定位“开放平台”，聚焦基座模型研发，已获九轮融资近60亿元，致力于AI智能体应用，推动人机交互变革。来源：钛媒体
+------------------
