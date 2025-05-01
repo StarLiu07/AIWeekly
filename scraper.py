@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import datetime
 import re
+import json
 
 def parse_news_date(date_str, current_year):
     # Extract date part like "4月30日"
@@ -15,7 +16,7 @@ def parse_news_date(date_str, current_year):
     try:
         # Combine with current year and parse
         date_obj = datetime.datetime.strptime(f"{current_year}年{date_part}", "%Y年%m月%d日").date()
-        return date_obj
+        return date_obj.isoformat() # Return ISO format string
     except ValueError:
         print(f"Error parsing date string: {date_str}")
         return None
@@ -31,31 +32,43 @@ def scrape_website(url, output_file):
         soup = BeautifulSoup(response.text, 'html.parser')
         news_items = soup.find_all('div', class_='news-item')
 
-        seven_days_ago = today - datetime.timedelta(days=7)
+        seven_days_ago = (today - datetime.timedelta(days=7)).isoformat() # Compare with ISO format
+
+        news_data = []
+        for item in news_items:
+            date_str_zh = item.find_previous_sibling('div', class_='news-date').get_text(strip=True)
+            # Correct the year if the news date is in the previous year
+            parsed_month = int(date_str_zh.split('月')[0])
+            year = current_year - 1 if parsed_month > current_month else current_year
+            news_date_iso = parse_news_date(date_str_zh, year) # Get ISO date
+
+            # Skip if date parsing failed or date is older than 7 days
+            if news_date_iso is None or news_date_iso < seven_days_ago:
+                continue
+
+            title = item.find('h2').get_text(strip=True)
+            desc = item.find('p', class_='text-muted').get_text(strip=True)
+
+            news_item_data = {
+                "date_zh": date_str_zh,
+                "date_iso": news_date_iso,
+                "title": title,
+                "description": desc
+            }
+            news_data.append(news_item_data)
+
+        now = datetime.datetime.now()
+        timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
+        output_data = {
+            "scrape_time": timestamp,
+            "news_count": len(news_data),
+            "news_items": news_data
+        }
 
         with open(output_file, "w", encoding="utf-8") as f:
-            now = datetime.datetime.now()
-            timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
-            f.write(f"爬取时间: {timestamp}\n\n")
-            news_written_count = 0
-            for item in news_items:
-                date_str = item.find_previous_sibling('div', class_='news-date').get_text(strip=True)
-                # Correct the year if the news date is in the previous year
-                parsed_month = int(date_str.split('月')[0])
-                year = current_year - 1 if parsed_month > current_month else current_year
-                news_date = parse_news_date(date_str, year)
+            json.dump(output_data, f, ensure_ascii=False, indent=4)
 
-                # Skip if date parsing failed or date is older than 7 days
-                if news_date is None or news_date < seven_days_ago:
-                    continue
-
-                title = item.find('h2').get_text(strip=True)
-                desc = item.find('p', class_='text-muted').get_text(strip=True)
-
-                f.write(f"【{date_str}】\n{title}\n{desc}\n------------------\n")
-                news_written_count += 1
-
-        print(f"Successfully extracted {news_written_count} news items from the last 7 days to {output_file}")
+        print(f"Successfully extracted {len(news_data)} news items from the last 7 days to {output_file}")
 
     except requests.exceptions.RequestException as e:
         print(f"Error during scraping: {e}")
@@ -64,7 +77,7 @@ def scrape_website(url, output_file):
 
 if __name__ == "__main__":
     url = "https://ai-bot.cn/daily-ai-news/"
-    output_file = "ai_news.txt"
+    output_file = "ai_news.json" # Changed output file extension
     if scrape_website(url, output_file):
         print("Scraping completed successfully.")
     else:
