@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Weekly News</title>
+    <link href="https://fonts.googleapis.com/css2?family=Alibaba+PuHuiTi:wght@700&family=Space+Grotesk:wght@300;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #0FB990;
+            --secondary: #101010;
+            --grid-line: rgba(16,16,16,0.05);
+            --tech-gradient: linear-gradient(45deg, 
+                rgba(15,185,144,0.1) 0%,
+                rgba(15,185,144,0.03) 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Alibaba PuHuiTi', sans-serif;
+            background: #f8f9fa;
+            color: #101010;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .background-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 200%;
+            height: 200%;
+            background: 
+                radial-gradient(circle, var(--grid-line) 1px, transparent 1px);
+            background-size: 20px 20px;
+            z-index: -1;
+            animation: float 20s linear infinite;
+        }
+
+        @keyframes float {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(-10px, -10px); }
+        }
+
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            padding: 4rem 2rem;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .hero-title {
+            font-size: 4rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin-bottom: 1rem;
+            line-height: 1.2;
+            position: relative;
+            z-index: 2;
+        }
+
+        .hero-subtitle {
+            font-size: 1.5rem;
+            color: #666;
+            font-family: 'Space Grotesk', sans-serif;
+            position: relative;
+            z-index: 2;
+        }
+
+        .tech-shape {
+            position: absolute;
+            width: 300px;
+            height: 300px;
+            background: var(--tech-gradient);
+            border-radius: 20%;
+            opacity: 0.3;
+            animation: shapeMove 20s infinite;
+        }
+
+        @keyframes shapeMove {
+            0% { transform: translate(0, 0) rotate(0deg); }
+            50% { transform: translate(50px, 50px) rotate(180deg); }
+            100% { transform: translate(0, 0) rotate(360deg); }
+        }
+
+        .news-section {
+            padding: 4rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .news-card {
+            background: white;
+            border-radius: 15px;
+            padding: 2rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+            opacity: 0;
+            transform: translateY(50px);
+            transition: all 0.8s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .news-card.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .date-tag {
+            font-size: 1.2rem;
+            color: var(--primary);
+            font-weight: 500;
+            margin-bottom: 1rem;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        .news-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin-bottom: 1.5rem;
+            line-height: 1.3;
+        }
+
+        .news-subtitle {
+            font-size: 1.1rem;
+            color: #666;
+            font-family: 'Space Grotesk', sans-serif;
+            margin-bottom: 1.5rem;
+        }
+
+        .news-content {
+            font-size: 1rem;
+            color: #333;
+            margin-bottom: 1.5rem;
+        }
+
+        .source {
+            font-size: 0.9rem;
+            color: #999;
+            font-style: italic;
+            border-left: 4px solid var(--primary);
+            padding-left: 1rem;
+            margin-top: 1rem;
+        }
+
+        .tech-decoration {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 100px;
+            height: 100px;
+            background: var(--tech-gradient);
+            opacity: 0.2;
+            z-index: 0;
+        }
+
+        .scroll-hint {
+            position: absolute;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.9rem;
+            color: var(--secondary);
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateX(-50%) translateY(0); }
+            50% { transform: translateX(-50%) translateY(10px); }
+        }
+
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+            
+            .news-title {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="background_grid"></div>
+    
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">AI Weekly<br>News Highlights</h1>
+            <p class="hero-subtitle">Explore the latest developments in artificial intelligence</p>
+        </div>
+        <div class="tech-shape" style="top: 20%; left: 10%;"></div>
+        <div class="tech-shape" style="bottom: 30%; right: 15%;"></div>
+        <div class="scroll-hint">Scroll Down</div>
+    </section>
+
+    <section class="news-section">
+        <div class="news-card">
+            <div class="date-tag">4月30日·周三</div>
+            <h2 class="news-title">智谱清言多项新功能上线</h2>
+            <p class="news-subtitle">Zhipu AI Launches New Features</p>
+            <p class="news-content">智谱清言宣布推出多项新功能，包括视频通话形象升级、定时提醒与邮件订阅功能、清影新版操作界面、AutoGLM沉思网页版上线。视频通话新增数字形象和自然动作表情，定时提醒功能可自动生成内容并通过App或邮件发送。AutoGLM沉思网页版新增Edge浏览器支持，优化多端体验。</p>
+            <div class="source">来源：智谱清言</div>
+            <div class="tech-decoration"></div>
+        </div>
+        
+        <div class="news-card">
+            <div class="date-tag">4月30日·周三</div>
+            <h2 class="news-title">小米首个推理大模型开源</h2>
+            <p class="news-subtitle">Xiaomi Open-sources First Reasoning Model</p>
+            <p class="news-content">小米开源首个推理大模型「Xiaomi MiMo」。模型专注于提升推理能力，通过联动预训练和后训练，在数学推理和代码竞赛公开测评集中，仅用7B参数规模就超越了OpenAI的o1-mini和阿里的QwQ-32B-Preview。MiMo在强化学习潜力上显著领先，采用三阶段预训练和创新的后训练算法，设计了Seamless Rollout系统加速训练。</p>
+            <div class="source">来源：Xiaomi MiMo</div>
+            <div class="tech-decoration"></div>
+        </div>
+        
+        <div class="news-card">
+            <div class="date-tag">4月30日·周三</div>
+            <h2 class="news-title">Meta推出独立AI助手应用</h2>
+            <p class="news-subtitle">Meta Launches Standalone AI Assistant</p>
+            <p class="news-content">Meta发布独立AI助手应用“Meta AI”，挑战ChatGPT。应用具备文字输入、语音对话、图像生成和实时搜索功能，最大创新是“发现”信息流，用户可查看并互动其他用户分享的AI交互内容。语音模式基于“全双工”AI模型，更具对话性，目前已在美国、加拿大、澳大利亚和新西兰上线。</p>
+            <div class="source">来源：IT之家</div>
+            <div class="tech-decoration"></div>
+        </div>
+        
+        <div class="news-card">
+            <div class="date-tag">4月29日·周二</div>
+            <h2 class="news-title">阿里通义发布Qwen3</h2>
+            <p class="news-subtitle">Alibaba Cloud Releases Qwen3</p>
+            <p class="news-content">Qwen团队发布最新大型语言模型Qwen3。开源8款混合推理模型，包括两款MoE模型（Qwen3-235B-A22B和Qwen3-30B-A3B）和六个Dense模型（Qwen3-32B至Qwen3-0.6B）。旗舰模型Qwen3-235B-A22B在代码、数学和通用能力测试中表现优异，与顶级模型DeepSeek-R1等相当。Qwen3支持119种语言和方言，具备思考模式和非思考模式，可灵活切换推理深度和响应速度。</p>
+            <div class="source">来源：通义千问Qwen</div>
+            <div class="tech-decoration"></div>
+        </div>
+        
+        <div class="news-card">
+            <div class="date-tag">4月29日·周二</div>
+            <h2 class="news-title">豆包视频功能升级</h2>
+            <p class="news-subtitle">Doubao Video Generation Upgrade</p>
+            <p class="news-content">豆包视频生成功能升级，在语义理解、影调画质、风格类型及动作连贯性等方面均有显著提升。支持更多样化的风格，包括彩铅、积木、黑白素描、像素和3D动画风格。可通过豆包App的“照片动起来”功能或在电脑版及网页版选择“视频生成”，输入文字或上传参考图免费体验。</p>
+            <div class="source">来源：豆包</div>
+            <div class="tech-decoration"></div>
+        </div>
+    </section>
+
+    <script>
+        // Intersection Observer for scroll animations
+        const cards = document.querySelectorAll('.news-card');
+        
+        const observerOptions = {
+            root: null,
+            rootMargin: '0px',
+            threshold: 0.1
+        };
+        
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+        
+        cards.forEach(card => {
+            observer.observe(card);
+        });
+    </script>
+</body>
+</html>
