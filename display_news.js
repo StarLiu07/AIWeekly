@@ -9,9 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 newsCard.classList.add('news-card');
 
                 newsCard.innerHTML = `
-                    <div class="news-card-image">
-                        <span>AI News Image</span>
-                    </div>
                     <p class="date-tag">${news.date_zh}</p>
                     <h2 class="news-title">${news.title}</h2>
                     <p class="news-subtitle"></p>
