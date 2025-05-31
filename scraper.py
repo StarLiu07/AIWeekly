@@ -6,13 +6,20 @@ import re
 import json
 
 def parse_news_date(date_str, current_year):
-    # Extract date part like "4月30日"
+    # Debug print to see actual date string format
+    print(f"Debug - raw date string: {date_str}")
+    
+    # Extract date part like "4月30日" or "5月30·周五"
     match = re.match(r"(\d{1,2}月\d{1,2}日)", date_str)
     if not match:
-        print(f"Could not parse date format: {date_str}")
-        return None
-
-    date_part = match.group(1)
+        # Try alternative format that includes weekday
+        match = re.match(r"(\d{1,2}月\d{1,2})", date_str)
+        if not match:
+            print(f"Could not parse date format: {date_str}")
+            return None
+        date_part = match.group(1) + "日"  # Add the "日" character
+    else:
+        date_part = match.group(1)
     try:
         # Combine with current year and parse
         date_obj = datetime.datetime.strptime(f"{current_year}年{date_part}", "%Y年%m月%d日").date()

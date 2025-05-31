@@ -7,12 +7,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Alibaba+PuHuiTi:wght@700&family=Space+Grotesk:wght@300;500&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary: #0FB990;
-            --secondary: #101010;
-            --grid-line: rgba(16,16,16,0.05);
+            --color-primary: #007AFF; /* Apple-like blue */
+            --color-secondary: #1C1C1E; /* Dark gray for text/elements */
+            --color-background: #F2F2F7; /* Light gray background */
+            --color-card-background: #FFFFFF; /* White for cards */
+            --color-text-light: #636366; /* Lighter gray for subtitles/meta */
+            --color-border: rgba(0,0,0,0.08); /* Subtle border color */
+            --grid-line: rgba(0,0,0,0.03); /* Very subtle grid */
             --tech-gradient: linear-gradient(45deg, 
-                rgba(15,185,144,0.1) 0%,
-                rgba(15,185,144,0.03) 100%);
+                rgba(0,122,255,0.1) 0%,
+                rgba(0,122,255,0.03) 100%); /* Blue gradient */
         }
 
         * {
@@ -23,10 +27,54 @@
 
         body {
             font-family: 'Alibaba PuHuiTi', sans-serif;
-            background: #f8f9fa;
-            color: #101010;
+            background: var(--color-background);
+            color: var(--color-secondary);
             line-height: 1.6;
             overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* Header Styles */
+        .main-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            z-index: 100;
+            padding: 1rem 2rem;
+            border-bottom: 1px solid var(--color-border);
+            transition: background 0.3s ease;
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .site-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--color-secondary);
+            letter-spacing: -0.02em;
+        }
+
+        .main-nav a {
+            color: var(--color-secondary);
+            text-decoration: none;
+            font-weight: 500;
+            margin-left: 2rem;
+            transition: color 0.3s ease;
+        }
+
+        .main-nav a:hover {
+            color: var(--color-primary);
         }
 
         .background-grid {
@@ -64,56 +112,70 @@
         }
 
         .hero-title {
-            font-size: 4rem;
+            font-size: 4.5rem; /* Slightly larger */
             font-weight: 700;
-            color: var(--secondary);
+            color: var(--color-secondary);
             margin-bottom: 1rem;
-            line-height: 1.2;
+            line-height: 1.1; /* Tighter line height */
             position: relative;
             z-index: 2;
+            letter-spacing: -0.03em; /* Tighter letter spacing */
         }
 
         .hero-subtitle {
-            font-size: 1.5rem;
-            color: #666;
+            font-size: 1.6rem; /* Slightly larger */
+            color: var(--color-text-light); /* Use new light text color */
             font-family: 'Space Grotesk', sans-serif;
             position: relative;
             z-index: 2;
+            max-width: 600px; /* Constrain width */
+            margin: 0.5rem auto 0; /* Adjust margin */
         }
 
         .tech-shape {
             position: absolute;
-            width: 300px;
-            height: 300px;
+            width: 350px; /* Slightly larger */
+            height: 350px; /* Slightly larger */
             background: var(--tech-gradient);
-            border-radius: 20%;
-            opacity: 0.3;
-            animation: shapeMove 20s infinite;
+            border-radius: 30%; /* More rounded */
+            opacity: 0.2; /* More subtle */
+            animation: shapeMove 25s infinite ease-in-out alternate; /* Slower, smoother */
+            filter: blur(50px); /* Soft blur */
         }
 
         @keyframes shapeMove {
-            0% { transform: translate(0, 0) rotate(0deg); }
-            50% { transform: translate(50px, 50px) rotate(180deg); }
-            100% { transform: translate(0, 0) rotate(360deg); }
+            0% { transform: translate(0, 0) rotate(0deg) scale(1); }
+            33% { transform: translate(80px, -40px) rotate(120deg) scale(1.05); }
+            66% { transform: translate(-60px, 60px) rotate(240deg) scale(0.95); }
+            100% { transform: translate(0, 0) rotate(360deg) scale(1); }
         }
 
         .news-section {
-            padding: 4rem 2rem;
-            max-width: 1200px;
+            padding: 6rem 2rem; /* More padding */
+            max-width: 1000px; /* Slightly narrower for content focus */
             margin: 0 auto;
+            display: grid; /* Use grid for layout */
+            grid-template-columns: 1fr; /* Single column by default */
+            gap: 3rem; /* Spacing between cards */
         }
 
         .news-card {
-            background: white;
-            border-radius: 15px;
-            padding: 2rem;
-            margin-bottom: 3rem;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+            background: var(--color-card-background);
+            border-radius: 20px; /* More rounded corners */
+            padding: 2.5rem; /* More padding */
+            margin-bottom: 0; /* Remove margin-bottom as grid handles spacing */
+            box-shadow: 0 15px 40px rgba(0,0,0,0.08); /* Stronger, softer shadow */
             opacity: 0;
-            transform: translateY(50px);
-            transition: all 0.8s ease;
+            transform: translateY(60px); /* Slightly more movement */
+            transition: all 0.9s cubic-bezier(0.2, 0.8, 0.2, 1); /* Smoother transition */
             position: relative;
             overflow: hidden;
+            border: 1px solid var(--color-border); /* Subtle border */
+        }
+
+        .news-card:hover {
+            transform: translateY(-5px); /* Lift on hover */
+            box-shadow: 0 20px 50px rgba(0,0,0,0.12); /* Enhanced shadow on hover */
         }
 
         .news-card.visible {
@@ -121,83 +183,136 @@
             transform: translateY(0);
         }
 
-        .date-tag {
-            font-size: 1.2rem;
-            color: var(--primary);
-            font-weight: 500;
-            margin-bottom: 1rem;
+        .news-card-image { /* New style for image placeholder */
+            width: 100%;
+            height: 250px;
+            background: var(--color-background);
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--color-text-light);
             font-family: 'Space Grotesk', sans-serif;
+            font-size: 1.1rem;
+            overflow: hidden; /* Ensure image fits */
+        }
+
+        .date-tag {
+            font-size: 1.1rem; /* Slightly smaller */
+            color: var(--color-primary); /* Use new primary color */
+            font-weight: 500;
+            margin-bottom: 0.8rem; /* Adjust margin */
+            font-family: 'Space Grotesk', sans-serif;
+            letter-spacing: 0.05em; /* Slight letter spacing */
+            text-transform: uppercase; /* Uppercase */
         }
 
         .news-title {
-            font-size: 2.5rem;
+            font-size: 2.2rem; /* Slightly smaller, more refined */
             font-weight: 700;
-            color: var(--secondary);
-            margin-bottom: 1.5rem;
-            line-height: 1.3;
+            color: var(--color-secondary);
+            margin-bottom: 1rem; /* Adjust margin */
+            line-height: 1.2;
+            letter-spacing: -0.02em; /* Tighter letter spacing */
         }
 
         .news-subtitle {
-            font-size: 1.1rem;
-            color: #666;
+            font-size: 1rem; /* Slightly smaller */
+            color: var(--color-text-light); /* Use new light text color */
             font-family: 'Space Grotesk', sans-serif;
             margin-bottom: 1.5rem;
         }
 
         .news-content {
             font-size: 1rem;
-            color: #333;
+            color: var(--color-secondary); /* Use secondary color for main content */
             margin-bottom: 1.5rem;
         }
 
         .source {
-            font-size: 0.9rem;
-            color: #999;
-            font-style: italic;
-            border-left: 4px solid var(--primary);
-            padding-left: 1rem;
-            margin-top: 1rem;
+            font-size: 0.85rem; /* Slightly smaller */
+            color: var(--color-text-light); /* Use new light text color */
+            font-style: normal; /* Remove italic */
+            border-left: 3px solid var(--color-primary); /* Thinner border */
+            padding-left: 0.8rem; /* Adjust padding */
+            margin-top: 1.5rem; /* Adjust margin */
         }
 
         .tech-decoration {
             position: absolute;
-            top: 0;
-            right: 0;
-            width: 100px;
-            height: 100px;
+            top: -20px; /* Adjust position */
+            right: -20px; /* Adjust position */
+            width: 120px; /* Slightly larger */
+            height: 120px; /* Slightly larger */
             background: var(--tech-gradient);
-            opacity: 0.2;
+            opacity: 0.15; /* More subtle */
             z-index: 0;
+            border-radius: 40%; /* More rounded */
+            filter: blur(30px); /* Soft blur */
         }
 
         .scroll-hint {
             position: absolute;
-            bottom: 2rem;
+            bottom: 3rem; /* Adjust position */
             left: 50%;
             transform: translateX(-50%);
             font-size: 0.9rem;
-            color: var(--secondary);
+            color: var(--color-text-light); /* Use new light text color */
             animation: bounce 2s infinite;
         }
 
         @keyframes bounce {
             0%, 100% { transform: translateX(-50%) translateY(0); }
-            50% { transform: translateX(-50%) translateY(10px); }
+            50% { transform: translateX(-50%) translateY(15px); } /* More bounce */
         }
 
         @media (max-width: 768px) {
             .hero-title {
-                font-size: 2.5rem;
+                font-size: 3rem; /* Adjust for mobile */
             }
             
+            .hero-subtitle {
+                font-size: 1.2rem;
+            }
+
             .news-title {
                 font-size: 1.8rem;
+            }
+
+            .main-header {
+                padding: 0.8rem 1rem;
+            }
+
+            .site-title {
+                font-size: 1.5rem;
+            }
+        }
+
+        @media (min-width: 769px) and (max-width: 1024px) {
+            .news-section {
+                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Two columns on tablets */
+            }
+        }
+
+        @media (min-width: 1025px) {
+            .news-section {
+                grid-template-columns: repeat(2, 1fr); /* Two columns on larger screens */
             }
         }
     </style>
 </head>
 <body>
-    <div class="background_grid"></div>
+    <div class="background-grid"></div>
+
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="site-title">AI Weekly News</h1>
+            <nav class="main-nav">
+                <!-- Navigation links can go here if needed later -->
+            </nav>
+        </div>
+    </header>
     
     <section class="hero">
         <div class="hero-content">
@@ -209,9 +324,28 @@
         <div class="scroll-hint">Scroll Down</div>
     </section>
 
-<section class="news-section">
-    
-</section>
+    <section class="news-section">
+        <!-- News articles will be dynamically injected here by JavaScript -->
+        <!-- Example News Card Structure (for styling reference) -->
+        <!--
+        <div class="news-card">
+            <div class="news-card-image">
+                <span>Image Placeholder</span>
+            </div>
+            <p class="date-tag">May 31, 2025</p>
+            <h2 class="news-title">Sample News Title: Breakthrough in AI Research</h2>
+            <p class="news-subtitle">A brief, engaging subtitle for the news article.</p>
+            <p class="news-content">
+                This is a placeholder for the main content of the news article. 
+                It will be populated dynamically from a JSON file. 
+                The content should be concise and informative, providing key details 
+                about the AI development.
+            </p>
+            <p class="source">Source: Example AI Journal</p>
+            <div class="tech-decoration"></div>
+        </div>
+        -->
+    </section>
 
     <script>
         // Intersection Observer for scroll animations
@@ -232,6 +366,8 @@
             });
         }, observerOptions);
         
+        // This part will be updated when news cards are dynamically added
+        // For now, it observes existing (empty) cards or will be re-run after content injection
         cards.forEach(card => {
             observer.observe(card);
         });
